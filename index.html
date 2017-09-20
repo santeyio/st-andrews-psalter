@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="manifest" href="/static/manifest.json">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>psalter</title>
+  </head>
+  <body>
+    <div id="app">
+   	  <!-- built files will be auto injected -->
+		</div>
+		<!-- Register serivce worker for offline app use -->
+		<script>
+			if ('serviceWorker' in navigator) {
+				navigator.serviceWorker.register('/static/sw.js').then(function(reg) {
+					console.log('Yey!', reg);
+				}).catch(function(err) {
+					console.log('Boo!', err);
+				}); 
+			}
+		</script>
+  </body>
+</html>
