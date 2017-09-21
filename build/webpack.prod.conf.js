@@ -99,7 +99,7 @@ var webpackConfig = merge(baseWebpackConfig, {
         ignore: ['.*']
       }
     ]),
-    new ManifestPlugin(),
+    //new ManifestPlugin(),
     new WorkboxPlugin({
       globDirectory: config.build.assetsRoot,
       globPatters: ['**\/*.{html,js,css,png}'],
