@@ -13,7 +13,7 @@ export default new Router({
       component: Psalms,
     },
     {
-      path: '/psalm/:id',
+      path: 'psalm/:id',
       name: 'Psalm',
       component: Psalm,
     },
