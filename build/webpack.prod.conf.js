@@ -100,11 +100,11 @@ var webpackConfig = merge(baseWebpackConfig, {
       }
     ]),
     //new ManifestPlugin(),
-    //new WorkboxPlugin({
-      //globDirectory: config.build.assetsRoot,
-      //globPatters: ['**\/*.{html,js,css,png}'],
-      //swDest: path.join(config.build.assetsRoot, '/static/sw.js'),
-    //}),
+    new WorkboxPlugin({
+      globDirectory: config.build.assetsRoot,
+      globPatters: ['**\/*.{html,js,css,png}'],
+      swDest: path.join(config.build.assetsRoot, '/sw/sw.js'),
+    }),
   ]
 })
 
