@@ -6,6 +6,7 @@ import Psalms from '@/components/Psalms';
 Vue.use(Router);
 
 export default new Router({
+  base: '/st-andrews-psalter/',
   routes: [
     {
       path: '/',
