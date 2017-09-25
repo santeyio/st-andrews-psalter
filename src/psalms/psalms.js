@@ -78,4 +78,37 @@ As it was in the beginning, is now, and ever shall be, <br/>
     `,
     tone: '4',
   },
+  '3': {
+    text: `
+LORD , how are they increased <u>that</u> trouble me! *<br/>
+many are they <u>that rise</u> against me. <br/>
+<br/>
+2 Many one there be that say of <u>my</u> soul, *<br/>
+There is no help <u>for him</u> in his God.<br/>
+<br/>
+3 But thou, O LORD , art my <u>de</u>fender; *<br/>
+thou art my worship, and the lift<u>er up</u> of my head.<br/>
+<br/>
+4 I did call upon the LORD with <u>my</u> voice, *<br/>
+and he heard <u>me out of</u> his holy hill.<br/>
+<br/>
+5 I laid me down and slept, and rose up <u>ag</u>ain; *<br/>
+for <u>the LORD</u> sustained me. <br/>
+<br/>
+6 I will not be afraid for ten thousands of <u>the</u> people, *<br/>
+that have set themselves <u>against</u> me round about.<br/>
+<br/>
+7 Up, LORD , and help me, O <u>my</u> God, *<br/>
+for thou smitest all mine enemies upon the cheek-bone;<br/>
+  thou hast broken the teeth <u>of the</u> ungodly.<br/>
+<br/>
+8 Salvation belongeth unto <u>the</u> LORD ; * <br/>
+and thy blessing is <u>upon</u> thy people.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be, <br/>
+  <u>world with</u>out end. Amen.<br/>
+    `,
+    tone: '6',
+  },
 };
