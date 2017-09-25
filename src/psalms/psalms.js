@@ -107,7 +107,7 @@ and thy blessing is <u>upon</u> thy people.<br/>
 <br/>
 Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
 As it was in the beginning, is now, and ever shall be, <br/>
-  <u>world with</u>out end. Amen.<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
     tone: '6',
   },
