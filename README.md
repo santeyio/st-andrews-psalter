@@ -1,6 +1,6 @@
 # psalter
 
-> A Vue.js project
+This is the Coverdale Psalter put to modified Gregorian tones by Jeffrey Cooper put into progressive web app format. I use these psalms daily, and it's kind of a pain to scroll through the PDF I have so I decided to put them into PWA so I can use them easier. I've been wanting to experiment with some of this PWA stuff as well, so interests aligned. 
 
 ## Build Setup
 
@@ -25,6 +25,4 @@ npm run e2e
 
 # run all tests
 npm test
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
