@@ -199,5 +199,107 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '6': {
+    tone: '4',
+    text: `
+O LORD , rebuke me not in thine <u>indig</u>nation, *<br/>
+neither chasten me <u>in thy</u> displeasure.<br/>
+<br/>
+2 Have mercy upon me, O LORD , for <u>I am</u> weak; *<br/>
+O LORD , heal <u>me, for</u> my bones are vexed.<br/>
+<br/>
+3 My soul also <u>is sore</u> troubled: *<br/>
+but, LORD , <u>how long wilt</u> thou punish me?<br/>
+<br/>
+4 Turn thee, O LORD , and de<u>liver my</u> soul; *<br/>
+O save <u>me, for</u> thy mercy's sake.<br/>
+<br/>
+5 For in death no <u>man re</u>membereth thee; *<br/>
+and who will give <u>thee thanks</u> in the pit?<br/>
+<br/>
+6 I am weary <u>of my</u> groaning; *<br/>
+every night wash I my bed, and water <u>my couch</u> with my tears.<br/>
+<br/>
+7 My beauty is gone for <u>very</u> trouble, *<br/>
+and worn away because <u>of all</u> mine enemies.<br/>
+<br/>
+8 Away from me, all ye that <u>work in</u>iquity; *<br/>
+for the LORD hath heard <u>the voice of</u> my weeping.<br/>
+<br/>
+9 The LORD hath heard <u>my pe</u>tition; *<br/>
+<u>the LORD will</u> receive my prayer.<br/>
+<br/>
+10 All mine enemies shall be confounded, <u>and sore</u> vexed; *<br/>
+they shall be turned back, <u>and put to</u> shame suddenly.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '7': {
+    tone: '8',
+    text: `
+O LORD my God, in thee have I put my <u>trust</u>: *<br/>
+save me from all them that persecute me, <u>and</u> deliver me;<br/>
+<br/>
+2 Lest he devour my soul like a lion, and tear it in <u>pie</u>ces, *<br/>
+while <u>there</u> is none to help.<br/>
+<br/>
+3 O LORD my God, if I have done any such <u>thing</u>; *<br/>
+or if there be any <u>wicked</u>ness in my hands;<br/>
+<br/>
+4 If I have rewarded evil unto him that dealt <u>friend</u>ly with me; *<br/>
+(yea, I have delivered him that without any <u>cause is</u> mine enemy;)<br/>
+<br/>
+5 Then let mine enemy persecute my soul, and <u>take</u> me; *<br/>
+yea, let him tread my life down upon the earth,<br/>
+&nbsp;&nbsp;and lay mine <u>hon</u>our in the dust.<br/>
+<br/>
+6 Stand up, O LORD , in thy wrath,<br/>
+&nbsp;&nbsp;and lift up thyself, because of the indignation of mine <u>en</u>emies; *<br/>
+arise up for me in the judgment that <u>thou hast</u> commanded.<br/>
+<br/>
+7 And so shall the congregation of the peoples come ab<u>out</u> thee: *<br/>
+for their sakes therefore <u>lift up</u> thyself again.<br/>
+<br/>
+8 The LORD shall judge the peoples:<br/>
+&nbsp;&nbsp;give sentence with me, O LORD , according to my <u>right</u>eousness, *<br/>
+and according to the innocency <u>that</u> is in me.<br/>
+<br/>
+9 O let the wickedness of the ungodly come to an <u>end</u>; *<br/>
+but <u>guide</u> thou the just.<br/>
+<br/>
+10 For the righteous <u>God</u> *<br/>
+trieth the <u>ve</u>ry hearts and reins.<br/>
+<br/>
+11 My help cometh of <u>God</u>, *<br/>
+who preserveth <u>them that</u> are true of heart.<br/>
+<br/>
+12 God is a righteous Judge, strong, and <u>pat</u>ient; *<br/>
+and God is pro<u>voked</u> every day.<br/>
+<br/>
+13 If a man will not turn, he will whet his <u>sword</u>; *<br/>
+he hath bent his bow, and <u>made</u> it ready.<br/>
+<br/>
+14 He hath prepared for him the instruments of <u>death</u>; *<br/>
+he ordaineth his arrows a<u>gainst</u> the persecutors.<br/>
+<br/>
+15 Behold, the ungodly travaileth with i<u>ni</u>quity; *<br/>
+he hath conceived mischief, and <u>brought</u> forth falsehood.<br/>
+<br/>
+16 He hath graven and digged up a <u>pit</u>, *<br/>
+and is fallen himself into the destruction that he <u>made</u> for other.<br/>
+<br/>
+17 For his travail shall come upon his own <u>head</u>, *<br/>
+and his wickedness shall fall <u>on</u> his own pate.<br/>
+<br/>
+18 I will give thanks unto the LORD , according to his <u>right</u>eousness;<br/>
+* and I will praise the <u>Name of</u> the LORD Most High.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
-
