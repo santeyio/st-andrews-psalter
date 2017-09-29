@@ -302,4 +302,111 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '8': {
+    tone: '5',
+    text: `
+O LORD our Governor, how excellent is thy Name in all the <u>world</u>;<br/>
+* thou that hast set thy glory a<u>bove the</u> heavens!<br/>
+<br/>
+2 Out of the mouth of very babes and sucklings hast thou ordained<br/>
+strength,<br/>
+&nbsp;&nbsp;because of thine <u>en</u>emies, *<br/>
+that thou mightest still the enemy <u>and the a</u>venger.<br/>
+<br/>
+3 When I consider thy heavens, even the work of thy <u>fin</u>gers; *<br/>
+the moon and the stars which <u>thou hast</u> ordained;<br/>
+<br/>
+4 What is man, that thou art <u>mind</u>ful of him? *<br/>
+and the son of man, <u>that thou</u> visitest him?<br/>
+<br/>
+5 Thou madest him lower than the <u>an</u>gels, *<br/>
+to crown him with <u>glory and</u> worship.<br/>
+<br/>
+6 Thou makest him to have dominion of the works of thy <u>hands</u>; *<br/>
+and thou hast put all things in subjection <u>under</u> his feet:<br/>
+<br/>
+7 All sheep and <u>ox</u>en; *<br/>
+yea, and the <u>beasts of</u> the field;<br/>
+<br/>
+8 The fowls of the air, and the fishes of the <u>sea</u>; *<br/>
+and whatsoever walketh through the <u>paths of</u> the seas.<br/>
+<br/>
+9 O LORD our <u>Go</u>vernor, *<br/>
+how excellent is thy <u>Name in</u> all the world!<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+  '9': {
+    tone: '6',
+    text: `
+I will give thanks unto thee, O LORD , with my <u>whole</u> heart; *<br/>
+I will speak of all <u>thy mar</u>vellous works.<br/>
+<br/>
+2 I will be glad and rejoice <u>in</u> thee; *<br/>
+yea, my songs will I make of thy Name, <u>O thou</u> Most Highest.<br/>
+<br/>
+3 While mine enemies are driv<u>en</u> back, *<br/>
+they shall fall and per<u>ish at</u> thy presence.<br/>
+<br/>
+4 For thou hast maintained my right and <u>my</u> cause; *<br/>
+thou art set in <u>the throne</u> that judgest right.<br/>
+<br/>
+5 Thou hast rebuked the heathen, and destroyed the <u>un</u>godly; *<br/>
+thou hast put out their name <u>for ever</u> and ever.<br/>
+<br/>
+6 O thou enemy, thy destructions are come to a perpe<u>tual</u> end; *<br/>
+even as the cities which thou hast destroyed,<br/>
+&nbsp;&nbsp;whose memorial <u>is per</u>ished with them.<br/>
+<br/>
+7 But the LORD shall endure <u>for</u> ever; *<br/>
+he hath also prepared <u>his seat</u> for judgment.<br/>
+<br/>
+8 For he shall judge the world <u>in</u> righteousness, *<br/>
+and minister true judg<u>ment unto</u> the people.<br/>
+<br/>
+9 The LORD also will be a defence for the <u>opp</u>ressed, *<br/>
+even a refuge in <u>due</u> time of trouble.<br/>
+<br/>
+10 And they that know thy Name will put their trust <u>in</u> thee; *<br/>
+for thou, LORD , hast nev<u>er failed them</u> that seek thee.<br/>
+<br/>
+11 O praise the LORD which dwelleth <u>in</u> Sion; *<br/>
+show the peo<u>ple of</u> his doings.<br/>
+<br/>
+12 For when he maketh inquisition for blood, he <u>re</u>membereth them, *<br/>
+and forgetteth not the <u>comp</u>laint of the poor.<br/>
+<br/>
+13 Have mercy upon me, O LORD ;<br/>
+&nbsp;&nbsp;consider the trouble which I suffer of them <u>that</u> hate me, *<br/>
+thou that liftest <u>me up from</u> the gates of death;<br/>
+<br/>
+14 That I may show all thy praises within the gates of the daughter <u>of</u> Sion: *<br/>
+I will rejoice <u>in thy</u> salvation.<br/>
+<br/>
+15 The heathen are sunk down in the pit that <u>they</u> made; *<br/>
+in the same net which they hid privily <u>is their</u> foot taken.<br/>
+<br/>
+16 The LORD is known to exe<u>cute</u> judgment; *<br/>
+the ungodly is trapped in <u>the work of</u> his own hands.<br/>
+<br/>
+17 The wicked shall be turned to <u>de</u>struction, *<br/>
+and all the peo<u>ple that</u> forget God.<br/>
+<br/>
+18 For the poor shall not alway be <u>for</u>gotten; *<br/>
+the patient abiding of the meek shall <u>not perish</u> for ever.<br/>
+<br/>
+19 Up, LORD , and let not man have the up<u>per</u> hand; *<br/>
+let the heathen <u>be judged</u> in thy sight.<br/>
+<br/>
+20 Put them in fear, <u>O </u>LORD , *<br/>
+that the heathen may know <u>themselves</u> to be but men.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
