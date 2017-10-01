@@ -409,4 +409,76 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '10': {
+    tone: '2',
+    text: `
+Why standest thou so far <u>off</u>, O LORD , *<br/>
+and hidest thy face in the needful <u>time of</u> trouble?<br/>
+<br/>
+2 The ungodly, for his own lust, doth persecute the <u>poor</u>: *<br/>
+let them be taken in the crafty wiliness that <u>they have</u> imagined.<br/>
+<br/>
+3 For the ungodly hath made boast of his own heart's de<u>sire</u>, *<br/>
+and speaketh good of the covetous, whom the <u>LORD</u> abhorreth.<br/>
+<br/>
+4 The ungodly is so proud, that he careth not for <u>God</u>, *<br/>
+neither is God in <u>all</u> his thoughts.<br/>
+<br/>
+5 His ways are alway <u>griev</u>ous; *<br/>
+thy judgments are far above out of his sight,<br/>
+&nbsp;&nbsp;and therefore defieth he <u>all</u> his enemies.<br/>
+<br/>
+6 For he hath said in his heart, Tush, I shall never be cast <u>down</u>, *<br/>
+there shall no harm happen <u>un</u>to me.<br/>
+<br/>
+7 His mouth is full of cursing, deceit, and <u>fraud</u>; *<br/>
+under his tongue is ungodli<u>ness</u> and vanity.<br/>
+<br/>
+8 He sitteth lurking in the thievish corners of the <u>streets</u>, *<br/>
+and privily in his lurking dens doth he murder the innocent;<br/>
+&nbsp;&nbsp;his eyes are set a<u>gainst</u> the poor.<br/>
+<br/>
+9 For he lieth waiting secretly; even as a lion lurketh he in his <u>den</u>, *<br/>
+that he may <u>ravish</u> the poor.<br/>
+<br/>
+10 He doth ravish the <u>poor</u>, *<br/>
+when he getteth him <u>into</u> his net.<br/>
+<br/>
+11 He falleth down, and <u>humb</u>leth himself, *<br/>
+that the congregation of the poor may fall into the <u>hands of</u> his<br/>
+captains.<br/>
+<br/>
+12 He hath said in his heart, Tush, God hath for<u>got</u>ten; *<br/>
+he hideth away his face, and he will <u>nev</u>er see it.<br/>
+<br/>
+13 Arise, O LORD God, and lift up thine <u>hand</u>; *<br/>
+for<u>get not</u> the poor.<br/>
+<br/>
+14 Wherefore should the wicked blaspheme <u>God</u>, *<br/>
+while he doth say in his heart, Tush, thou God <u>car</u>est not for it?<br/>
+<br/>
+15 Surely thou hast <u>seen</u> it; *<br/>
+for thou beholdest ungodliness and wrong,<br/>
+&nbsp;&nbsp;that thou mayest take the matter <u>into</u> thy hand.<br/>
+<br/>
+16 The poor committeth himself unto <u>thee</u>; *<br/>
+for thou art the helper <u>of</u> the friendless.<br/>
+<br/>
+17 Break thou the power of the ungodly and ma<u>li</u>cious; *<br/>
+search out his ungodliness, until <u>thou</u> find none.<br/>
+<br/>
+18 The LORD is King for ever and <u>ev</u>er, *<br/>
+and the heathen are perished <u>out of</u> the land.<br/>
+<br/>
+19 LORD , thou hast heard the desire of the <u>poor</u>; *<br/>
+thou preparest their heart, and <u>thine</u> ear hearkeneth;<br/>
+<br/>
+20 To help the fatherless and poor unto their <u>right</u>, *<br/>
+that the man of the earth be no more ex<u>alted</u> against them.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
