@@ -481,4 +481,40 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '11': {
+    tone: '5b',
+    text: `
+In the LORD put I my <u>trust</u>; *<br/>
+how say ye then to my soul,<br/>
+&nbsp;&nbsp;that she should flee as a <u>bird</u> unto the hill?<br/>
+<br/>
+2 For lo, the ungodly bend their bow,<br/>
+&nbsp;&nbsp;and make ready their arrows within the <u>qui</u>ver, *<br/>
+that they may privily shoot at <u>them which</u> are true of heart.<br/>
+<br/>
+3 If the foundations be des<u>troyed</u>, *<br/>
+what <u>can</u> the righteous do?<br/>
+<br/>
+4 The LORD is in his holy <u>tem</u>ple; *<br/>
+the LORD ' S seat <u>is</u> in heaven.<br/>
+<br/>
+5 His eyes consider the <u>poor</u>, *<br/>
+and his eyelids try the <u>chil</u>dren of men.<br/>
+<br/>
+6 The LORD approveth the <u>right</u>eous: *<br/>
+but the ungodly, and him that delighteth in wickedness,<br/>
+&nbsp;&nbsp;<u>doth</u> his soul abhor.<br/>
+<br/>
+7 Upon the ungodly he shall rain snares,<br/>
+&nbsp;&nbsp;fire and brimstone, storm and <u>tem</u>pest: *<br/>
+this shall be their <u>por</u>tion to drink.<br/>
+<br/>
+8 For the righteous LORD loveth <u>right</u>eousness; *<br/>
+his countenance will behold the <u>thing</u> that is just.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spir</u>it; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
 };
