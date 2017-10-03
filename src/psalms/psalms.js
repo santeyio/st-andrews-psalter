@@ -517,4 +517,42 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
     `,
   },
+  '12': {
+    tone: '4',
+    text: `
+Help me, LORD , for there is not one <u>godly man</u> left; *<br/>
+for the faithful are minished from among <u>the child</u>ren of men.<br/>
+<br/>
+2 They talk of vanity every one <u>with his</u> neighbour; *<br/>
+they do but flatter with their lips,<br/>
+&nbsp;&nbsp;and dissem<u>ble in</u> their double heart.<br/>
+<br/>
+3 The LORD shall root out all de<u>ceitful</u> lips, *<br/>
+and the tongue <u>that speak</u>eth proud things;<br/>
+<br/>
+4 Which have said, With our tongue will <u>we pre</u>vail; *<br/>
+we are they that ought to speak; who <u>is lord</u> over us?<br/>
+<br/>
+5 Now, for the comfortless troubles' sake <u>of the</u> needy, *<br/>
+and because of the <u>deep sighing</u> of the poor,<br/>
+<br/>
+6 I will up, <u>saith the</u> LORD ; *<br/>
+and will help every one from him that swelleth against him,<br/>
+&nbsp;&nbsp;and <u>will set</u> him at rest.<br/>
+<br/>
+7 The words of the <u>LORD are</u> pure words; *<br/>
+even as the silver which from the earth is tried,<br/>
+&nbsp;&nbsp;and purified sev<u>en times</u> in the fire.<br/>
+<br/>
+8 Thou shalt keep <u>them, O</u> LORD ; *<br/>
+thou shalt preserve them from this g<u>eneration</u> for ever.<br/>
+<br/>
+9 The ungodly walk on <u>every</u> side: *<br/>
+when they are exalted, the children of men <u>are put</u> to rebuke.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
