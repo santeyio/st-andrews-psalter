@@ -555,4 +555,31 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '13': {
+    tone: '8',
+    text: `
+How long wilt thou forget me, O LORD ; for <u>ev</u>er? *<br/>
+how long wilt thou <u>hide</u> thy face from me?<br/>
+<br/>
+2 How long shall I seek counsel in my soul,<br/>
+&nbsp;&nbsp;and be so vexed in my <u>heart</u>? *<br/>
+how long shall mine enemy <u>tri</u>umph over me?<br/>
+<br/>
+3 Consider, and hear me, O LORD my <u>God</u>; *<br/>
+lighten mine eyes, that I <u>sleep</u> not in death;<br/>
+<br/>
+4 Lest mine enemy say, I have prevailed a<u>gainst</u> him: *<br/>
+for if I be cast down, they that trouble me <u>will</u> rejoice at it.<br/>
+<br/>
+5 But my trust is in thy <u>mer</u>cy, *<br/>
+and my heart is joyful in <u>thy</u> salvation.<br/>
+<br/>
+6 I will sing of the LORD , because he hath dealt so lovingly with <u>me</u>;<br/>
+* yea, I will praise the Name of the <u>Lord</u> Most Highest.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
