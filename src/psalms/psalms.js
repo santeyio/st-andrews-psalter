@@ -582,4 +582,38 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '14': {
+    tone: '2',
+    text: `
+The fool hath said in his <u>heart</u>, *<br/>
+There <u>is</u> no God.<br/>
+<br/>
+2 They are corrupt, and become abominable in their <u>do</u>ings; *<br/>
+there is none that doeth good, no not one.<br/>
+<br/>
+3 The LORD looked down from heaven upon the children of <u>men</u>, *<br/>
+to see if there were any that would understand, and <u>seek af</u>ter God.<br/>
+<br/>
+4 But they are all gone out of the way,<br/>
+&nbsp;&nbsp;they are altogether become a<u>bo</u>minable; *<br/>
+there is none that doeth good, <u>no</u> not one.<br/>
+<br/>
+5 Have they no knowledge, that they are all such workers of <u>mis</u>chief, *<br/>
+eating up my people as it were bread, and call not u<u>pon</u> the LORD ?<br/>
+<br/>
+6 There were they brought in great fear, even where no fear <u>was</u>; *<br/>
+for God is in the generation <u>of</u> the righteous.<br/>
+<br/>
+7 As for you, ye have made a mock at the counsel of the <u>poor</u>; *<br/>
+because he putteth his <u>trust in</u> the LORD .<br/>
+<br/>
+8 Who shall give salvation unto Israel out of <u>Si</u>on? *<br/>
+When the LORD turneth the captivity of his people,<br/>
+&nbsp;&nbsp;then shall Jacob rejoice, and Israel <u>shall</u> be glad.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
