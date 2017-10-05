@@ -616,4 +616,35 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '15': {
+    tone: '5',
+    text: `
+LORD , who shall dwell in thy <u>ta</u>bernacle? *<br/>
+or who shall rest up<u>on thy</u> holy hill?<br/>
+<br/>
+2 Even he that leadeth an uncorrupt <u>life</u>, *<br/>
+and doeth the thing which is right,<br/>
+&nbsp;&nbsp;and speaketh the <u>truth from</u> his heart.<br/>
+<br/>
+3 He that hath used no deceit in his tongue,<br/>
+&nbsp;&nbsp;nor done evil to his <u>neigh</u>bour, *<br/>
+and hath not <u>slandered his</u> neighbour.<br/>
+<br/>
+4 He that setteth not by himself, but is lowly in his own <u>eyes</u>, *<br/>
+and maketh much of <u>them that</u> fear the LORD .<br/>
+<br/>
+5 He that sweareth unto his neighbour, and disappointeth him <u>not</u>, *<br/>
+though it were to <u>his own</u> hindrance.<br/>
+<br/>
+6 He that hath not given his money upon <u>us</u>ury, *<br/>
+nor taken reward a<u>gainst the</u> innocent.<br/>
+<br/>
+7 Whoso doeth these <u>things</u> *<br/>
+<u>shall ne</u>ver fall.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
