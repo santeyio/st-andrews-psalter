@@ -647,4 +647,49 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '16': {
+    tone: '6',
+    text: `
+Preserve me, <u>O</u> God; *<br/>
+for in <u>thee have</u> I put my trust.<br/>
+<br/>
+2 O my soul, thou hast said unto <u>the</u> LORD , *<br/>
+Thou art my God; I have no <u>good like</u> unto thee.<br/>
+<br/>
+3 All my delight is upon the saints that are in <u>the</u> earth, *<br/>
+and upon such as <u>excel</u> in virtue.<br/>
+<br/>
+4 But they that run after anoth<u>er</u> god *<br/>
+<u>shall have</u> great trouble.<br/>
+<br/>
+5 Their drink-offerings of blood will I <u>not</u> offer, *<br/>
+neither make mention of <u>their names</u> within my lips.<br/>
+<br/>
+6 The LORD himself is the portion of mine inheritance, and of <u>my</u> cup; *<br/>
+<u>thou shalt</u> maintain my lot.<br/>
+<br/>
+7 The lot is fallen unto me in a <u>fair</u> ground; *<br/>
+yea, I have <u>a goodly</u> heritage.<br/>
+<br/>
+8 I will thank the LORD for giving <u>me</u> warning; *<br/>
+my reins also chasten <u>me in the</u> night season.<br/>
+<br/>
+9 I have set the LORD alway <u>be</u>fore me; *<br/>
+for he is on my right hand, <u>therefore</u> I shall not fall.<br/>
+<br/>
+10 Wherefore my heart is glad, and my glory <u>re</u>joiceth: *<br/>
+my flesh <u>also</u> shall rest in hope.<br/>
+<br/>
+11 For why? thou shalt not leave my soul <u>in</u> hell; *<br/>
+neither shalt thou suffer thy Holy One <u>to see</u> corruption.<br/>
+<br/>
+12 Thou shalt show me the path of life:<br/>
+&nbsp;&nbsp;in thy presence is the fulness <u>of</u> joy, *<br/>
+and at thy right hand there <u>is pleasure</u> for evermore.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
