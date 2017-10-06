@@ -692,4 +692,64 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '17': {
+    tone: '4',
+    text: `
+Hear the right, O LORD , consider <u>my com</u>plaint, *<br/>
+and hearken unto my prayer, that goeth <u>not out</u> of feigned lips.<br/>
+<br/>
+2 Let my sentence come forth <u>from thy</u> presence; *<br/>
+and let thine eyes look upon <u>the thing that</u> is equal.<br/>
+<br/>
+3 Thou hast proved and visited mine heart in the night season;<br/>
+&nbsp;&nbsp;thou hast tried me, and shalt find no <u>wickedness</u> in me; *<br/>
+for I am utterly purposed that <u>my mouth</u> shall not offend.<br/>
+<br/>
+4 As for the <u>works of</u> men, *<br/>
+by the word of thy lips I have kept me from the ways <u>of the</u><br/>
+destroyer.<br/>
+<br/>
+5 O hold thou up my goings <u>in thy</u> paths, *<br/>
+that <u>my foot</u>steps slip not.<br/>
+<br/>
+6 I have called upon thee, O God, for <u>thou shalt</u> hear me: *<br/>
+incline thine ear to me, and heark<u>en un</u>to my words.<br/>
+<br/>
+7 Show thy marvellous loving-kindness,<br/>
+&nbsp;&nbsp;thou that art the Saviour of them which <u>put their</u> trust in thee, *<br/>
+from such as <u>resist</u> thy right hand.<br/>
+<br/>
+8 Keep me as the apple <u>of an</u> eye; *<br/>
+hide me under <u>the sha</u>dow of thy wings,<br/>
+<br/>
+9 From the un<u>godly, that</u> trouble me; *<br/>
+mine enemies compass me round about, <u>to take</u> away my soul.<br/>
+<br/>
+10 They are inclosed in <u>their own</u> fat, *<br/>
+and their <u>mouth speak</u>eth proud things.<br/>
+<br/>
+11 They lie waiting in our way on <u>every</u> side, *<br/>
+watching to cast <u>us down</u> to the ground;<br/>
+<br/>
+12 Like as a lion that is greedy <u>of his</u> prey, *<br/>
+and as it were a lion's whelp lurking <u>in se</u>cret places.<br/>
+<br/>
+13 Up, LORD , disappoint him, and <u>cast him</u> down; *<br/>
+deliver my soul from the ungod<u>ly, by</u> thine own sword;<br/>
+<br/>
+14 Yea, by thy hand, O LORD ; from the men of the <u>evil</u> world; *<br/>
+which have their portion in this life,<br/>
+&nbsp;&nbsp;whose bellies thou fillest <u>with thy</u> hid treasure.<br/>
+<br/>
+15 They have children at <u>their de</u>sire, *<br/>
+and leave the rest of <u>their sub</u>stance for their babes.<br/>
+<br/>
+16 But as for me, I shall behold thy <u>presence in</u> righteousness; *<br/>
+and when I awake up after thy likeness, <u>I shall</u> be satisfied.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Ho</u>ly Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
