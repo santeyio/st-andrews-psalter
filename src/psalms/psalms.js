@@ -752,4 +752,184 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '18': {
+    tone: '5',
+    text: `
+I will love thee, O LORD , my <u>strength</u>. *<br/>
+The LORD is my stony <u>rock, and</u> my defence;<br/>
+<br/>
+2 My Saviour, my God, and my might, in whom I will <u>trust</u>; *<br/>
+my buckler, the horn also of my salvation, <u>and my</u> refuge.<br/>
+<br/>
+3 I will call upon the LORD , which is worthy to be <u>praised</u>; *<br/>
+so shall I be <u>safe from mine</u> enemies.<br/>
+<br/>
+4 The sorrows of death <u>com</u>passed me, *<br/>
+and the overflowings of ungodliness <u>made me</u> afraid.<br/>
+<br/>
+5 The pains of hell came ab<u>out</u> me; *<br/>
+the snares of death <u>over</u>took me.<br/>
+<br/>
+6 In my trouble I called upon the <u>LORD</u> , *<br/>
+and complained <u>unto</u> my God:<br/>
+<br/>
+7 So he heard my voice out of his holy <u>tem</u>ple, *<br/>
+and my complaint came before him; it entered even <u>into</u> his ears.<br/>
+<br/>
+[tone_4]<br/>
+<br/>
+8 The earth <u>trembled and</u> quaked, *<br/>
+the very foundations also of the hills shook, and were removed,<br/>
+&nbsp;&nbsp;<u>because</u> he was wroth.<br/>
+<br/>
+9 There went a smoke out <u>in his</u> presence, *<br/>
+and a consuming fire out of his mouth, so that coals <u>were kin</u>dled at<br/>
+it.<br/>
+<br/>
+10 He bowed the heavens also, <u>and came</u> down, *<br/>
+and it <u>was dark</u> under his feet.<br/>
+<br/>
+11 He rode upon the Cherubim, <u>and did</u> fly; *<br/>
+he came flying upon <u>the wings</u> of the wind.<br/>
+<br/>
+12 He made darkness his <u>secret</u> place, *<br/>
+his pavilion round about him with dark water,<br/>
+&nbsp;&nbsp;and <u>thick clouds</u> to cover him.<br/>
+<br/>
+13 At the brightness of his presence his <u>clouds re</u>moved; *<br/>
+<u>hailstones</u> and coals of fire.<br/>
+<br/>
+14 The LORD also thundered out of heaven,<br/>
+&nbsp;&nbsp;and the Highest <u>gave his</u> thunder; *<br/>
+<u>hailstones</u> and coals of fire.<br/>
+<br/>
+15 He sent out his <u>arrows, and</u> scattered them; *<br/>
+he cast forth lightnings, and destroyed them.<br/>
+<br/>
+16 The springs of waters were seen,<br/>
+&nbsp;&nbsp;and the foundations of the round world <u>were dis</u>covered, *<br/>
+at thy chiding, O LORD ,<br/>
+&nbsp;&nbsp;at the blasting of the breath <u>of thy</u> displeasure.<br/>
+<br/>
+17 He sent down from on <u>high to</u> fetch me, *<br/>
+and took me out <u>of many</u> waters.<br/>
+<br/>
+18 He delivered me from my strongest enemy,<br/>
+&nbsp;&nbsp;and from <u>them which</u> hate me; *<br/>
+for they were <u>too migh</u>ty for me.<br/>
+<br/>
+19 They came upon me in the day <u>of my</u> trouble; *<br/>
+but the LORD <u>was my</u> upholder.<br/>
+<br/>
+20 He brought me forth also into a <u>place of</u> liberty; *<br/>
+he brought me forth, even because he had <u>a fa</u>vour unto me.<br/>
+<br/>
+[tone6]<br/>
+<br/>
+21 The LORD rewarded me after my right<u>eous</u> dealing, *<br/>
+according to the cleanness of <u>my hands did</u> he recompense me.<br/>
+<br/>
+22 Because I have kept the ways of <u>the</u> LORD , *<br/>
+and have not forsaken my <u>God, as</u> the wicked doth.<br/>
+<br/>
+23 For I have an eye unto all <u>his</u> laws, *<br/>
+and will not cast out his <u>command</u>ments from me.<br/>
+<br/>
+24 I was also uncorrupt <u>be</u>fore him, *<br/>
+and esc<u>hewed mine</u> own wickedness.<br/>
+<br/>
+25 Therefore the LORD rewarded me after my right<u>eous</u> dealing, *<br/>
+and according unto the cleanness of <u>my hands in</u> his eyesight.<br/>
+<br/>
+26 With the holy thou shalt <u>be</u> holy, *<br/>
+and with a perfect man <u>thou shalt</u> be perfect.<br/>
+<br/>
+27 With the clean thou shalt <u>be</u> clean, *<br/>
+and with the froward <u>thou shalt</u> be froward.<br/>
+<br/>
+28 For thou shalt save the people that are in <u>ad</u>versity,<br/>
+and shalt bring down <u>the high</u> looks of the proud.<br/>
+<br/>
+29 Thou also shalt light <u>my</u> candle; *<br/>
+the LORD my God shall make <u>my dark</u>ness to be light.<br/>
+<br/>
+30 For in thee I shall discomfit an host <u>of</u> men, *<br/>
+and with the help of my God I shall <u>leap ov</u>er the wall.<br/>
+<br/>
+31 The way of God is an undefil<u>ed</u> way: *<br/>
+the word of the LORD also is tried in the fire;<br/>
+&nbsp;&nbsp;he is the defender of all them <u>that put</u> their trust in him.<br/>
+<br/>
+32 For who is God, but <u>the</u> LORD ? *<br/>
+or who hath an<u>y strength</u>, except our God?<br/>
+<br/>
+33 It is God that girdeth me with strength <u>of</u> war, *<br/>
+and mak<u>eth my</u> way perfect.<br/>
+<br/>
+34 He maketh my feet <u>like</u> harts' feet, *<br/>
+<u>and setteth</u> me up on high.<br/>
+<br/>
+35 He teacheth mine hands <u>to</u> fight, *<br/>
+and mine arms shall <u>bend even</u> a bow of steel.<br/>
+<br/>
+[tone5b]<br/>
+<br/>
+36 Thou hast given me the defence of thy sal<u>va</u>tion; *<br/>
+thy right hand also shall hold me up,<br/>
+&nbsp;&nbsp;and thy loving cor<u>rection</u> shall make me great.<br/>
+<br/>
+37 Thou shalt make room enough under me for to <u>go</u>, *<br/>
+that my <u>foot</u>steps shall not slide.<br/>
+<br/>
+38 I will follow upon mine enemies, and over<u>take</u> them; *<br/>
+neither will I turn again till I <u>have</u> destroyed them.<br/>
+<br/>
+39 I will smite them, that they shall not be able to <u>stand</u>, *<br/>
+but fall <u>un</u>der my feet.<br/>
+<br/>
+40 Thou hast girded me with strength unto the <u>bat</u>tle; *<br/>
+thou shalt throw down mine <u>enem</u>ies under me.<br/>
+<br/>
+41 Thou hast made mine enemies also to turn their backs up<u>on</u> me, *<br/>
+and I shall destroy <u>them</u> that hate me.<br/>
+<br/>
+42 They shall cry, but there shall be none to <u>help</u> them; *<br/>
+yea, even unto the LORD shall they cry,<br/>
+&nbsp;&nbsp;but he <u>shall</u> not hear them.<br/>
+<br/>
+43 I will beat them as small as the dust before the <u>wind</u>: *<br/>
+I will cast them out as the <u>clay</u> in the streets.<br/>
+<br/>
+44 Thou shalt deliver me from the strivings of the <u>peo</u>ple, *<br/>
+and thou shalt make me the head of the nations;<br/>
+&nbsp;&nbsp;a people whom I have not <u>known</u> shall serve me.<br/>
+<br/>
+45 As soon as they hear of me, they shall o<u>bey</u> me; *<br/>
+the strangers shall feign ob<u>edi</u>ence unto me.<br/>
+<br/>
+46 The strangers shall <u>fail</u>, *<br/>
+and come trembling <u>out of</u> their strongholds.<br/>
+<br/>
+47 The LORD liveth; and blessèd be my strong <u>help</u>er, *<br/>
+and praised be the God of <u>my</u> salvation;<br/>
+<br/>
+48 Even the God that seeth that I be av<u>enged</u>, *<br/>
+and subdueth the <u>peo</u>ple unto me.<br/>
+<br/>
+49 It is he that delivereth me from my cruel enemies,<br/>
+&nbsp;&nbsp;and setteth me up above mine <u>ad</u>versaries: *<br/>
+thou shalt rid me <u>from</u> the wicked man.<br/>
+<br/>
+50 For this cause will I give thanks unto thee, O LORD , among the <u>Gen</u>tiles, *<br/>
+and sing praises <u>un</u>to thy Name.<br/>
+<br/>
+51 Great prosperity giveth he unto his <u>King</u>, *<br/>
+and showeth loving-kindness unto David his anointed, and unto his<br/>
+<u>seed</u> for evermore.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
 };
