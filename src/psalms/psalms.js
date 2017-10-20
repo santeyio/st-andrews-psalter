@@ -932,4 +932,60 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
     `,
   },
+  '19': {
+    tone: '7',
+    text: `
+The heavens declare the <u>glory</u> of God; *<br/>
+and the firmament <u>showeth his</u> handy-work.<br/>
+<br/>
+2 One day <u>telleth an</u>other; *<br/>
+and one night certi<u>fieth an</u>other.<br/>
+<br/>
+3 There is neither <u>speech nor</u> language; *<br/>
+but their voices are <u>heard a</u>mong them.<br/>
+<br/>
+4 Their sound is gone <u>out in</u>to all lands; *<br/>
+and their words into the <u>ends of</u> the world.<br/>
+<br/>
+5 In them hath he set a <u>tabernacle</u> for the sun; *<br/>
+which cometh forth as a bridegroom out of his chamber,<br/>
+&nbsp;&nbsp;and rejoiceth as a <u>giant to</u> run his course.<br/>
+<br/>
+6 It goeth forth from the uttermost part of the heaven,<br/>
+&nbsp;&nbsp;and runneth about unto the <u>end of</u> it again; *<br/>
+and there is nothing <u>hid from the</u> heat thereof.<br/>
+<br/>
+7 The law of the LORD is an undefiled law, con<u>verting</u> the soul; *<br/>
+the testimony of the LORD is sure,<br/>
+&nbsp;&nbsp;and giveth wisdom <u>unto the</u> simple.<br/>
+<br/>
+8 The statutes of the LORD are <u>right, and re</u>joice the heart; *<br/>
+the commandment of the LORD is pure,<br/>
+&nbsp;&nbsp;and giveth <u>light un</u>to the eyes.<br/>
+<br/>
+9 The fear of the LORD is clean, and en<u>dureth for</u> ever; *<br/>
+the judgments of the LORD are true, and righteous <u>alto</u>gether.<br/>
+<br/>
+10 More to be desired are they than gold, <u>yea, than</u> much fine gold;<br/>
+* sweeter also than honey, <u>and the</u> honeycomb.<br/>
+<br/>
+11 Moreover, by <u>them is thy</u> servant taught; *<br/>
+and in keeping of them <u>there is</u> great reward.<br/>
+<br/>
+12 Who can tell how <u>oft he of</u>fendeth? *<br/>
+O cleanse thou me <u>from my</u> secret faults.<br/>
+<br/>
+13 Keep thy servant also from presumptuous sins,<br/>
+&nbsp;&nbsp;lest they get the do<u>minion</u> over me; *<br/>
+so shall I be undefiled, and innocent <u>from the</u> great offence.<br/>
+<br/>
+14 Let the words of my mouth, and the meditation of my heart,<br/>
+&nbsp;&nbsp;be alway ac<u>ceptable</u> in thy sight, *<br/>
+O LORD , my strength and <u>my re</u>deemer.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
