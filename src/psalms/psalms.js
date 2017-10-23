@@ -988,4 +988,41 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '20': {
+    tone: '8b',
+    text: `
+The LORD hear thee in the day of <u>trou</u>ble; *<br/>
+the Name of the God of <u>Jacob</u> defend thee:<br/>
+<br/>
+2 Send thee help from the <u>san</u>ctuary, *<br/>
+and strengthen thee <u>out</u> of Sion:<br/>
+<br/>
+3 Remember all thy <u>off</u>erings, *<br/>
+and accept <u>thy</u> burnt-sacrifice:<br/>
+<br/>
+4 Grant thee thy heart's des<u>ire</u>, *<br/>
+and ful<u>fill</u> all thy mind.<br/>
+<br/>
+5 We will rejoice in thy salvation,<br/>
+&nbsp;&nbsp;and triumph in the Name of the Lord our <u>God</u>: *<br/>
+the LORD perform all <u>thy</u> petitions.<br/>
+<br/>
+6 Now know I that the LORD helpeth his anointed,<br/>
+and will hear him from his holy <u>hea</u>ven, *<br/>
+even with the wholesome <u>strength of</u> his right hand.<br/>
+<br/>
+7 Some put their trust in chariots, and some in <u>hor</u>ses; *<br/>
+but we will remember the Name <u>of</u> the LORD our God.<br/>
+<br/>
+8 They are brought down and <u>fall</u>en; *<br/>
+but we are risen <u>and</u> stand upright.<br/>
+<br/>
+9 Save, LORD ; and hear us, O King of <u>hea</u>ven, *<br/>
+when we <u>call</u> upon thee.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
 };
