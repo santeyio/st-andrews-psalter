@@ -1025,4 +1025,53 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
     `,
   },
+  '21': {
+    tone: '7',
+    text: `
+The King shall rej<u>oice in thy</u> strength, O LORD ; *<br/>
+exceeding glad shall he be of <u>thy sal</u>vation.<br/>
+<br/>
+2 Thou hast given <u>him his</u> heart's desire, *<br/>
+and hast not denied him the re<u>quest of</u> his lips.<br/>
+<br/>
+3 For thou shalt meet him with the <u>blessings of</u> goodness, *<br/>
+and shalt set a crown of pure <u>gold up</u>on his head.<br/>
+<br/>
+4 He asked life of thee; and thou gavest <u>him a</u> long life, *<br/>
+even for <u>ever and</u> ever.<br/>
+<br/>
+5 His honour is great in <u>thy sal</u>vation; *<br/>
+glory and great worship shalt thou <u>lay up</u>on him.<br/>
+<br/>
+6 For thou shalt give him ever<u>lasting fe</u>licity, *<br/>
+and make him glad with the <u>joy of thy</u> countenance.<br/>
+<br/>
+7 And why? because the King putteth his <u>trust in</u> the LORD ; *<br/>
+and in the mercy of the Most Highest he <u>shall not</u> miscarry.<br/>
+<br/>
+8 All thine enemies <u>shall feel</u> thine hand; *<br/>
+thy right hand shall find out <u>them that</u> hate thee.<br/>
+<br/>
+9 Thou shalt make them like a fiery oven in <u>time of</u> thy wrath: *<br/>
+the LORD shall destroy them in his displeasure,<br/>
+&nbsp;&nbsp;and the <u>fire shall con</u>sume them.<br/>
+<br/>
+10 Their fruit shalt thou root <u>out of</u> the earth, *<br/>
+and their seed from among the <u>children</u> of men.<br/>
+<br/>
+11 For they intended <u>mischief ag</u>ainst thee, *<br/>
+and imagined such a device as they are not <u>able</u> to perform.<br/>
+<br/>
+12 Therefore shalt thou <u>put them</u> to flight, *<br/>
+and the strings of thy bow shalt thou make ready a<u>gainst the</u> face of<br/>
+them.<br/>
+<br/>
+13 Be thou exalted, LORD , <u>in thine</u> own strength; *<br/>
+so will we sing, and <u>praise thy</u> power.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
