@@ -1074,4 +1074,114 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '22': {
+    tone: '2',
+    text: `
+My God, my God, look upon me; why hast thou for<u>sak</u>en me? *<br/>
+and art so far from my health, and from the words of <u>my</u> complaint?<br/>
+<br/>
+2 O my God, I cry in the day-time, but thou hearest <u>not</u>; *<br/>
+and in the night season also I <u>take</u> no rest.<br/>
+<br/>
+3 And thou continuest <u>ho</u>ly, *<br/>
+O thou <u>Worship</u> of Israel.<br/>
+<br/>
+4 Our fathers hoped in <u>thee</u>; *<br/>
+they trusted in thee, and thou <u>didst</u> deliver them.<br/>
+<br/>
+5 They called upon thee, and were <u>hol</u>pen; *<br/>
+they put their trust in thee, and were <u>not</u> confounded.<br/>
+<br/>
+6 But as for me, I am a worm, and no <u>man</u>; *<br/>
+a very scorn of men, and the outcast <u>of</u> the people.<br/>
+<br/>
+7 All they that see me laugh me to <u>scorn</u>; *<br/>
+they shoot out their lips, and <u>shake their</u> heads, saying,<br/>
+<br/>
+8 He trusted in the LORD , that he would de<u>liv</u>er him; *<br/>
+let him deliver him, if <u>he</u> will have him.<br/>
+<br/>
+9 But thou art he that took me out of my mother's <u>womb</u>; *<br/>
+thou wast my hope, when I hanged yet upon my <u>mo</u>ther's breasts.<br/>
+<br/>
+10 I have been left unto thee ever since I was <u>born</u>; *<br/>
+thou art my God even from my <u>mo</u>ther's womb.<br/>
+<br/>
+11 O go not from me; for trouble is hard at <u>hand</u>, *<br/>
+and there is <u>none</u> to help me.<br/>
+<br/>
+12 Many oxen are come ab<u>out</u> me; *<br/>
+fat bulls of Bashan close me in on <u>ev</u>ery side.<br/>
+<br/>
+13 They gape upon me with their <u>mouths</u>, *<br/>
+as it were a ramping and a <u>roar</u>ing lion.<br/>
+<br/>
+14 I am poured out like water, and all my bones are out of <u>joint</u>; *<br/>
+my heart also in the midst of my body is even like <u>melt</u>ing wax.<br/>
+<br/>
+15 My strength is dried up like a potsherd,<br/>
+&nbsp;&nbsp;and my tongue cleaveth to my <u>gums</u>, *<br/>
+and thou bringest me into the <u>dust</u> of death.<br/>
+<br/>
+16 For many dogs are come ab<u>out</u> me, *<br/>
+and the council of the wicked layeth <u>siege</u> against me.<br/>
+<br/>
+17 They pierced my hands and my feet:<br/>
+&nbsp;&nbsp;I may tell all my <u>bones</u>: *<br/>
+they stand staring and <u>looking</u> upon me.<br/>
+<br/>
+18 They part my garments am<u>ong</u> them, *<br/>
+and cast lots up<u>on</u> my vesture.<br/>
+<br/>
+19 But be not thou far from me, O <u>LORD</u> ; *<br/>
+thou art my succour, <u>haste thee</u> to help me.<br/>
+<br/>
+20 Deliver my soul from the <u>sword</u>, *<br/>
+my darling from the power <u>of</u> the dog.<br/>
+<br/>
+21 Save me from the lion's <u>mouth</u>; *<br/>
+thou hast heard me also from among the <u>horns of</u> the unicorns.<br/>
+<br/>
+22 I will declare thy Name unto <u>my</u> brethren; *<br/>
+in the midst of the congrega<u>tion will</u> I praise thee.<br/>
+<br/>
+23 O praise the LORD , ye <u>that</u> fear him: *<br/>
+magnify him, all ye of the seed of Jacob;<br/>
+&nbsp;&nbsp;and fear him, all <u>ye seed</u> of Israel.<br/>
+<br/>
+24 For he hath not despised nor abhorred the low estate of <u>the</u> poor; *<br/>
+he hath not hid his face from him;<br/>
+&nbsp;&nbsp;but when he called un<u>to him</u> he heard him.<br/>
+<br/>
+25 My praise is of thee in the great con<u>greg</u>ation; *<br/>
+my vows will I perform in the sight <u>of them</u> that fear him.<br/>
+<br/>
+26 The poor shall eat, and be satisfied;<br/>
+&nbsp;&nbsp;they that seek after the LORD <u>shal</u>l praise him: *<br/>
+your heart <u>shall live</u> for ever.<br/>
+<br/>
+27 All the ends of the world shall remember themselves, and be<br/>
+turned unto <u>the</u> LORD ; *<br/>
+and all the kindreds of the nations <u>shall worship</u> before him.<br/>
+<br/>
+28 For the kingdom is <u>the</u> LORD'S, *<br/>
+and he is the Governor <u>among</u> the nations.<br/>
+<br/>
+29 All such as be fat up<u>on</u> earth *<br/>
+<u>have eaten</u>, and worshipped.<br/>
+<br/>
+30 All they that go down into the dust shall kneel <u>be</u>fore him; *<br/>
+and no man <u>hath quickened</u> his own soul.<br/>
+<br/>
+31 My seed <u>shall</u> serve him: *<br/>
+they shall be counted unto the Lord for <u>a ge</u>neration.<br/>
+<br/>
+32 They shall come, and shall declare <u>his</u> righteousness *<br/>
+unto a people that shall <u>be born, whom</u> the Lord hath made.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
