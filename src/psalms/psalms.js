@@ -1184,4 +1184,3 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
-};
