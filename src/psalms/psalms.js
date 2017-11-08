@@ -1288,4 +1288,79 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '25': {
+    tone: '5',
+    text: `
+Unto thee, O LORD , will I lift up my soul;<br/>
+&nbsp;&nbsp;my God, I have put my trust in <u>thee</u>: *<br/>
+O let me not be confounded,<br/>
+&nbsp;&nbsp;neither let mine enemies <u>triumph</u> over me.<br/>
+<br/>
+2 For all they that hope in thee shall not be ash<u>amed</u>; *<br/>
+but such as transgress without a cause shall be <u>put to con</u>fusion.<br/>
+<br/>
+3 Show me thy ways, O <u>LORD</u> , *<br/>
+and <u>teach me</u> thy paths.<br/>
+<br/>
+4 Lead me forth in thy truth, and <u>learn</u> me: *<br/>
+for thou art the God of my salvation;<br/>
+&nbsp;&nbsp;in thee hath been my hope <u>all the</u> day long.<br/>
+<br/>
+5 Call to remembrance, O LORD , thy tender <u>mer</u>cies, *<br/>
+and thy loving-kindnesses, which have been <u>ever</u> of old.<br/>
+<br/>
+6 O remember not the sins and offences of my <u>youth</u>; *<br/>
+but according to thy mercy think thou upon me, O LORD ,<br/>
+<u>for thy</u> goodness.<br/>
+<br/>
+7 Gracious and righteous is the <u>LORD</u> ; *<br/>
+therefore will he teach <u>sinners</u> in the way.<br/>
+<br/>
+8 Them that are meek shall he guide in <u>jud</u>gment; *<br/>
+and such as are gentle, <u>them shall he</u> learn his way.<br/>
+<br/>
+9 All the paths of the LORD are mercy and <u>truth</u>, *<br/>
+unto such as keep his covenant <u>and his</u> testimonies.<br/>
+<br/>
+10 For thy Name's sake, O <u>LORD</u> , *<br/>
+be merciful unto my sin; <u>for it</u> is great.<br/>
+<br/>
+11 What man is he that feareth the <u>LORD</u> ? *<br/>
+him shall he teach in the <u>way that</u> he shall choose.<br/>
+<br/>
+12 His soul shall dwell at <u>ease</u>, *<br/>
+and his seed shall in<u>herit</u> the land.<br/>
+<br/>
+13 The secret of the LORD is among them that <u>fear</u> him; *<br/>
+and he will <u>show them his</u> covenant.<br/>
+<br/>
+14 Mine eyes are ever looking unto the <u>LORD</u> ; *<br/>
+for he shall pluck my feet <u>out of</u> the net.<br/>
+<br/>
+15 Turn thee unto me, and have mercy up<u>on</u> me; *<br/>
+for I am desolate, <u>and in</u> misery.<br/>
+<br/>
+16 The sorrows of my heart are en<u>larged</u>: *<br/>
+O bring thou me <u>out of my</u> troubles.<br/>
+<br/>
+17 Look upon my adversity and <u>mi</u>sery, *<br/>
+and for<u>give me</u> all my sin.<br/>
+<br/>
+18 Consider mine enemies, how many they <u>are</u>; *<br/>
+and they bear a tyrannous <u>hate ag</u>ainst me.<br/>
+<br/>
+19 O keep my soul, and de<u>li</u>ver me: *<br/>
+let me not be confounded, for I have <u>put my</u> trust in thee.<br/>
+<br/>
+20 Let perfectness and righteous dealing wait up<u>on</u> me; *<br/>
+for my <u>hope hath</u> been in thee.<br/>
+<br/>
+21 Deliver Israel, O <u>God</u>, *<br/>
+out of <u>all his</u> troubles.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
