@@ -1,1 +1,1291 @@
 module.exports.Psalms = {
+  '1': {
+    tone: '2',
+    text: `
+Blessèd is the man that hath not walked in the counsel of the ungodly,<br/>
+&nbsp;&nbsp;nor stood in the way of <u>sin</u>ners, *<br/>
+and hath not sat in the <u>seat of</u> the scornful.<br/>
+<br/>
+2 But his delight is in the law of the <u>LORD</u> ; *<br/>
+and in his law will he exercise himself <u>day</u> and night.<br/>
+<br/>
+3 And he shall be like a tree planted by the <u>wa</u>ter-side, *<br/>
+that will bring forth his <u>fruit in</u> due season.<br/>
+<br/>
+4 His leaf also shall not <u>wi</u>ther; *<br/>
+and look, whatsoever he doeth, <u>it</u> shall prosper.<br/>
+<br/>
+5 As for the ungodly, it is not so with <u>them</u>; *<br/>
+but they are like the chaff,<br/>
+&nbsp;&nbsp;which the wind scattereth away from the <u>face of</u> the earth.<br/>
+<br/>
+6 Therefore the ungodly shall not be able to stand in the <u>jud</u>gment, *<br/>
+neither the sinners in the congregation <u>of</u> the righteous.<br/>
+<br/>
+7 But the LORD knoweth the way of the <u>right</u>eous; *<br/>
+and the way of the un<u>godly</u> shall perish.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
+  '2': {
+    tone: '4',
+    text: `
+Why do the heathen so furiously <u>rage to</u>gether? *<br/>
+and why do the people <u>imagine</u> a vain thing?<br/>
+<br/>
+2 The kings of the earth stand up,<br/>
+&nbsp;&nbsp;and the rulers take <u>counsel to</u>gether *<br/>
+against the LORD , and <u>against his</u> Anointed:<br/>
+<br/>
+3 Let us break their <u>bonds a</u>sunder, *<br/>
+and cast <u>away</u> their cords from us.<br/>
+<br/>
+4 He that dwelleth in heaven shall laugh <u>them to</u> scorn: *<br/>
+the Lord shall have <u>them in</u> derision.<br/>
+<br/>
+5 Then shall he speak unto them <u>in his</u> wrath, *<br/>
+and vex them in <u>his sore</u> displeasure:<br/>
+<br/>
+6 Yet have I <u>set my</u> King *<br/>
+upon my ho<u>ly hill</u> of Sion.<br/>
+<br/>
+7 I will rehearse <u>the de</u>cree; *<br/>
+the LORD hath said unto me, Thou art my Son,<br/>
+&nbsp;&nbsp;this day <u>have I</u> begotten thee.<br/>
+<br/>
+8 Desire of me, and I shall give thee the nations for <u>thine in</u>heritance, *<br/>
+and the utmost parts of the earth <u>for thy</u> possession.<br/>
+<br/>
+9 Thou shalt bruise them with a <u>rod of</u> iron, *<br/>
+and break them in pieces like <u>a pot</u>ter's vessel.<br/>
+<br/>
+10 Be wise now therefore, <u>O ye</u> kings; *<br/>
+be instructed, ye that <u>are jud</u>ges of the earth.<br/>
+<br/>
+11 Serve the <u>LORD in</u> fear, *<br/>
+and rejoice un<u>to him</u> with reverence.<br/>
+<br/>
+12 Kiss the Son, lest he be angry,<br/>
+&nbsp;&nbsp;and so ye perish from the right way,<br/>
+&nbsp;&nbsp;if his wrath be kindled, yea <u>but a</u> little. *<br/>
+Blessèd are all they <u>that put</u> their trust in him.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '3': {
+    tone: '6',
+    text: `
+LORD , how are they increased <u>that</u> trouble me! *<br/>
+many are they <u>that rise</u> against me.<br/>
+<br/>
+2 Many one there be that say of <u>my</u> soul, *<br/>
+There is no help <u>for him</u> in his God.<br/>
+<br/>
+3 But thou, O LORD , art my defender; *<br/>
+thou art my worship, and the lift<u>er up</u> of my head.<br/>
+<br/>
+4 I did call upon the LORD with <u>my</u> voice, *<br/>
+and he heard <u>me out of</u> his holy hill.<br/>
+<br/>
+5 I laid me down and slept, and rose up <u>ag</u>ain; *<br/>
+for <u>the LORD</u> sustained me.<br/>
+<br/>
+6 I will not be afraid for ten thousands of <u>the</u> people, *<br/>
+that have set themselves <u>against</u> me round about.<br/>
+<br/>
+7 Up, LORD , and help me, O <u>my</u> God, *<br/>
+for thou smitest all mine enemies upon the cheek-bone;<br/>
+&nbsp;&nbsp;thou hast broken the teeth <u>of the</u> ungodly.<br/>
+<br/>
+8 Salvation belongeth unto <u>the</u> LORD ; *<br/>
+and thy blessing is <u>upon</u> thy people.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '4': {
+    tone: '8',
+    text: `
+Hear me when I call, O God of my <u>right</u>eousness: *<br/>
+thou hast set me at liberty when I was in trouble;<br/>
+&nbsp;&nbsp;have mercy upon me, and hearken <u>un</u>to my prayer.<br/>
+<br/>
+2 O ye sons of men, how long will ye blaspheme mine <u>hon</u>our, *<br/>
+and have such pleasure in vanity, and <u>seek af</u>ter falsehood?<br/>
+<br/>
+3 Know this also,<br/>
+&nbsp;&nbsp;that the LORD hath chosen to himself the man that is <u>god</u>ly; *<br/>
+when I call upon the LORD he will hear me.<br/>
+<br/>
+4 Stand in awe, and sin <u>not</u>; *<br/>
+commune with your own heart, and in your <u>cham</u>ber, and be still.<br/>
+<br/>
+5 Offer the sacrifice of <u>right</u>eousness, *<br/>
+and put your <u>trust</u> in the LORD .<br/>
+<br/>
+6 There be many that <u>say</u>, *<br/>
+Who will <u>show</u> us any good?<br/>
+<br/>
+7 LORD , lift thou <u>up</u> *<br/>
+the light of thy <u>countenance</u> upon us.<br/>
+<br/>
+8 Thou hast put gladness in my <u>heart</u>; *<br/>
+yea, more than when their corn and <u>wine</u> and oil increase.<br/>
+<br/>
+9 I will lay me down in peace, and take my <u>rest</u>; *<br/>
+for it is thou, LORD , only, that makest me <u>dwell</u> in safety.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '5': {
+    tone: '2',
+    text: `
+Ponder my words, O <u>LORD</u> , *<br/>
+consider my <u>med</u>itation.<br/>
+<br/>
+2 O hearken thou unto the voice of my calling, my King and my<br/>
+God: * for unto thee will I <u>make</u> my prayer.<br/>
+<br/>
+3 My voice shalt thou hear be<u>times</u>, O LORD ; *<br/>
+early in the morning will I direct my prayer unto thee,<br/>
+&nbsp;&nbsp;and <u>will</u> look up.<br/>
+<br/>
+4 For thou art the God that hast no pleasure in <u>wic</u>kedness; *<br/>
+neither shall any evil <u>dwell</u> with thee.<br/>
+<br/>
+5 Such as be foolish shall not stand in thy <u>sight</u>; *<br/>
+for thou hatest all them that <u>work</u> iniquity.<br/>
+<br/>
+6 Thou shalt destroy them that speak <u>lies</u>: *<br/>
+the LORD will abhor both the blood-thirsty and de<u>ceit</u>ful man.<br/>
+<br/>
+7 But as for me, in the multitude of thy mercy I will come into thine <u>house</u>; *<br/>
+&nbsp;&nbsp;and in thy fear will I worship toward thy <u>ho</u>ly temple.<br/>
+<br/>
+8 Lead me, O LORD , in thy righteousness, because of mine <u>en</u>emies; *<br/>
+make thy way plain be<u>fore</u> my face.<br/>
+<br/>
+9 For there is no faithfulness in their <u>mouth</u>; *<br/>
+their inward parts are <u>ve</u>ry wickedness.<br/>
+<br/>
+10 Their throat is an open <u>sep</u>ulchre; *<br/>
+they flatter <u>with</u> their tongue.<br/>
+<br/>
+11 Destroy thou them, O God;<br/>
+&nbsp;&nbsp;let them perish through their own imagi<u>na</u>tions; *<br/>
+cast them out in the multitude of their ungodliness;<br/>
+&nbsp;&nbsp;for they have re<u>belled</u> against thee.<br/>
+<br/>
+12 And let all them that put their trust in thee rej<u>oice</u>: *<br/>
+they shall ever be giving of thanks, because thou defendest them;<br/>
+&nbsp;&nbsp;they that love thy Name shall be <u>joyful</u> in thee;<br/>
+<br/>
+13 For thou, LORD , wilt give thy blessing unto the <u>right</u>eous, *<br/>
+and with thy favourable kindness wilt thou defend him as <u>with</u> a shield.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
+  '6': {
+    tone: '4',
+    text: `
+O LORD , rebuke me not in thine <u>indig</u>nation, *<br/>
+neither chasten me <u>in thy</u> displeasure.<br/>
+<br/>
+2 Have mercy upon me, O LORD , for <u>I am</u> weak; *<br/>
+O LORD , heal <u>me, for</u> my bones are vexed.<br/>
+<br/>
+3 My soul also <u>is sore</u> troubled: *<br/>
+but, LORD , <u>how long wilt</u> thou punish me?<br/>
+<br/>
+4 Turn thee, O LORD , and de<u>liver my</u> soul; *<br/>
+O save <u>me, for</u> thy mercy's sake.<br/>
+<br/>
+5 For in death no <u>man re</u>membereth thee; *<br/>
+and who will give <u>thee thanks</u> in the pit?<br/>
+<br/>
+6 I am weary <u>of my</u> groaning; *<br/>
+every night wash I my bed, and water <u>my couch</u> with my tears.<br/>
+<br/>
+7 My beauty is gone for <u>very</u> trouble, *<br/>
+and worn away because <u>of all</u> mine enemies.<br/>
+<br/>
+8 Away from me, all ye that <u>work in</u>iquity; *<br/>
+for the LORD hath heard <u>the voice of</u> my weeping.<br/>
+<br/>
+9 The LORD hath heard <u>my pe</u>tition; *<br/>
+<u>the LORD will</u> receive my prayer.<br/>
+<br/>
+10 All mine enemies shall be confounded, <u>and sore</u> vexed; *<br/>
+they shall be turned back, <u>and put to</u> shame suddenly.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '7': {
+    tone: '8',
+    text: `
+O LORD my God, in thee have I put my <u>trust</u>: *<br/>
+save me from all them that persecute me, <u>and</u> deliver me;<br/>
+<br/>
+2 Lest he devour my soul like a lion, and tear it in <u>pie</u>ces, *<br/>
+while <u>there</u> is none to help.<br/>
+<br/>
+3 O LORD my God, if I have done any such <u>thing</u>; *<br/>
+or if there be any <u>wicked</u>ness in my hands;<br/>
+<br/>
+4 If I have rewarded evil unto him that dealt <u>friend</u>ly with me; *<br/>
+(yea, I have delivered him that without any <u>cause is</u> mine enemy;)<br/>
+<br/>
+5 Then let mine enemy persecute my soul, and <u>take</u> me; *<br/>
+yea, let him tread my life down upon the earth,<br/>
+&nbsp;&nbsp;and lay mine <u>hon</u>our in the dust.<br/>
+<br/>
+6 Stand up, O LORD , in thy wrath,<br/>
+&nbsp;&nbsp;and lift up thyself, because of the indignation of mine <u>en</u>emies; *<br/>
+arise up for me in the judgment that <u>thou hast</u> commanded.<br/>
+<br/>
+7 And so shall the congregation of the peoples come ab<u>out</u> thee: *<br/>
+for their sakes therefore <u>lift up</u> thyself again.<br/>
+<br/>
+8 The LORD shall judge the peoples:<br/>
+&nbsp;&nbsp;give sentence with me, O LORD , according to my <u>right</u>eousness, *<br/>
+and according to the innocency <u>that</u> is in me.<br/>
+<br/>
+9 O let the wickedness of the ungodly come to an <u>end</u>; *<br/>
+but <u>guide</u> thou the just.<br/>
+<br/>
+10 For the righteous <u>God</u> *<br/>
+trieth the <u>ve</u>ry hearts and reins.<br/>
+<br/>
+11 My help cometh of <u>God</u>, *<br/>
+who preserveth <u>them that</u> are true of heart.<br/>
+<br/>
+12 God is a righteous Judge, strong, and <u>pat</u>ient; *<br/>
+and God is pro<u>voked</u> every day.<br/>
+<br/>
+13 If a man will not turn, he will whet his <u>sword</u>; *<br/>
+he hath bent his bow, and <u>made</u> it ready.<br/>
+<br/>
+14 He hath prepared for him the instruments of <u>death</u>; *<br/>
+he ordaineth his arrows a<u>gainst</u> the persecutors.<br/>
+<br/>
+15 Behold, the ungodly travaileth with i<u>ni</u>quity; *<br/>
+he hath conceived mischief, and <u>brought</u> forth falsehood.<br/>
+<br/>
+16 He hath graven and digged up a <u>pit</u>, *<br/>
+and is fallen himself into the destruction that he <u>made</u> for other.<br/>
+<br/>
+17 For his travail shall come upon his own <u>head</u>, *<br/>
+and his wickedness shall fall <u>on</u> his own pate.<br/>
+<br/>
+18 I will give thanks unto the LORD , according to his <u>right</u>eousness;<br/>
+* and I will praise the <u>Name of</u> the LORD Most High.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '8': {
+    tone: '5',
+    text: `
+O LORD our Governor, how excellent is thy Name in all the <u>world</u>;<br/>
+* thou that hast set thy glory a<u>bove the</u> heavens!<br/>
+<br/>
+2 Out of the mouth of very babes and sucklings hast thou ordained<br/>
+strength,<br/>
+&nbsp;&nbsp;because of thine <u>en</u>emies, *<br/>
+that thou mightest still the enemy <u>and the a</u>venger.<br/>
+<br/>
+3 When I consider thy heavens, even the work of thy <u>fin</u>gers; *<br/>
+the moon and the stars which <u>thou hast</u> ordained;<br/>
+<br/>
+4 What is man, that thou art <u>mind</u>ful of him? *<br/>
+and the son of man, <u>that thou</u> visitest him?<br/>
+<br/>
+5 Thou madest him lower than the <u>an</u>gels, *<br/>
+to crown him with <u>glory and</u> worship.<br/>
+<br/>
+6 Thou makest him to have dominion of the works of thy <u>hands</u>; *<br/>
+and thou hast put all things in subjection <u>under</u> his feet:<br/>
+<br/>
+7 All sheep and <u>ox</u>en; *<br/>
+yea, and the <u>beasts of</u> the field;<br/>
+<br/>
+8 The fowls of the air, and the fishes of the <u>sea</u>; *<br/>
+and whatsoever walketh through the <u>paths of</u> the seas.<br/>
+<br/>
+9 O LORD our <u>Go</u>vernor, *<br/>
+how excellent is thy <u>Name in</u> all the world!<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+  '9': {
+    tone: '6',
+    text: `
+I will give thanks unto thee, O LORD , with my <u>whole</u> heart; *<br/>
+I will speak of all <u>thy mar</u>vellous works.<br/>
+<br/>
+2 I will be glad and rejoice <u>in</u> thee; *<br/>
+yea, my songs will I make of thy Name, <u>O thou</u> Most Highest.<br/>
+<br/>
+3 While mine enemies are driv<u>en</u> back, *<br/>
+they shall fall and per<u>ish at</u> thy presence.<br/>
+<br/>
+4 For thou hast maintained my right and <u>my</u> cause; *<br/>
+thou art set in <u>the throne</u> that judgest right.<br/>
+<br/>
+5 Thou hast rebuked the heathen, and destroyed the <u>un</u>godly; *<br/>
+thou hast put out their name <u>for ever</u> and ever.<br/>
+<br/>
+6 O thou enemy, thy destructions are come to a perpe<u>tual</u> end; *<br/>
+even as the cities which thou hast destroyed,<br/>
+&nbsp;&nbsp;whose memorial <u>is per</u>ished with them.<br/>
+<br/>
+7 But the LORD shall endure <u>for</u> ever; *<br/>
+he hath also prepared <u>his seat</u> for judgment.<br/>
+<br/>
+8 For he shall judge the world <u>in</u> righteousness, *<br/>
+and minister true judg<u>ment unto</u> the people.<br/>
+<br/>
+9 The LORD also will be a defence for the <u>opp</u>ressed, *<br/>
+even a refuge in <u>due</u> time of trouble.<br/>
+<br/>
+10 And they that know thy Name will put their trust <u>in</u> thee; *<br/>
+for thou, LORD , hast nev<u>er failed them</u> that seek thee.<br/>
+<br/>
+11 O praise the LORD which dwelleth <u>in</u> Sion; *<br/>
+show the peo<u>ple of</u> his doings.<br/>
+<br/>
+12 For when he maketh inquisition for blood, he <u>re</u>membereth them, *<br/>
+and forgetteth not the <u>comp</u>laint of the poor.<br/>
+<br/>
+13 Have mercy upon me, O LORD ;<br/>
+&nbsp;&nbsp;consider the trouble which I suffer of them <u>that</u> hate me, *<br/>
+thou that liftest <u>me up from</u> the gates of death;<br/>
+<br/>
+14 That I may show all thy praises within the gates of the daughter <u>of</u> Sion: *<br/>
+I will rejoice <u>in thy</u> salvation.<br/>
+<br/>
+15 The heathen are sunk down in the pit that <u>they</u> made; *<br/>
+in the same net which they hid privily <u>is their</u> foot taken.<br/>
+<br/>
+16 The LORD is known to exe<u>cute</u> judgment; *<br/>
+the ungodly is trapped in <u>the work of</u> his own hands.<br/>
+<br/>
+17 The wicked shall be turned to <u>de</u>struction, *<br/>
+and all the peo<u>ple that</u> forget God.<br/>
+<br/>
+18 For the poor shall not alway be <u>for</u>gotten; *<br/>
+the patient abiding of the meek shall <u>not perish</u> for ever.<br/>
+<br/>
+19 Up, LORD , and let not man have the up<u>per</u> hand; *<br/>
+let the heathen <u>be judged</u> in thy sight.<br/>
+<br/>
+20 Put them in fear, <u>O </u>LORD , *<br/>
+that the heathen may know <u>themselves</u> to be but men.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '10': {
+    tone: '2',
+    text: `
+Why standest thou so far <u>off</u>, O LORD , *<br/>
+and hidest thy face in the needful <u>time of</u> trouble?<br/>
+<br/>
+2 The ungodly, for his own lust, doth persecute the <u>poor</u>: *<br/>
+let them be taken in the crafty wiliness that <u>they have</u> imagined.<br/>
+<br/>
+3 For the ungodly hath made boast of his own heart's de<u>sire</u>, *<br/>
+and speaketh good of the covetous, whom the <u>LORD</u> abhorreth.<br/>
+<br/>
+4 The ungodly is so proud, that he careth not for <u>God</u>, *<br/>
+neither is God in <u>all</u> his thoughts.<br/>
+<br/>
+5 His ways are alway <u>griev</u>ous; *<br/>
+thy judgments are far above out of his sight,<br/>
+&nbsp;&nbsp;and therefore defieth he <u>all</u> his enemies.<br/>
+<br/>
+6 For he hath said in his heart, Tush, I shall never be cast <u>down</u>, *<br/>
+there shall no harm happen <u>un</u>to me.<br/>
+<br/>
+7 His mouth is full of cursing, deceit, and <u>fraud</u>; *<br/>
+under his tongue is ungodli<u>ness</u> and vanity.<br/>
+<br/>
+8 He sitteth lurking in the thievish corners of the <u>streets</u>, *<br/>
+and privily in his lurking dens doth he murder the innocent;<br/>
+&nbsp;&nbsp;his eyes are set a<u>gainst</u> the poor.<br/>
+<br/>
+9 For he lieth waiting secretly; even as a lion lurketh he in his <u>den</u>, *<br/>
+that he may <u>ravish</u> the poor.<br/>
+<br/>
+10 He doth ravish the <u>poor</u>, *<br/>
+when he getteth him <u>into</u> his net.<br/>
+<br/>
+11 He falleth down, and <u>humb</u>leth himself, *<br/>
+that the congregation of the poor may fall into the <u>hands of</u> his<br/>
+captains.<br/>
+<br/>
+12 He hath said in his heart, Tush, God hath for<u>got</u>ten; *<br/>
+he hideth away his face, and he will <u>nev</u>er see it.<br/>
+<br/>
+13 Arise, O LORD God, and lift up thine <u>hand</u>; *<br/>
+for<u>get not</u> the poor.<br/>
+<br/>
+14 Wherefore should the wicked blaspheme <u>God</u>, *<br/>
+while he doth say in his heart, Tush, thou God <u>car</u>est not for it?<br/>
+<br/>
+15 Surely thou hast <u>seen</u> it; *<br/>
+for thou beholdest ungodliness and wrong,<br/>
+&nbsp;&nbsp;that thou mayest take the matter <u>into</u> thy hand.<br/>
+<br/>
+16 The poor committeth himself unto <u>thee</u>; *<br/>
+for thou art the helper <u>of</u> the friendless.<br/>
+<br/>
+17 Break thou the power of the ungodly and ma<u>li</u>cious; *<br/>
+search out his ungodliness, until <u>thou</u> find none.<br/>
+<br/>
+18 The LORD is King for ever and <u>ev</u>er, *<br/>
+and the heathen are perished <u>out of</u> the land.<br/>
+<br/>
+19 LORD , thou hast heard the desire of the <u>poor</u>; *<br/>
+thou preparest their heart, and <u>thine</u> ear hearkeneth;<br/>
+<br/>
+20 To help the fatherless and poor unto their <u>right</u>, *<br/>
+that the man of the earth be no more ex<u>alted</u> against them.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
+  '11': {
+    tone: '5b',
+    text: `
+In the LORD put I my <u>trust</u>; *<br/>
+how say ye then to my soul,<br/>
+&nbsp;&nbsp;that she should flee as a <u>bird</u> unto the hill?<br/>
+<br/>
+2 For lo, the ungodly bend their bow,<br/>
+&nbsp;&nbsp;and make ready their arrows within the <u>qui</u>ver, *<br/>
+that they may privily shoot at <u>them which</u> are true of heart.<br/>
+<br/>
+3 If the foundations be des<u>troyed</u>, *<br/>
+what <u>can</u> the righteous do?<br/>
+<br/>
+4 The LORD is in his holy <u>tem</u>ple; *<br/>
+the LORD ' S seat <u>is</u> in heaven.<br/>
+<br/>
+5 His eyes consider the <u>poor</u>, *<br/>
+and his eyelids try the <u>chil</u>dren of men.<br/>
+<br/>
+6 The LORD approveth the <u>right</u>eous: *<br/>
+but the ungodly, and him that delighteth in wickedness,<br/>
+&nbsp;&nbsp;<u>doth</u> his soul abhor.<br/>
+<br/>
+7 Upon the ungodly he shall rain snares,<br/>
+&nbsp;&nbsp;fire and brimstone, storm and <u>tem</u>pest: *<br/>
+this shall be their <u>por</u>tion to drink.<br/>
+<br/>
+8 For the righteous LORD loveth <u>right</u>eousness; *<br/>
+his countenance will behold the <u>thing</u> that is just.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spir</u>it; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
+  '12': {
+    tone: '4',
+    text: `
+Help me, LORD , for there is not one <u>godly man</u> left; *<br/>
+for the faithful are minished from among <u>the child</u>ren of men.<br/>
+<br/>
+2 They talk of vanity every one <u>with his</u> neighbour; *<br/>
+they do but flatter with their lips,<br/>
+&nbsp;&nbsp;and dissem<u>ble in</u> their double heart.<br/>
+<br/>
+3 The LORD shall root out all de<u>ceitful</u> lips, *<br/>
+and the tongue <u>that speak</u>eth proud things;<br/>
+<br/>
+4 Which have said, With our tongue will <u>we pre</u>vail; *<br/>
+we are they that ought to speak; who <u>is lord</u> over us?<br/>
+<br/>
+5 Now, for the comfortless troubles' sake <u>of the</u> needy, *<br/>
+and because of the <u>deep sighing</u> of the poor,<br/>
+<br/>
+6 I will up, <u>saith the</u> LORD ; *<br/>
+and will help every one from him that swelleth against him,<br/>
+&nbsp;&nbsp;and <u>will set</u> him at rest.<br/>
+<br/>
+7 The words of the <u>LORD are</u> pure words; *<br/>
+even as the silver which from the earth is tried,<br/>
+&nbsp;&nbsp;and purified sev<u>en times</u> in the fire.<br/>
+<br/>
+8 Thou shalt keep <u>them, O</u> LORD ; *<br/>
+thou shalt preserve them from this g<u>eneration</u> for ever.<br/>
+<br/>
+9 The ungodly walk on <u>every</u> side: *<br/>
+when they are exalted, the children of men <u>are put</u> to rebuke.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '13': {
+    tone: '8',
+    text: `
+How long wilt thou forget me, O LORD ; for <u>ev</u>er? *<br/>
+how long wilt thou <u>hide</u> thy face from me?<br/>
+<br/>
+2 How long shall I seek counsel in my soul,<br/>
+&nbsp;&nbsp;and be so vexed in my <u>heart</u>? *<br/>
+how long shall mine enemy <u>tri</u>umph over me?<br/>
+<br/>
+3 Consider, and hear me, O LORD my <u>God</u>; *<br/>
+lighten mine eyes, that I <u>sleep</u> not in death;<br/>
+<br/>
+4 Lest mine enemy say, I have prevailed a<u>gainst</u> him: *<br/>
+for if I be cast down, they that trouble me <u>will</u> rejoice at it.<br/>
+<br/>
+5 But my trust is in thy <u>mer</u>cy, *<br/>
+and my heart is joyful in <u>thy</u> salvation.<br/>
+<br/>
+6 I will sing of the LORD , because he hath dealt so lovingly with <u>me</u>;<br/>
+* yea, I will praise the Name of the <u>Lord</u> Most Highest.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '14': {
+    tone: '2',
+    text: `
+The fool hath said in his <u>heart</u>, *<br/>
+There <u>is</u> no God.<br/>
+<br/>
+2 They are corrupt, and become abominable in their <u>do</u>ings; *<br/>
+there is none that doeth good, no not one.<br/>
+<br/>
+3 The LORD looked down from heaven upon the children of <u>men</u>, *<br/>
+to see if there were any that would understand, and <u>seek af</u>ter God.<br/>
+<br/>
+4 But they are all gone out of the way,<br/>
+&nbsp;&nbsp;they are altogether become a<u>bo</u>minable; *<br/>
+there is none that doeth good, <u>no</u> not one.<br/>
+<br/>
+5 Have they no knowledge, that they are all such workers of <u>mis</u>chief, *<br/>
+eating up my people as it were bread, and call not u<u>pon</u> the LORD ?<br/>
+<br/>
+6 There were they brought in great fear, even where no fear <u>was</u>; *<br/>
+for God is in the generation <u>of</u> the righteous.<br/>
+<br/>
+7 As for you, ye have made a mock at the counsel of the <u>poor</u>; *<br/>
+because he putteth his <u>trust in</u> the LORD .<br/>
+<br/>
+8 Who shall give salvation unto Israel out of <u>Si</u>on? *<br/>
+When the LORD turneth the captivity of his people,<br/>
+&nbsp;&nbsp;then shall Jacob rejoice, and Israel <u>shall</u> be glad.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
+  '15': {
+    tone: '5',
+    text: `
+LORD , who shall dwell in thy <u>ta</u>bernacle? *<br/>
+or who shall rest up<u>on thy</u> holy hill?<br/>
+<br/>
+2 Even he that leadeth an uncorrupt <u>life</u>, *<br/>
+and doeth the thing which is right,<br/>
+&nbsp;&nbsp;and speaketh the <u>truth from</u> his heart.<br/>
+<br/>
+3 He that hath used no deceit in his tongue,<br/>
+&nbsp;&nbsp;nor done evil to his <u>neigh</u>bour, *<br/>
+and hath not <u>slandered his</u> neighbour.<br/>
+<br/>
+4 He that setteth not by himself, but is lowly in his own <u>eyes</u>, *<br/>
+and maketh much of <u>them that</u> fear the LORD .<br/>
+<br/>
+5 He that sweareth unto his neighbour, and disappointeth him <u>not</u>, *<br/>
+though it were to <u>his own</u> hindrance.<br/>
+<br/>
+6 He that hath not given his money upon <u>us</u>ury, *<br/>
+nor taken reward a<u>gainst the</u> innocent.<br/>
+<br/>
+7 Whoso doeth these <u>things</u> *<br/>
+<u>shall ne</u>ver fall.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+  '16': {
+    tone: '6',
+    text: `
+Preserve me, <u>O</u> God; *<br/>
+for in <u>thee have</u> I put my trust.<br/>
+<br/>
+2 O my soul, thou hast said unto <u>the</u> LORD , *<br/>
+Thou art my God; I have no <u>good like</u> unto thee.<br/>
+<br/>
+3 All my delight is upon the saints that are in <u>the</u> earth, *<br/>
+and upon such as <u>excel</u> in virtue.<br/>
+<br/>
+4 But they that run after anoth<u>er</u> god *<br/>
+<u>shall have</u> great trouble.<br/>
+<br/>
+5 Their drink-offerings of blood will I <u>not</u> offer, *<br/>
+neither make mention of <u>their names</u> within my lips.<br/>
+<br/>
+6 The LORD himself is the portion of mine inheritance, and of <u>my</u> cup; *<br/>
+<u>thou shalt</u> maintain my lot.<br/>
+<br/>
+7 The lot is fallen unto me in a <u>fair</u> ground; *<br/>
+yea, I have <u>a goodly</u> heritage.<br/>
+<br/>
+8 I will thank the LORD for giving <u>me</u> warning; *<br/>
+my reins also chasten <u>me in the</u> night season.<br/>
+<br/>
+9 I have set the LORD alway <u>be</u>fore me; *<br/>
+for he is on my right hand, <u>therefore</u> I shall not fall.<br/>
+<br/>
+10 Wherefore my heart is glad, and my glory <u>re</u>joiceth: *<br/>
+my flesh <u>also</u> shall rest in hope.<br/>
+<br/>
+11 For why? thou shalt not leave my soul <u>in</u> hell; *<br/>
+neither shalt thou suffer thy Holy One <u>to see</u> corruption.<br/>
+<br/>
+12 Thou shalt show me the path of life:<br/>
+&nbsp;&nbsp;in thy presence is the fulness <u>of</u> joy, *<br/>
+and at thy right hand there <u>is pleasure</u> for evermore.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '17': {
+    tone: '4',
+    text: `
+Hear the right, O LORD , consider <u>my com</u>plaint, *<br/>
+and hearken unto my prayer, that goeth <u>not out</u> of feigned lips.<br/>
+<br/>
+2 Let my sentence come forth <u>from thy</u> presence; *<br/>
+and let thine eyes look upon <u>the thing that</u> is equal.<br/>
+<br/>
+3 Thou hast proved and visited mine heart in the night season;<br/>
+&nbsp;&nbsp;thou hast tried me, and shalt find no <u>wickedness</u> in me; *<br/>
+for I am utterly purposed that <u>my mouth</u> shall not offend.<br/>
+<br/>
+4 As for the <u>works of</u> men, *<br/>
+by the word of thy lips I have kept me from the ways <u>of the</u><br/>
+destroyer.<br/>
+<br/>
+5 O hold thou up my goings <u>in thy</u> paths, *<br/>
+that <u>my foot</u>steps slip not.<br/>
+<br/>
+6 I have called upon thee, O God, for <u>thou shalt</u> hear me: *<br/>
+incline thine ear to me, and heark<u>en un</u>to my words.<br/>
+<br/>
+7 Show thy marvellous loving-kindness,<br/>
+&nbsp;&nbsp;thou that art the Saviour of them which <u>put their</u> trust in thee, *<br/>
+from such as <u>resist</u> thy right hand.<br/>
+<br/>
+8 Keep me as the apple <u>of an</u> eye; *<br/>
+hide me under <u>the sha</u>dow of thy wings,<br/>
+<br/>
+9 From the un<u>godly, that</u> trouble me; *<br/>
+mine enemies compass me round about, <u>to take</u> away my soul.<br/>
+<br/>
+10 They are inclosed in <u>their own</u> fat, *<br/>
+and their <u>mouth speak</u>eth proud things.<br/>
+<br/>
+11 They lie waiting in our way on <u>every</u> side, *<br/>
+watching to cast <u>us down</u> to the ground;<br/>
+<br/>
+12 Like as a lion that is greedy <u>of his</u> prey, *<br/>
+and as it were a lion's whelp lurking <u>in se</u>cret places.<br/>
+<br/>
+13 Up, LORD , disappoint him, and <u>cast him</u> down; *<br/>
+deliver my soul from the ungod<u>ly, by</u> thine own sword;<br/>
+<br/>
+14 Yea, by thy hand, O LORD ; from the men of the <u>evil</u> world; *<br/>
+which have their portion in this life,<br/>
+&nbsp;&nbsp;whose bellies thou fillest <u>with thy</u> hid treasure.<br/>
+<br/>
+15 They have children at <u>their de</u>sire, *<br/>
+and leave the rest of <u>their sub</u>stance for their babes.<br/>
+<br/>
+16 But as for me, I shall behold thy <u>presence in</u> righteousness; *<br/>
+and when I awake up after thy likeness, <u>I shall</u> be satisfied.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Ho</u>ly Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '18': {
+    tone: '5',
+    text: `
+I will love thee, O LORD , my <u>strength</u>. *<br/>
+The LORD is my stony <u>rock, and</u> my defence;<br/>
+<br/>
+2 My Saviour, my God, and my might, in whom I will <u>trust</u>; *<br/>
+my buckler, the horn also of my salvation, <u>and my</u> refuge.<br/>
+<br/>
+3 I will call upon the LORD , which is worthy to be <u>praised</u>; *<br/>
+so shall I be <u>safe from mine</u> enemies.<br/>
+<br/>
+4 The sorrows of death <u>com</u>passed me, *<br/>
+and the overflowings of ungodliness <u>made me</u> afraid.<br/>
+<br/>
+5 The pains of hell came ab<u>out</u> me; *<br/>
+the snares of death <u>over</u>took me.<br/>
+<br/>
+6 In my trouble I called upon the <u>LORD</u> , *<br/>
+and complained <u>unto</u> my God:<br/>
+<br/>
+7 So he heard my voice out of his holy <u>tem</u>ple, *<br/>
+and my complaint came before him; it entered even <u>into</u> his ears.<br/>
+<br/>
+[tone_4]<br/>
+<br/>
+8 The earth <u>trembled and</u> quaked, *<br/>
+the very foundations also of the hills shook, and were removed,<br/>
+&nbsp;&nbsp;<u>because</u> he was wroth.<br/>
+<br/>
+9 There went a smoke out <u>in his</u> presence, *<br/>
+and a consuming fire out of his mouth, so that coals <u>were kin</u>dled at<br/>
+it.<br/>
+<br/>
+10 He bowed the heavens also, <u>and came</u> down, *<br/>
+and it <u>was dark</u> under his feet.<br/>
+<br/>
+11 He rode upon the Cherubim, <u>and did</u> fly; *<br/>
+he came flying upon <u>the wings</u> of the wind.<br/>
+<br/>
+12 He made darkness his <u>secret</u> place, *<br/>
+his pavilion round about him with dark water,<br/>
+&nbsp;&nbsp;and <u>thick clouds</u> to cover him.<br/>
+<br/>
+13 At the brightness of his presence his <u>clouds re</u>moved; *<br/>
+<u>hailstones</u> and coals of fire.<br/>
+<br/>
+14 The LORD also thundered out of heaven,<br/>
+&nbsp;&nbsp;and the Highest <u>gave his</u> thunder; *<br/>
+<u>hailstones</u> and coals of fire.<br/>
+<br/>
+15 He sent out his <u>arrows, and</u> scattered them; *<br/>
+he cast forth lightnings, and destroyed them.<br/>
+<br/>
+16 The springs of waters were seen,<br/>
+&nbsp;&nbsp;and the foundations of the round world <u>were dis</u>covered, *<br/>
+at thy chiding, O LORD ,<br/>
+&nbsp;&nbsp;at the blasting of the breath <u>of thy</u> displeasure.<br/>
+<br/>
+17 He sent down from on <u>high to</u> fetch me, *<br/>
+and took me out <u>of many</u> waters.<br/>
+<br/>
+18 He delivered me from my strongest enemy,<br/>
+&nbsp;&nbsp;and from <u>them which</u> hate me; *<br/>
+for they were <u>too migh</u>ty for me.<br/>
+<br/>
+19 They came upon me in the day <u>of my</u> trouble; *<br/>
+but the LORD <u>was my</u> upholder.<br/>
+<br/>
+20 He brought me forth also into a <u>place of</u> liberty; *<br/>
+he brought me forth, even because he had <u>a fa</u>vour unto me.<br/>
+<br/>
+[tone6]<br/>
+<br/>
+21 The LORD rewarded me after my right<u>eous</u> dealing, *<br/>
+according to the cleanness of <u>my hands did</u> he recompense me.<br/>
+<br/>
+22 Because I have kept the ways of <u>the</u> LORD , *<br/>
+and have not forsaken my <u>God, as</u> the wicked doth.<br/>
+<br/>
+23 For I have an eye unto all <u>his</u> laws, *<br/>
+and will not cast out his <u>command</u>ments from me.<br/>
+<br/>
+24 I was also uncorrupt <u>be</u>fore him, *<br/>
+and esc<u>hewed mine</u> own wickedness.<br/>
+<br/>
+25 Therefore the LORD rewarded me after my right<u>eous</u> dealing, *<br/>
+and according unto the cleanness of <u>my hands in</u> his eyesight.<br/>
+<br/>
+26 With the holy thou shalt <u>be</u> holy, *<br/>
+and with a perfect man <u>thou shalt</u> be perfect.<br/>
+<br/>
+27 With the clean thou shalt <u>be</u> clean, *<br/>
+and with the froward <u>thou shalt</u> be froward.<br/>
+<br/>
+28 For thou shalt save the people that are in <u>ad</u>versity,<br/>
+and shalt bring down <u>the high</u> looks of the proud.<br/>
+<br/>
+29 Thou also shalt light <u>my</u> candle; *<br/>
+the LORD my God shall make <u>my dark</u>ness to be light.<br/>
+<br/>
+30 For in thee I shall discomfit an host <u>of</u> men, *<br/>
+and with the help of my God I shall <u>leap ov</u>er the wall.<br/>
+<br/>
+31 The way of God is an undefil<u>ed</u> way: *<br/>
+the word of the LORD also is tried in the fire;<br/>
+&nbsp;&nbsp;he is the defender of all them <u>that put</u> their trust in him.<br/>
+<br/>
+32 For who is God, but <u>the</u> LORD ? *<br/>
+or who hath an<u>y strength</u>, except our God?<br/>
+<br/>
+33 It is God that girdeth me with strength <u>of</u> war, *<br/>
+and mak<u>eth my</u> way perfect.<br/>
+<br/>
+34 He maketh my feet <u>like</u> harts' feet, *<br/>
+<u>and setteth</u> me up on high.<br/>
+<br/>
+35 He teacheth mine hands <u>to</u> fight, *<br/>
+and mine arms shall <u>bend even</u> a bow of steel.<br/>
+<br/>
+[tone5b]<br/>
+<br/>
+36 Thou hast given me the defence of thy sal<u>va</u>tion; *<br/>
+thy right hand also shall hold me up,<br/>
+&nbsp;&nbsp;and thy loving cor<u>rection</u> shall make me great.<br/>
+<br/>
+37 Thou shalt make room enough under me for to <u>go</u>, *<br/>
+that my <u>foot</u>steps shall not slide.<br/>
+<br/>
+38 I will follow upon mine enemies, and over<u>take</u> them; *<br/>
+neither will I turn again till I <u>have</u> destroyed them.<br/>
+<br/>
+39 I will smite them, that they shall not be able to <u>stand</u>, *<br/>
+but fall <u>un</u>der my feet.<br/>
+<br/>
+40 Thou hast girded me with strength unto the <u>bat</u>tle; *<br/>
+thou shalt throw down mine <u>enem</u>ies under me.<br/>
+<br/>
+41 Thou hast made mine enemies also to turn their backs up<u>on</u> me, *<br/>
+and I shall destroy <u>them</u> that hate me.<br/>
+<br/>
+42 They shall cry, but there shall be none to <u>help</u> them; *<br/>
+yea, even unto the LORD shall they cry,<br/>
+&nbsp;&nbsp;but he <u>shall</u> not hear them.<br/>
+<br/>
+43 I will beat them as small as the dust before the <u>wind</u>: *<br/>
+I will cast them out as the <u>clay</u> in the streets.<br/>
+<br/>
+44 Thou shalt deliver me from the strivings of the <u>peo</u>ple, *<br/>
+and thou shalt make me the head of the nations;<br/>
+&nbsp;&nbsp;a people whom I have not <u>known</u> shall serve me.<br/>
+<br/>
+45 As soon as they hear of me, they shall o<u>bey</u> me; *<br/>
+the strangers shall feign ob<u>edi</u>ence unto me.<br/>
+<br/>
+46 The strangers shall <u>fail</u>, *<br/>
+and come trembling <u>out of</u> their strongholds.<br/>
+<br/>
+47 The LORD liveth; and blessèd be my strong <u>help</u>er, *<br/>
+and praised be the God of <u>my</u> salvation;<br/>
+<br/>
+48 Even the God that seeth that I be av<u>enged</u>, *<br/>
+and subdueth the <u>peo</u>ple unto me.<br/>
+<br/>
+49 It is he that delivereth me from my cruel enemies,<br/>
+&nbsp;&nbsp;and setteth me up above mine <u>ad</u>versaries: *<br/>
+thou shalt rid me <u>from</u> the wicked man.<br/>
+<br/>
+50 For this cause will I give thanks unto thee, O LORD , among the <u>Gen</u>tiles, *<br/>
+and sing praises <u>un</u>to thy Name.<br/>
+<br/>
+51 Great prosperity giveth he unto his <u>King</u>, *<br/>
+and showeth loving-kindness unto David his anointed, and unto his<br/>
+<u>seed</u> for evermore.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
+  '19': {
+    tone: '7',
+    text: `
+The heavens declare the <u>glory</u> of God; *<br/>
+and the firmament <u>showeth his</u> handy-work.<br/>
+<br/>
+2 One day <u>telleth an</u>other; *<br/>
+and one night certi<u>fieth an</u>other.<br/>
+<br/>
+3 There is neither <u>speech nor</u> language; *<br/>
+but their voices are <u>heard a</u>mong them.<br/>
+<br/>
+4 Their sound is gone <u>out in</u>to all lands; *<br/>
+and their words into the <u>ends of</u> the world.<br/>
+<br/>
+5 In them hath he set a <u>tabernacle</u> for the sun; *<br/>
+which cometh forth as a bridegroom out of his chamber,<br/>
+&nbsp;&nbsp;and rejoiceth as a <u>giant to</u> run his course.<br/>
+<br/>
+6 It goeth forth from the uttermost part of the heaven,<br/>
+&nbsp;&nbsp;and runneth about unto the <u>end of</u> it again; *<br/>
+and there is nothing <u>hid from the</u> heat thereof.<br/>
+<br/>
+7 The law of the LORD is an undefiled law, con<u>verting</u> the soul; *<br/>
+the testimony of the LORD is sure,<br/>
+&nbsp;&nbsp;and giveth wisdom <u>unto the</u> simple.<br/>
+<br/>
+8 The statutes of the LORD are <u>right, and re</u>joice the heart; *<br/>
+the commandment of the LORD is pure,<br/>
+&nbsp;&nbsp;and giveth <u>light un</u>to the eyes.<br/>
+<br/>
+9 The fear of the LORD is clean, and en<u>dureth for</u> ever; *<br/>
+the judgments of the LORD are true, and righteous <u>alto</u>gether.<br/>
+<br/>
+10 More to be desired are they than gold, <u>yea, than</u> much fine gold;<br/>
+* sweeter also than honey, <u>and the</u> honeycomb.<br/>
+<br/>
+11 Moreover, by <u>them is thy</u> servant taught; *<br/>
+and in keeping of them <u>there is</u> great reward.<br/>
+<br/>
+12 Who can tell how <u>oft he of</u>fendeth? *<br/>
+O cleanse thou me <u>from my</u> secret faults.<br/>
+<br/>
+13 Keep thy servant also from presumptuous sins,<br/>
+&nbsp;&nbsp;lest they get the do<u>minion</u> over me; *<br/>
+so shall I be undefiled, and innocent <u>from the</u> great offence.<br/>
+<br/>
+14 Let the words of my mouth, and the meditation of my heart,<br/>
+&nbsp;&nbsp;be alway ac<u>ceptable</u> in thy sight, *<br/>
+O LORD , my strength and <u>my re</u>deemer.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+  '20': {
+    tone: '8b',
+    text: `
+The LORD hear thee in the day of <u>trou</u>ble; *<br/>
+the Name of the God of <u>Jacob</u> defend thee:<br/>
+<br/>
+2 Send thee help from the <u>san</u>ctuary, *<br/>
+and strengthen thee <u>out</u> of Sion:<br/>
+<br/>
+3 Remember all thy <u>off</u>erings, *<br/>
+and accept <u>thy</u> burnt-sacrifice:<br/>
+<br/>
+4 Grant thee thy heart's des<u>ire</u>, *<br/>
+and ful<u>fill</u> all thy mind.<br/>
+<br/>
+5 We will rejoice in thy salvation,<br/>
+&nbsp;&nbsp;and triumph in the Name of the Lord our <u>God</u>: *<br/>
+the LORD perform all <u>thy</u> petitions.<br/>
+<br/>
+6 Now know I that the LORD helpeth his anointed,<br/>
+and will hear him from his holy <u>hea</u>ven, *<br/>
+even with the wholesome <u>strength of</u> his right hand.<br/>
+<br/>
+7 Some put their trust in chariots, and some in <u>hor</u>ses; *<br/>
+but we will remember the Name <u>of</u> the LORD our God.<br/>
+<br/>
+8 They are brought down and <u>fall</u>en; *<br/>
+but we are risen <u>and</u> stand upright.<br/>
+<br/>
+9 Save, LORD ; and hear us, O King of <u>hea</u>ven, *<br/>
+when we <u>call</u> upon thee.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
+  '21': {
+    tone: '7',
+    text: `
+The King shall rej<u>oice in thy</u> strength, O LORD ; *<br/>
+exceeding glad shall he be of <u>thy sal</u>vation.<br/>
+<br/>
+2 Thou hast given <u>him his</u> heart's desire, *<br/>
+and hast not denied him the re<u>quest of</u> his lips.<br/>
+<br/>
+3 For thou shalt meet him with the <u>blessings of</u> goodness, *<br/>
+and shalt set a crown of pure <u>gold up</u>on his head.<br/>
+<br/>
+4 He asked life of thee; and thou gavest <u>him a</u> long life, *<br/>
+even for <u>ever and</u> ever.<br/>
+<br/>
+5 His honour is great in <u>thy sal</u>vation; *<br/>
+glory and great worship shalt thou <u>lay up</u>on him.<br/>
+<br/>
+6 For thou shalt give him ever<u>lasting fe</u>licity, *<br/>
+and make him glad with the <u>joy of thy</u> countenance.<br/>
+<br/>
+7 And why? because the King putteth his <u>trust in</u> the LORD ; *<br/>
+and in the mercy of the Most Highest he <u>shall not</u> miscarry.<br/>
+<br/>
+8 All thine enemies <u>shall feel</u> thine hand; *<br/>
+thy right hand shall find out <u>them that</u> hate thee.<br/>
+<br/>
+9 Thou shalt make them like a fiery oven in <u>time of</u> thy wrath: *<br/>
+the LORD shall destroy them in his displeasure,<br/>
+&nbsp;&nbsp;and the <u>fire shall con</u>sume them.<br/>
+<br/>
+10 Their fruit shalt thou root <u>out of</u> the earth, *<br/>
+and their seed from among the <u>children</u> of men.<br/>
+<br/>
+11 For they intended <u>mischief ag</u>ainst thee, *<br/>
+and imagined such a device as they are not <u>able</u> to perform.<br/>
+<br/>
+12 Therefore shalt thou <u>put them</u> to flight, *<br/>
+and the strings of thy bow shalt thou make ready a<u>gainst the</u> face of<br/>
+them.<br/>
+<br/>
+13 Be thou exalted, LORD , <u>in thine</u> own strength; *<br/>
+so will we sing, and <u>praise thy</u> power.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+  '22': {
+    tone: '2',
+    text: `
+My God, my God, look upon me; why hast thou for<u>sak</u>en me? *<br/>
+and art so far from my health, and from the words of <u>my</u> complaint?<br/>
+<br/>
+2 O my God, I cry in the day-time, but thou hearest <u>not</u>; *<br/>
+and in the night season also I <u>take</u> no rest.<br/>
+<br/>
+3 And thou continuest <u>ho</u>ly, *<br/>
+O thou <u>Worship</u> of Israel.<br/>
+<br/>
+4 Our fathers hoped in <u>thee</u>; *<br/>
+they trusted in thee, and thou <u>didst</u> deliver them.<br/>
+<br/>
+5 They called upon thee, and were <u>hol</u>pen; *<br/>
+they put their trust in thee, and were <u>not</u> confounded.<br/>
+<br/>
+6 But as for me, I am a worm, and no <u>man</u>; *<br/>
+a very scorn of men, and the outcast <u>of</u> the people.<br/>
+<br/>
+7 All they that see me laugh me to <u>scorn</u>; *<br/>
+they shoot out their lips, and <u>shake their</u> heads, saying,<br/>
+<br/>
+8 He trusted in the LORD , that he would de<u>liv</u>er him; *<br/>
+let him deliver him, if <u>he</u> will have him.<br/>
+<br/>
+9 But thou art he that took me out of my mother's <u>womb</u>; *<br/>
+thou wast my hope, when I hanged yet upon my <u>mo</u>ther's breasts.<br/>
+<br/>
+10 I have been left unto thee ever since I was <u>born</u>; *<br/>
+thou art my God even from my <u>mo</u>ther's womb.<br/>
+<br/>
+11 O go not from me; for trouble is hard at <u>hand</u>, *<br/>
+and there is <u>none</u> to help me.<br/>
+<br/>
+12 Many oxen are come ab<u>out</u> me; *<br/>
+fat bulls of Bashan close me in on <u>ev</u>ery side.<br/>
+<br/>
+13 They gape upon me with their <u>mouths</u>, *<br/>
+as it were a ramping and a <u>roar</u>ing lion.<br/>
+<br/>
+14 I am poured out like water, and all my bones are out of <u>joint</u>; *<br/>
+my heart also in the midst of my body is even like <u>melt</u>ing wax.<br/>
+<br/>
+15 My strength is dried up like a potsherd,<br/>
+&nbsp;&nbsp;and my tongue cleaveth to my <u>gums</u>, *<br/>
+and thou bringest me into the <u>dust</u> of death.<br/>
+<br/>
+16 For many dogs are come ab<u>out</u> me, *<br/>
+and the council of the wicked layeth <u>siege</u> against me.<br/>
+<br/>
+17 They pierced my hands and my feet:<br/>
+&nbsp;&nbsp;I may tell all my <u>bones</u>: *<br/>
+they stand staring and <u>looking</u> upon me.<br/>
+<br/>
+18 They part my garments am<u>ong</u> them, *<br/>
+and cast lots up<u>on</u> my vesture.<br/>
+<br/>
+19 But be not thou far from me, O <u>LORD</u> ; *<br/>
+thou art my succour, <u>haste thee</u> to help me.<br/>
+<br/>
+20 Deliver my soul from the <u>sword</u>, *<br/>
+my darling from the power <u>of</u> the dog.<br/>
+<br/>
+21 Save me from the lion's <u>mouth</u>; *<br/>
+thou hast heard me also from among the <u>horns of</u> the unicorns.<br/>
+<br/>
+22 I will declare thy Name unto <u>my</u> brethren; *<br/>
+in the midst of the congrega<u>tion will</u> I praise thee.<br/>
+<br/>
+23 O praise the LORD , ye <u>that</u> fear him: *<br/>
+magnify him, all ye of the seed of Jacob;<br/>
+&nbsp;&nbsp;and fear him, all <u>ye seed</u> of Israel.<br/>
+<br/>
+24 For he hath not despised nor abhorred the low estate of <u>the</u> poor; *<br/>
+he hath not hid his face from him;<br/>
+&nbsp;&nbsp;but when he called un<u>to him</u> he heard him.<br/>
+<br/>
+25 My praise is of thee in the great con<u>greg</u>ation; *<br/>
+my vows will I perform in the sight <u>of them</u> that fear him.<br/>
+<br/>
+26 The poor shall eat, and be satisfied;<br/>
+&nbsp;&nbsp;they that seek after the LORD <u>shal</u>l praise him: *<br/>
+your heart <u>shall live</u> for ever.<br/>
+<br/>
+27 All the ends of the world shall remember themselves, and be<br/>
+turned unto <u>the</u> LORD ; *<br/>
+and all the kindreds of the nations <u>shall worship</u> before him.<br/>
+<br/>
+28 For the kingdom is <u>the</u> LORD'S, *<br/>
+and he is the Governor <u>among</u> the nations.<br/>
+<br/>
+29 All such as be fat up<u>on</u> earth *<br/>
+<u>have eaten</u>, and worshipped.<br/>
+<br/>
+30 All they that go down into the dust shall kneel <u>be</u>fore him; *<br/>
+and no man <u>hath quickened</u> his own soul.<br/>
+<br/>
+31 My seed <u>shall</u> serve him: *<br/>
+they shall be counted unto the Lord for <u>a ge</u>neration.<br/>
+<br/>
+32 They shall come, and shall declare <u>his</u> righteousness *<br/>
+unto a people that shall <u>be born, whom</u> the Lord hath made.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '23': {
+    tone: '1',
+    text: `
+The LORD <u>is my</u> shepherd; *<br/>
+therefore|can I·lack|no-|thing.<br/>
+<br/>
+2 He shall feed me <u>in a green</u> pasture, *<br/>
+and lead me forth beside the|waters·of|com-|fort.<br/>
+<br/>
+3 He <u>shall con</u>vert my soul, *<br/>
+and bring me forth in the paths of righteousness|for his|Name's|<br/>
+sake.<br/>
+<br/>
+4 Yea, though I walk through the valley of the shadow of death,<br/>
+&nbsp;&nbsp;I will <u>fear no</u> evil; *<br/>
+for thou art with me;<br/>
+&nbsp;&nbsp;thy rod and thy|staff|comfort|me.<br/>
+<br/>
+5 Thou shalt prepare a table before me in the presence of <u>them that</u><br/>
+trouble me; *<br/>
+thou hast anointed my head with|oil,<br/>
+&nbsp;&nbsp;and my|cup shall|be full.<br/>
+<br/>
+6 Surely thy loving-kindness and mercy shall follow me all the <u>days of</u> my life; *<br/>
+and I will dwell in the house of the|LORD for|ev-|er.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Hol</u>y Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world|without|end.|Amen.<br/>
+    `,
+  },
+  '23': {
+    tone: '6',
+    text: `
+THE LORD is <u>my</u> shepherd; *<br/>
+therefore <u>can I</u> lack nothing.<br/>
+<br/>
+2 He shall feed me in a <u>green</u> pasture, *<br/>
+and lead me forth beside <u>the waters</u> of comfort.<br/>
+<br/>
+3 He shall convert <u>my</u> soul, *<br/>
+and bring me forth in the paths of righteous<u>ness for</u> his Name's sake.<br/>
+<br/>
+4 Yea, though I walk through the valley of the shadow of death,<br/>
+&nbsp;&nbsp;I will fear <u>no</u> evil; *<br/>
+for thou art with me;<br/>
+&nbsp;&nbsp;thy rod <u>and thy staff</u> comfort me.<br/>
+<br/>
+5 Thou shalt prepare a table before me in the presence of them <u>that</u><br/>
+trouble me; *<br/>
+&nbsp;&nbsp;thou hast anointed my head with oil,<br/>
+&nbsp;&nbsp;and <u>my cup</u> shall be full.<br/>
+<br/>
+6 Surely thy loving-kindness and mercy shall follow me all the days<br/>
+of <u>my</u> life; *<br/>
+and I will dwell in the house of <u>the LORD</u> for ever.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '24': {
+    tone: '7',
+    text: `
+The earth is the LORD ' S , and <u>all that there</u>in is; *<br/>
+the compass of the world, and <u>they that</u> dwell therein.<br/>
+<br/>
+2 For he hath <u>founded it up</u>on the seas, *<br/>
+and <u>stablished it up</u>on the floods.<br/>
+<br/>
+3 Who shall ascend into the <u>hill of</u> the LORD ? *<br/>
+or who shall rise up <u>in his</u> holy place?<br/>
+<br/>
+4 Even he that hath clean <u>hands, and a</u> pure heart; *<br/>
+and that hath not lift up his mind unto vanity,<br/>
+&nbsp;&nbsp;nor sworn to de<u>ceive his</u> neighbour.<br/>
+<br/>
+5 He shall receive the <u>blessing</u> from the LORD , *<br/>
+and righteousness from the God of <u>his sal</u>vation.<br/>
+<br/>
+6 This is the generation of <u>them that</u> seek him; *<br/>
+even of them that seek thy face, O <u>God of</u> Jacob.<br/>
+<br/>
+7 Lift up your heads, O ye gates;<br/>
+&nbsp;&nbsp;and be ye lift up, ye <u>ever</u>lasting doors; *<br/>
+and the King of <u>glory</u> shall come in.<br/>
+<br/>
+8 Who is this <u>King of</u> glory? *<br/>
+It is the LORD strong and mighty,<br/>
+&nbsp;&nbsp;even the LORD <u>mighty in</u> battle.<br/>
+<br/>
+9 Lift up your heads, O ye gates;<br/>
+&nbsp;&nbsp;and be ye lift up, ye <u>ever</u>lasting doors; *<br/>
+and the King of <u>glory</u> shall come in.<br/>
+<br/>
+10 Who is this <u>King of</u> glory? *<br/>
+Even the LORD of hosts, he is the <u>King of</u> glory.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+};

@@ -34,6 +34,7 @@ def convert_psalm(psalm_file_name, psalm_number):
                 reformatted_text += line
         reformatted_text += "    `,\n"
         reformatted_text += "  },\n"
+    return reformatted_text
 
 ####### Script ########
 
@@ -49,7 +50,7 @@ with open('_out.js', 'w') as outf:
     count = psalm_num # int(raw_input('>>> '))
     outf.write('module.exports.Psalms = {\n')
     for i in range(1, count + 1):
-        if count + 1 == 23:
+        if i == 23:
             append_text1 = convert_psalm('psalm_023_1', i)
             append_text2 = convert_psalm('psalm_023_6', i)
             outf.write(append_text1)

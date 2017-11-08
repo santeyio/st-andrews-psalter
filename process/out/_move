@@ -1,5 +1,5 @@
 #!/bin/bash
 
 python _to_json.py
-cp _out.js /home/santeyio/dev/vuepsalter/src/psalms/psalms.js
-cd ~/dev/vuepsalter && git add . && git commit -m 'add psalms' && git push
+cp _out.js /home/santeyio/dev/psalms/vuepsalter/src/psalms/psalms.js
+cd ~/dev/psalms/vuepsalter && git add . && git commit -m 'add psalms' && git push
