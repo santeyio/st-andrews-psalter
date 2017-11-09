@@ -1363,4 +1363,50 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '26': {
+    tone: '4',
+    text: `
+Be thou my Judge, O LORD ,<br/>
+&nbsp;&nbsp;for <u>I have walked</u> innocently: *<br/>
+my trust hath been also in the LORD ,<br/>
+&nbsp;&nbsp;<u>therefore</u> shall I not fall.<br/>
+<br/>
+2 Examine me, O <u>LORD , and</u> prove me; *<br/>
+try out <u>my reins</u> and my heart.<br/>
+<br/>
+3 For thy loving-kindness is ever be<u>fore mine</u> eyes; *<br/>
+and I <u>will walk</u> in thy truth.<br/>
+<br/>
+4 I have not dwelt <u>with vain</u> persons; *<br/>
+neither will I have fellowship <u>with the</u> deceitful.<br/>
+<br/>
+5 I have hated the congregation <u>of the</u> wicked; *<br/>
+and will not sit <u>among the</u> ungodly.<br/>
+<br/>
+6 I will wash my hands in innocen<u>cy, O</u> LORD ; *<br/>
+and so will <u>I go to</u> thine altar;<br/>
+<br/>
+7 That I may show the voice <u>of thanks</u>giving, *<br/>
+and tell <u>of all</u> thy wondrous works.<br/>
+<br/>
+8 LORD , I have loved the habitation <u>of thy</u> house, *<br/>
+and the place where <u>thine hon</u>our dwelleth.<br/>
+<br/>
+9 O shut not up my soul <u>with the</u> sinners, *<br/>
+nor <u>my life with</u> the blood-thirsty;<br/>
+<br/>
+10 In whose <u>hands is</u> wickedness, *<br/>
+and their <u>right hand</u> is full of gifts.<br/>
+<br/>
+11 But as for me, I <u>will walk</u> innocently: *<br/>
+O deliver me, and <u>be merciful</u> unto me.<br/>
+<br/>
+12 My foot <u>standeth</u> right: *<br/>
+I will praise the LORD in <u>the cong</u>regations.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
