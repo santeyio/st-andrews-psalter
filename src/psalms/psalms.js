@@ -1409,4 +1409,73 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '27': {
+    tone: '2',
+    text: `
+The LORD is my light and my salvation;<br/>
+&nbsp;&nbsp;whom then shall I <u>fear</u>? *<br/>
+the LORD is the strength of my life;<br/>
+&nbsp;&nbsp;of whom then shall I <u>be</u> afraid?<br/>
+<br/>
+2 When the wicked, even mine enemies and my foes,<br/>
+&nbsp;&nbsp;came upon me to eat up my <u>flesh</u>, *<br/>
+they <u>stumbled</u> and fell.<br/>
+<br/>
+3 Though an host of men were laid against me,<br/>
+&nbsp;&nbsp;yet shall not my heart be af<u>raid</u>; *<br/>
+and though there rose up war against me,<br/>
+&nbsp;&nbsp;yet will I put my <u>trust</u> in him.<br/>
+<br/>
+4 One thing have I desired of the LORD , which I will re<u>quire</u>; *<br/>
+even that I may dwell in the house of the LORD all the days of my<br/>
+life,<br/>
+&nbsp;&nbsp;to behold the fair beauty of the LORD ,<br/>
+&nbsp;&nbsp;and to <u>visit</u> his temple.<br/>
+<br/>
+5 For in the time of trouble he shall hide me in his <u>ta</u>bernacle; *<br/>
+yea, in the secret place of his dwelling shall he hide me,<br/>
+&nbsp;&nbsp;and set me up upon a <u>rock</u> of stone.<br/>
+<br/>
+6 And now shall he lift up mine <u>head</u> *<br/>
+above mine enemies <u>round</u> about me.<br/>
+<br/>
+7 Therefore will I offer in his dwelling an oblation, with great<br/>
+<u>glad</u>ness: *<br/>
+I will sing and speak praises <u>unto</u> the LORD .<br/>
+<br/>
+8 Hearken unto my voice, O LORD , when I cry unto <u>thee</u>; *<br/>
+have mercy up<u>on me</u>, and hear me.<br/>
+<br/>
+9 My heart hath talked of thee, Seek ye my <u>face</u>: *<br/>
+Thy face, LORD , <u>will</u> I seek.<br/>
+<br/>
+10 O hide not thou thy <u>face</u> from me, *<br/>
+nor cast thy servant away <u>in</u> displeasure.<br/>
+<br/>
+11 Thou hast been my <u>su</u>ccour; *<br/>
+leave me not, neither forsake me, O God of <u>my</u> salvation.<br/>
+<br/>
+12 When my father and my mother for<u>sake</u> me, *<br/>
+the LORD <u>taketh</u> me up.<br/>
+<br/>
+13 Teach me thy way, O <u>LORD</u> , *<br/>
+and lead me in the right way, be<u>cause of</u> mine enemies.<br/>
+<br/>
+14 Deliver me not over into the will of mine <u>ad</u>versaries: *<br/>
+for there are false witnesses risen up against me,<br/>
+&nbsp;&nbsp;and <u>such as</u> speak wrong.<br/>
+<br/>
+15 I should utterly have <u>fain</u>ted, *<br/>
+but that I believe verily to see the goodness of the LORD in the <u>land</u><br/>
+<u>of</u> the living.<br/>
+<br/>
+16 O tarry thou the LORD ' S <u>lei</u>sure; *<br/>
+be strong, and he shall comfort thine heart;<br/>
+&nbsp;&nbsp;and put thou thy <u>trust in</u> the LORD .<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
