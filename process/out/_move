@@ -2,4 +2,4 @@
 
 python _to_json.py
 cp _out.js /home/santeyio/dev/psalms/vuepsalter/src/psalms/psalms.js
-cd ~/dev/psalms/vuepsalter && git add . && git commit -m 'add psalms' && git push
+cd ~/dev/psalms/vuepsalter && git add . && git commit -m 'add psalms' #&& git push
