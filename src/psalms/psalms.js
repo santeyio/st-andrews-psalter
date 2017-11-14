@@ -1717,4 +1717,52 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '32': {
+    tone: '4',
+    text: `
+Blessèd is he whose unrighteousness <u>is forg</u>iven, *<br/>
+and <u>whose sin</u> is covered.<br/>
+<br/>
+2 Blessèd is the man unto whom the LORD im<u>puteth no</u> sin, *<br/>
+and in <u>whose spirit</u> there is no guile.<br/>
+<br/>
+3 For whilst I <u>held my</u> tongue, *<br/>
+my bones consumed away through <u>my daily</u> complaining.<br/>
+<br/>
+4 For thy hand was heavy upon me <u>day and</u> night, *<br/>
+and my moisture was like <u>the drought</u> in summer.<br/>
+<br/>
+5 I acknowledged my sin <u>unto</u> thee; *<br/>
+and mine unrighteous<u>ness have</u> I not hid.<br/>
+<br/>
+6 I said, I will confess my sins <u>unto the</u> LORD ; *<br/>
+and so thou forgavest <u>the wicked</u>ness of my sin.<br/>
+<br/>
+7 For this shall every one that is godly make his prayer unto thee,<br/>
+&nbsp;&nbsp;in a time when thou <u>mayest be</u> found; *<br/>
+surely the great water-floods <u>shall not</u> come nigh him.<br/>
+<br/>
+8 Thou art a place to hide me in;<br/>
+&nbsp;&nbsp;thou shalt preserve <u>me from</u> trouble; *<br/>
+thou shalt compass me about <u>with songs of</u> deliverance.<br/>
+<br/>
+9 I will inform thee, and teach thee in the way wherein <u>thou shalt</u><br/>
+go; * and I <u>will guide</u> thee with mine eye.<br/>
+<br/>
+10 Be ye not like to horse and mule, which have no <u>under</u>standing; *<br/>
+whose mouths must be held with bit and bridle,<br/>
+&nbsp;&nbsp;else they <u>will not</u> obey thee.<br/>
+<br/>
+11 Great plagues re<u>main for the un</u>godly; *<br/>
+but whoso putteth his trust in the LORD ,<br/>
+&nbsp;&nbsp;mercy embrac<u>eth him</u> on every side.<br/>
+<br/>
+12 Be glad, O ye righteous, and rejoice <u>in the</u> LORD ; *<br/>
+and be joyful, <u>all ye that</u> are true of heart.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
