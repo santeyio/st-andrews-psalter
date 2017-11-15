@@ -1765,4 +1765,80 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '33': {
+    tone: '7b',
+    text: `
+Rejoice in the LORD , <u>O ye</u> righteous; *<br/>
+for it becometh well the <u>just to be</u> thankful.<br/>
+<br/>
+2 <u>Praise the</u> LORD with harp; *<br/>
+sing praises unto him with the lute, and <u>instrument of</u> ten strings.<br/>
+<br/>
+3 Sing unto the <u>Lord a</u> new song; *<br/>
+sing praises lustily unto him <u>with a good</u> courage.<br/>
+<br/>
+4 For the <u>word of the</u> LORD is true; *<br/>
+and all his <u>works are</u> faithful.<br/>
+<br/>
+5 He loveth <u>righteousness and</u> judgment; *<br/>
+the earth is full of the <u>goodness</u> of the LORD .<br/>
+<br/>
+6 By the word of the <u>LORD were the</u> heavens made; *<br/>
+and all the host of them by the <u>breath of</u> his mouth.<br/>
+<br/>
+7 He gathereth the waters of the sea together, as it <u>were up</u>on an<br/>
+heap; *<br/>
+and layeth up the deep, as <u>in a</u> treasure-house.<br/>
+<br/>
+8 Let all the <u>earth fear</u> the LORD : *<br/>
+stand in awe of him, all ye that <u>dwell in</u> the world.<br/>
+<br/>
+9 For he <u>spake, and</u> it was done; *<br/>
+he commanded, <u>and it</u> stood fast.<br/>
+<br/>
+10 The LORD bringeth the counsel of the <u>heathen</u> to nought, *<br/>
+and maketh the devices of the people to be of none effect,<br/>
+&nbsp;&nbsp;and casteth out the <u>counsels of</u> princes.<br/>
+<br/>
+11 The counsel of the LORD shall end<u>ure for</u> ever, *<br/>
+and the thoughts of his heart from generation to <u>gene</u>ration.<br/>
+<br/>
+12 Blessèd are the people whose God is the <u>Lord JE</u>HOVAH ; *<br/>
+and blessèd are the folk that he hath chosen to him,<br/>
+&nbsp;&nbsp;to <u>be his in</u>heritance.<br/>
+<br/>
+13 The LORD looketh down from heaven,<br/>
+&nbsp;&nbsp;and beholdeth all the <u>children</u> of men; *<br/>
+from the habitation of his dwelling,<br/>
+&nbsp;&nbsp;he considereth all them that <u>dwell on</u> the earth.<br/>
+<br/>
+14 He fashioneth <u>all the</u> hearts of them, *<br/>
+and under<u>standeth</u> all their works.<br/>
+<br/>
+15 There is no king that can be saved by the <u>multitude</u> of an host; *<br/>
+neither is any mighty man de<u>livered by</u> much strength.<br/>
+<br/>
+16 A horse is counted but a vain <u>thing to</u> save a man; *<br/>
+neither shall he deliver any man <u>by his</u> great strength.<br/>
+<br/>
+17 Behold, the eye of the LORD is up<u>on them that</u> fear him, *<br/>
+and upon them that put their <u>trust in his</u> mercy;<br/>
+<br/>
+18 To de<u>liver their</u> soul from death, *<br/>
+and to feed them <u>in the</u> time of dearth.<br/>
+<br/>
+19 Our soul hath patiently <u>tarried</u> for the LORD ; *<br/>
+for he is our <u>help and</u> our shield.<br/>
+<br/>
+20 For our <u>heart shall re</u>joice in him; *<br/>
+because we have <u>hoped in his</u> holy Name.<br/>
+<br/>
+21 Let thy merciful kindness, O LORD , <u>be up</u>on us, *<br/>
+like as we do <u>put our</u> trust in thee.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
