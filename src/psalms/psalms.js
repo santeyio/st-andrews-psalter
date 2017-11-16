@@ -1841,4 +1841,78 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '34': {
+    tone: '5b',
+    text: `
+I will alway give thanks unto the <u>LORD</u> ; *<br/>
+his praise shall <u>ever</u> be in my mouth.<br/>
+<br/>
+2 My soul shall make her boast in the <u>LORD</u> ; *<br/>
+the humble shall hear there<u>of</u>, and be glad.<br/>
+<br/>
+3 O praise the LORD with <u>me</u>, *<br/>
+and let us magnify his <u>Name</u> together.<br/>
+<br/>
+4 I sought the LORD , and he <u>heard</u> me; *<br/>
+yea, he delivered me <u>out</u> of all my fear.<br/>
+<br/>
+5 They had an eye unto him, and were <u>light</u>ened; *<br/>
+and their <u>faces</u> were not ashamed.<br/>
+<br/>
+6 Lo, the poor crieth, and the LORD <u>hear</u>eth him; *<br/>
+yea, and saveth him out of <u>all</u> his troubles.<br/>
+<br/>
+7 The angel of the LORD tarrieth round about them that <u>fear</u> him, *<br/>
+<u>and</u> delivereth them.<br/>
+<br/>
+8 O taste, and see, how gracious the <u>LORD</u> is: *<br/>
+blessèd is the man that <u>trust</u>eth in him.<br/>
+<br/>
+9 O fear the LORD , ye that are his <u>saints</u>; *<br/>
+for they that <u>fear him</u> lack nothing.<br/>
+<br/>
+10 The lions do lack, and suffer <u>hun</u>ger; *<br/>
+but they who seek the LORD shall want no manner of <u>thing</u> that is good.<br/>
+<br/>
+11 Come, ye children, and hearken unto <u>me</u>; *<br/>
+I will teach you the <u>fear</u> of the LORD .<br/>
+<br/>
+12 What man is he that lusteth to <u>live</u>, *<br/>
+and would <u>fain</u> see good days?<br/>
+<br/>
+13 Keep thy tongue from <u>ev</u>il, *<br/>
+and thy lips, <u>that</u> they speak no guile.<br/>
+<br/>
+14 Eschew evil, and do <u>good</u>; *<br/>
+seek peace, <u>and</u> ensue it.<br/>
+<br/>
+15 The eyes of the LORD are over the <u>right</u>eous, *<br/>
+and his ears are open <u>un</u>to their prayers.<br/>
+<br/>
+16 The countenance of the LORD is against them that do <u>ev</u>il, *<br/>
+to root out the remembrance of <u>them</u> from the earth.<br/>
+<br/>
+17 The righteous cry, and the LORD <u>hear</u>eth them, *<br/>
+and delivereth them out of <u>all</u> their troubles.<br/>
+<br/>
+18 The LORD is nigh unto them that are of a contrite <u>heart</u>, *<br/>
+and will save such as be of an <u>hum</u>ble spirit.<br/>
+<br/>
+19 Great are the troubles of the <u>right</u>eous; *<br/>
+but the LORD <u>delivereth</u> him out of all.<br/>
+<br/>
+20 He keepeth all his <u>bones</u>, *<br/>
+so that not one of <u>them</u> is broken.<br/>
+<br/>
+21 But misfortune shall slay the un<u>god</u>ly; *<br/>
+and they that hate the righteous <u>shall</u> be desolate.<br/>
+<br/>
+22 The LORD delivereth the souls of his <u>ser</u>vants; *<br/>
+and all they that put their trust in him shall <u>not</u> be destitute.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
 };
