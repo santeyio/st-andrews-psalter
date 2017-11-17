@@ -1915,4 +1915,112 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
     `,
   },
+  '35': {
+    tone: '2',
+    text: `
+Plead thou my cause, O LORD , with them that <u>strive</u> with me, *<br/>
+and fight thou against them that <u>fight</u> against me.<br/>
+<br/>
+2 Lay hand upon the shield and <u>buck</u>ler, *<br/>
+and stand <u>up</u> to help me.<br/>
+<br/>
+3 Bring forth the spear, and stop the way against them that pur<u>sue</u><br/>
+me: *<br/>
+say unto my soul, I am <u>thy</u> salvation.<br/>
+<br/>
+4 Let them be confounded, and put to shame, that seek after my<br/>
+<u>soul</u>; *<br/>
+let them be turned back, and brought to confusion, that imagine<br/>
+<u>mischief</u> for me.<br/>
+<br/>
+5 Let them be as the dust before the <u>wind</u>, *<br/>
+and the angel <u>of the</u> LORD scattering them.<br/>
+<br/>
+6 Let their way be dark and <u>slip</u>pery, *<br/>
+and let the angel of the <u>LORD</u> pursue them.<br/>
+<br/>
+7 For they have privily laid their net to destroy me without a <u>cause</u>;<br/>
+* yea, even without a cause have they made a <u>pit for</u> my soul.<br/>
+<br/>
+8 Let a sudden destruction come upon him unawares,<br/>
+&nbsp;&nbsp;and his net that he hath laid privily catch him<u>self</u>; *<br/>
+that he may fall into <u>his</u> own mischief.<br/>
+<br/>
+9 And my soul shall be joyful in the <u>LORD</u> ; *<br/>
+it shall rejoice in <u>his</u> salvation.<br/>
+<br/>
+10 All my bones shall say, LORD , who is like unto thee,<br/>
+who deliverest the poor from him that is too <u>strong</u> for him; *<br/>
+yea, the poor, and him that is in misery, from <u>him</u> that spoileth him?<br/>
+<br/>
+11 False witnesses did rise <u>up</u>: *<br/>
+they laid to my charge things that <u>I</u> knew not.<br/>
+<br/>
+12 They rewarded me evil for <u>good</u>, *<br/>
+to the great discomfort <u>of</u> my soul.<br/>
+<br/>
+13 Nevertheless, when they were sick, I put on sackcloth,<br/>
+and humbled my soul with <u>fast</u>ing; *<br/>
+and my prayer shall turn into <u>mine</u> own bosom.<br/>
+<br/>
+14 I behaved myself as though it had been my friend or my <u>bro</u>ther;<br/>
+* I went heavily, as one that mourneth <u>for</u> his mother.<br/>
+<br/>
+15 But in mine adversity they rejoiced,<br/>
+&nbsp;&nbsp;and gathered themselves to<u>ge</u>ther; *<br/>
+yea, the very abjects came together against me unawares,<br/>
+&nbsp;&nbsp;making mouths at me, <u>and</u> ceased not.<br/>
+<br/>
+16 With the flatterers were busy <u>mock</u>ers, *<br/>
+who gnashed upon me <u>with</u> their teeth.<br/>
+<br/>
+17 Lord, how long wilt thou look up<u>on</u> this? *<br/>
+O deliver my soul from the calamities which they bring on me,<br/>
+&nbsp;&nbsp;and my darling <u>from</u> the lions.<br/>
+<br/>
+18 So will I give thee thanks in the great congre<u>ga</u>tion; *<br/>
+I will praise thee a<u>mong</u> much people.<br/>
+<br/>
+19 O let not them that are mine enemies triumph over me un<u>godly</u>;<br/>
+* neither let them wink with their eyes, that hate me with<u>out</u> a<br/>
+cause.<br/>
+<br/>
+20 And why? their communing is not for <u>peace</u>; *<br/>
+but they imagine deceitful words against them that are quiet <u>in</u> the<br/>
+land.<br/>
+<br/>
+21 They gaped upon me with their mouths, and <u>said</u>, *<br/>
+Fie on thee! fie on thee!<br/>
+&nbsp;&nbsp;we saw it <u>with</u> our eyes.<br/>
+<br/>
+22 This thou hast seen, O <u>LORD</u> ; *<br/>
+hold not thy tongue then; go not far from <u>me</u>, O Lord.<br/>
+<br/>
+23 Awake, and stand up to judge my <u>qua</u>rrel; *<br/>
+avenge thou my cause, my <u>God and</u> my Lord.<br/>
+<br/>
+24 Judge me, O LORD my God, according to thy <u>right</u>eousness; *<br/>
+and let them not triumph <u>ov</u>er me.<br/>
+<br/>
+25 Let them not say in their hearts, There! there! so would we <u>have</u><br/>
+it; *<br/>
+neither let them say, <u>We have</u> devoured him.<br/>
+<br/>
+26 Let them be put to confusion and shame together, that rejoice at<br/>
+my <u>trou</u>ble; *<br/>
+let them be clothed with rebuke and dishonour, that boast<br/>
+them<u>selves</u> against me.<br/>
+<br/>
+27 Let them be glad and rejoice, that favour my righteous <u>deal</u>ing; *<br/>
+yea, let them say alway, Blessèd be the LORD ,<br/>
+&nbsp;&nbsp;who hath pleasure in the prosperity <u>of</u> his servant.<br/>
+<br/>
+28 And as for my tongue, it shall be talking of thy <u>right</u>eousness, *<br/>
+and of thy praise, <u>all the</u> day long.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
