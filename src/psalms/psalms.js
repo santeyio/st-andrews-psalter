@@ -2070,4 +2070,142 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '37': {
+    tone: '6',
+    text: `
+Fret not thyself because of the <u>un</u>godly; *<br/>
+neither be thou envious against <u>the ev</u>il doers.<br/>
+<br/>
+2 For they shall soon be cut down like <u>the</u> grass, *<br/>
+and be withered ev<u>en as</u> the green herb.<br/>
+<br/>
+3 Put thou thy trust in the LORD , and be do<u>ing</u> good; *<br/>
+dwell in the land, <u>and verily</u> thou shalt be fed.<br/>
+<br/>
+4 Delight thou in <u>the</u> LORD , *<br/>
+and he <u>shall give thee</u> thy heart's desire.<br/>
+<br/>
+5 Commit thy way unto the LORD , and put thy trust <u>in</u> him, *<br/>
+and he <u>shall bring</u> it to pass.<br/>
+<br/>
+6 He shall make thy righteousness as clear as <u>the</u> light, *<br/>
+and thy just dea<u>ling as</u> the noon-day.<br/>
+<br/>
+7 Hold thee still in the LORD , and abide patiently <u>up</u>on him: *<br/>
+but grieve not thyself at him whose way doth prosper,<br/>
+&nbsp;&nbsp;against the man that doeth aft<u>er ev</u>il counsels.<br/>
+<br/>
+8 Leave off from wrath, and let go <u>dis</u>pleasure: *<br/>
+fret not thyself, else shalt thou <u>be moved to</u> do evil.<br/>
+<br/>
+9 Wicked doers shall be root<u>ed</u> out; *<br/>
+and they that patiently abide the LORD , those shall <u>inhe</u>rit the land.<br/>
+<br/>
+10 Yet a little while, and the ungodly shall be <u>clean</u> gone: *<br/>
+thou shalt look after his place, <u>and</u> he shall be away.<br/>
+<br/>
+11 But the meek-spirited shall possess <u>the</u> earth, *<br/>
+and shall be refreshed in <u>the mul</u>titude of peace.<br/>
+<br/>
+12 The ungodly seeketh <u>counsel ag</u>ainst the just, *<br/>
+and gnasheth up-|on him|with his|teeth.<br/>
+<br/>
+13 The Lord shall <u>laugh him</u> to scorn; *<br/>
+for he hath seen that his|day is|com-|ing.<br/>
+<br/>
+14 The ungodly have drawn out the <u>sword, and have</u> bent their bow,<br/>
+* to cast down the poor and needy,<br/>
+&nbsp;&nbsp;and to slay such as be|upright|in their|ways.<br/>
+<br/>
+15 Their sword shall go <u>through their</u> own heart, *<br/>
+and their bow|shall be|bro-|ken.<br/>
+<br/>
+16 A small thing <u>that the</u> righteous hath, *<br/>
+is better than great|riches|of the·un-|godly.<br/>
+<br/>
+17 For the arms of the ungodly <u>shall be</u> broken, *<br/>
+and the|LORD up-|holdeth·the|righteous.<br/>
+<br/>
+18 The LORD knoweth the <u>days of the</u> godly; *<br/>
+and their inheritance shall en-|dure for|ev-|er.<br/>
+<br/>
+19 They shall not be confounded in the <u>peril</u>ous time; *<br/>
+and in the days of dearth|they shall|have e-|nough.<br/>
+<br/>
+20 As for the ungodly, they shall perish,<br/>
+&nbsp;&nbsp;and the enemies of the LORD shall con<u>sume as the</u> fat of lambs: *<br/>
+yea, even as the smoke shall|they con-|sume a-|way.<br/>
+<br/>
+21 The ungodly borroweth, and <u>payeth</u> not again; *<br/>
+but the righteous is|merci-|ful and|liberal.<br/>
+<br/>
+22 Such as are blessèd of God, <u>shall pos</u>sess the land; *<br/>
+and they that are cursed of him,|shall be|rooted|out.<br/>
+<br/>
+23 The LORD ordereth a <u>good man's</u> going, *<br/>
+and maketh his way accep<u>table</u> to himself.<br/>
+<br/>
+24 Though he fall, he shall not be <u>cast</u> away; *<br/>
+for the LORD <u>upholdeth</u> him with his hand.<br/>
+<br/>
+25 I have been young, and <u>now am</u> old; *<br/>
+and yet saw I never the righteous forsaken,<br/>
+&nbsp;&nbsp;nor his <u>seed beg</u>ging their bread.<br/>
+<br/>
+26 The righteous is ever merci<u>ful, and</u> lendeth; *<br/>
+and <u>his</u> seed is blessèd.<br/>
+<br/>
+27 Flee from evil, and do the thing <u>that is</u> good; *<br/>
+and dwell for evermore.<br/>
+<br/>
+28 For the LORD loveth the thing <u>that is</u> right; *<br/>
+he forsaketh not his that be godly,<br/>
+&nbsp;&nbsp;but they are <u>preserved</u> for ever.<br/>
+<br/>
+29 The unrighteous <u>shall be</u> punished; *<br/>
+as for the seed of the ungodly, <u>it shall</u> be rooted out.<br/>
+<br/>
+30 The righteous shall in<u>herit the</u> land, *<br/>
+and dwell <u>therein</u> for ever.<br/>
+<br/>
+31 The mouth of the righteous is exer<u>cised in</u> wisdom, *<br/>
+and his tongue will <u>be talking</u> of judgment.<br/>
+<br/>
+32 The law of his God is <u>in his</u> heart, *<br/>
+and <u>his go</u>ings shall not slide.<br/>
+<br/>
+33 The ungodly <u>watcheth the</u> righteous, *<br/>
+and seeketh <u>occasion</u> to slay him.<br/>
+<br/>
+34 The LORD will not leave him <u>in his</u> hand, *<br/>
+nor <u>condemn him</u> when he is judged.<br/>
+<br/>
+35 Hope thou in the LORD , and keep his way,<br/>
+and he shall promote thee, that thou shalt possess <u>the</u> land: *<br/>
+when the ungodly shall per<u>ish, thou</u> shalt see it.<br/>
+<br/>
+36 I myself have seen the ungodly in <u>great</u> power, *<br/>
+and flourish<u>ing like a</u> green bay-tree.<br/>
+<br/>
+37 I went by, and lo, he <u>was</u> gone: *<br/>
+I sought him, but his place <u>could no</u>where be found.<br/>
+<br/>
+38 Keep innocency, and take heed unto the thing that <u>is</u> right; *<br/>
+for that shall bring a <u>man peace</u> at the last.<br/>
+<br/>
+39 As for the transgressors, they shall perish <u>to</u>gether; *<br/>
+and the end of the ungodly is, they shall be root<u>ed out</u> at the last.<br/>
+<br/>
+40 But the salvation of the righteous cometh of <u>the</u> LORD ; *<br/>
+who is also their strength in <u>the time</u> of trouble.<br/>
+<br/>
+41 And the LORD shall stand by them, <u>and</u> save them: *<br/>
+he shall deliver them from the ungodly,<br/>
+&nbsp;&nbsp;and shall save them, because <u>they put</u> their trust in him.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
