@@ -2023,4 +2023,51 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '36': {
+    tone: '8',
+    text: `
+My heart showeth me the wickedness of the un<u>godl</u>y, *<br/>
+that there is no fear of <u>God</u> before his eyes.<br/>
+<br/>
+2 For he flattereth himself in his own <u>sight</u>, *<br/>
+until his abominable <u>sin</u> be found out.<br/>
+<br/>
+3 The words of his mouth are unrighteous and full of de<u>ceit</u>: *<br/>
+he hath left off to behave himself wisely, <u>and</u> to do good.<br/>
+<br/>
+4 He imagineth mischief upon his bed,<br/>
+&nbsp;&nbsp;and hath set himself in no good <u>way</u>; *<br/>
+neither doth he abhor any <u>thing that</u> is evil.<br/>
+<br/>
+5 Thy mercy, O LORD , reacheth unto the <u>heav</u>ens, *<br/>
+and thy faithfulness <u>un</u>to the clouds.<br/>
+<br/>
+6 Thy righteousness standeth like the strong <u>moun</u>tains: *<br/>
+thy judgments are <u>like</u> the great deep.<br/>
+<br/>
+7 Thou, LORD , shalt save both man and beast:<br/>
+&nbsp;&nbsp;how excellent is thy mercy, O <u>God</u>! *<br/>
+and the children of men shall put their trust under the <u>sha</u>dow of thy<br/>
+wings.<br/>
+<br/>
+8 They shall be satisfied with the plenteousness of thy <u>house</u>; *<br/>
+and thou shalt give them drink of thy pleasures, as <u>out of</u> the river.<br/>
+<br/>
+9 For with thee is the well of <u>life</u>; *<br/>
+and in thy <u>light</u> shall we see light.<br/>
+<br/>
+10 O continue forth thy loving-kindness unto them that <u>know</u> thee, *<br/>
+and thy righteousness unto them <u>that</u> are true of heart.<br/>
+<br/>
+11 O let not the foot of pride come a<u>gainst</u> me; *<br/>
+and let not the hand of the un<u>godly</u> cast me down.<br/>
+<br/>
+12 There are they fallen, all that work <u>wi</u>ckedness; *<br/>
+they are cast down, and shall not be <u>ab</u>le to stand.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
