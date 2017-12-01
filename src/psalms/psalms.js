@@ -2208,4 +2208,77 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '38': {
+    tone: '4',
+    text: `
+Put me not to rebuke, O LORD , <u>in thine</u> anger; *<br/>
+neither chasten me in <u>thy heavy</u> displeasure:<br/>
+<br/>
+2 For thine <u>arrows stick</u> fast in me, *<br/>
+and thy <u>hand press</u>eth me sore.<br/>
+<br/>
+3 There is no health in my flesh, because of <u>thy dis</u>pleasure; *<br/>
+neither is there any rest in my bones, <u>by rea</u>son of my sin.<br/>
+<br/>
+4 For my wickednesses are gone <u>over my</u> head, *<br/>
+and are like a sore burden, <u>too heavy</u> for me to bear.<br/>
+<br/>
+5 My wounds stink, and <u>are cor</u>rupt, *<br/>
+<u>through my</u> foolishness.<br/>
+<br/>
+6 I am brought into so great <u>trouble and</u> misery, *<br/>
+that I go mourn<u>ing all</u> the day long.<br/>
+<br/>
+7 For my loins are filled with a <u>sore dis</u>ease, *<br/>
+and there is no <u>whole part in</u> my body.<br/>
+<br/>
+8 I am feeble <u>and sore</u> smitten; *<br/>
+I have roared for the very <u>disquiet</u>ness of my heart.<br/>
+<br/>
+9 Lord, thou knowest <u>all my de</u>sire; *<br/>
+and my groan<u>ing is</u> not hid from thee.<br/>
+<br/>
+10 My heart panteth, my <u>strength hath</u> failed me, *<br/>
+and the light of <u>mine eyes</u> is gone from me.<br/>
+<br/>
+11 My lovers and my neighbours did stand looking up<u>on my</u> trouble,<br/>
+* and my kins<u>men stood</u> afar off.<br/>
+<br/>
+12 They also that sought after my <u>life laid</u> snares for me; *<br/>
+and they that went about to do me evil talked of wickedness,<br/>
+&nbsp;&nbsp;and imagined <u>deceit all</u> the day long.<br/>
+<br/>
+13 As for me, I was like a deaf <u>man, and</u> heard not; *<br/>
+and as one that is dumb, who doth <u>not op</u>en his mouth.<br/>
+<br/>
+14 I became even as a man that <u>heareth</u> not, *<br/>
+and in <u>whose mouth</u> are no reproofs.<br/>
+<br/>
+15 For in thee, O LORD , have I <u>put my</u> trust; *<br/>
+thou shalt answer <u>for me</u>, O Lord my God.<br/>
+<br/>
+16 I have required that they, even mine enemies, should not <u>triumph</u><br/>
+over me; *<br/>
+for when my foot slipt, they rej<u>oiced greatly</u> against me.<br/>
+<br/>
+17 And I truly am set <u>in the</u> plague, *<br/>
+and my heaviness <u>is ev</u>er in my sight.<br/>
+<br/>
+18 For I will con<u>fess my</u> wickedness, *<br/>
+and <u>be sor</u>ry for my sin.<br/>
+<br/>
+19 But mine enemies live, <u>and are</u> mighty; *<br/>
+and they that hate me wrongfully <u>are many</u> in number.<br/>
+<br/>
+20 They also that reward evil for good <u>are a</u>gainst me; *<br/>
+because I follow <u>the thing</u> that good is.<br/>
+<br/>
+21 Forsake me not, O <u>LORD my</u> God; *<br/>
+<u>be not</u> thou far from me.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
