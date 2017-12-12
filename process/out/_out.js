@@ -2281,4 +2281,62 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '39': {
+    tone: '2',
+    text: `
+I said, I will take heed to my <u>ways</u>, *<br/>
+that I offend not <u>in</u> my tongue<br/>
+<br/>
+2 I will keep my mouth as it were with a <u>bri</u>dle, *<br/>
+while the ungodly is <u>in</u> my sight.<br/>
+<br/>
+3 I held my tongue, and spake <u>no</u>thing: *<br/>
+I kept silence, yea, even from good words;<br/>
+&nbsp;&nbsp;but it was <u>pain</u> and grief to me.<br/>
+<br/>
+4 My heart was hot within me:<br/>
+&nbsp;&nbsp;and while I was thus musing the fire <u>kin</u>dled, *<br/>
+and at the last I <u>spake with</u> my tongue:<br/>
+<br/>
+5 LORD , let me know mine end, and the number of my <u>days</u>; *<br/>
+that I may be certified how long I <u>have</u> to live.<br/>
+<br/>
+6 Behold, thou hast made my days as it were a span long,<br/>
+&nbsp;&nbsp;and mine age is even as nothing in respect of <u>thee</u>; *<br/>
+and verily every man living is alto<u>geth</u>er vanity.<br/>
+<br/>
+7 For man walketh in a vain shadow, and disquieteth himself in <u>vain</u>; *<br/>
+he heapeth up riches, and cannot tell <u>who</u> shall gather them.<br/>
+<br/>
+8 And now, Lord, what is my <u>hope</u>? *<br/>
+truly my hope is <u>even</u> in thee.<br/>
+<br/>
+9 Deliver me from all mine of<u>fen</u>ces; *<br/>
+and make me not a rebuke un<u>to</u> the foolish.<br/>
+<br/>
+10 I became dumb, and opened not my <u>mouth</u>; *<br/>
+for it <u>was</u> thy doing.<br/>
+<br/>
+11 Take thy plague a<u>way</u> from me: *<br/>
+I am even consumed by the means of thy <u>hea</u>vy hand.<br/>
+<br/>
+12 When thou with rebukes dost chasten man for sin,<br/>
+&nbsp;&nbsp;thou makest his beauty to consume away, like as it were a moth<br/>
+fretting a <u>gar</u>ment: *<br/>
+every man therefore <u>is</u> but vanity.<br/>
+<br/>
+13 Hear my prayer, O LORD , and with thine ears consider my <u>call</u>ing; *<br/>
+hold not thy <u>peace at</u> my tears;<br/>
+<br/>
+14 For I am a stranger with thee, and a <u>so</u>journer, *<br/>
+as all my <u>fa</u>thers were.<br/>
+<br/>
+15 O spare me a little, that I may recover my <u>strength</u>, *<br/>
+before I go hence, and be <u>no</u> more seen.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
