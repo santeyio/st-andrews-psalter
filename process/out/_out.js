@@ -2339,4 +2339,84 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '40': {
+    tone: '5',
+    text: `
+I waited patiently for the <u>LORD</u> , *<br/>
+and he inclined unto me, and <u>heard my</u> calling.<br/>
+<br/>
+2 He brought me also out of the horrible pit, out of the mire and<br/>
+<u>clay</u>, *<br/>
+and set my feet upon the rock, and <u>ordered my</u> goings.<br/>
+<br/>
+3 And he hath put a new song in my <u>mouth</u>, *<br/>
+even a thanksgiving <u>unto</u> our God.<br/>
+<br/>
+4 Many shall see it, and <u>fear</u>, *<br/>
+and shall put their <u>trust in</u> the LORD .<br/>
+<br/>
+5 Blessèd is the man that hath set his hope in the <u>LORD</u> , *<br/>
+and turned not unto the proud, and to such as <u>go a</u>bout with lies.<br/>
+<br/>
+6 O LORD my God, great are the wondrous works which thou hast<br/>
+done,<br/>
+&nbsp;&nbsp;like as be also thy thoughts, which are to <u>us</u>-ward; *<br/>
+and yet there is no man that <u>ordereth them</u> unto thee.<br/>
+<br/>
+7 If I should declare them, and <u>speak</u> of them, *<br/>
+they should be more than I am <u>able</u> to express.<br/>
+<br/>
+8 Sacrifice and offering thou wouldest <u>not</u>, *<br/>
+but mine ears <u>hast thou</u> opened.<br/>
+<br/>
+9 Burnt-offering and sacrifice for sin hast thou not re<u>quired</u>: *<br/>
+then said <u>I, Lo</u>, I come;<br/>
+<br/>
+10 In the volume of the book it is written of me,<br/>
+&nbsp;&nbsp;that I should fulfill thy will, O my <u>God</u>: *<br/>
+I am content to do it;<br/>
+&nbsp;&nbsp;yea, thy <u>law is with</u>in my heart.<br/>
+<br/>
+11 I have declared thy righteousness in the great congre<u>ga</u>tion: *<br/>
+lo, I will not refrain my lips, O LORD , and <u>that thou</u> knowest.<br/>
+<br/>
+12 I have not hid thy righteousness within my <u>heart</u>; *<br/>
+my talk hath been of thy truth, and of <u>thy sal</u>vation.<br/>
+<br/>
+13 I have not kept back thy loving mercy and <u>truth</u> *<br/>
+from the great <u>congre</u>gation.<br/>
+<br/>
+14 Withdraw not thou thy mercy from me, O <u>LORD</u> ; *<br/>
+let thy loving-kindness and thy truth <u>alway pre</u>serve me.<br/>
+<br/>
+15 For innumerable troubles are come about me;<br/>
+&nbsp;&nbsp;my sins have taken such hold upon me, that I am not able to look<br/>
+<u>up</u>; *<br/>
+yea, they are more in number than the hairs of my head,<br/>
+&nbsp;&nbsp;and my <u>heart hath</u> failed me.<br/>
+<br/>
+16 O LORD , let it be thy pleasure to de<u>li</u>ver me; *<br/>
+make haste, O <u>LORD , to</u> help me.<br/>
+<br/>
+17 Let them be ashamed, and confounded together,<br/>
+that seek after my soul to des<u>troy</u> it; *<br/>
+let them be driven backward, and put to rebuke, that <u>wish me</u> evil.<br/>
+<br/>
+18 Let them be desolate, and rewarded with <u>shame</u>, *<br/>
+that say unto me, Fie upon thee! <u>fie up</u>on thee!<br/>
+<br/>
+19 Let all those that seek thee, be joyful and <u>glad</u> in thee; *<br/>
+and let such as love thy salvation, say <u>alway, The</u> LORD be praised.<br/>
+<br/>
+20 As for me, I am poor and <u>nee</u>dy; *<br/>
+but the Lord <u>careth</u> for me.<br/>
+<br/>
+21 Thou art my helper and re<u>deem</u>er; *<br/>
+make no long <u>tarrying</u>, O my God.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
