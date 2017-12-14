@@ -2419,4 +2419,52 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '41': {
+    tone: '8b',
+    text: `
+Blessèd is he that considereth the poor and <u>nee</u>dy; *<br/>
+the LORD shall deliver him in the <u>time</u> of trouble.<br/>
+<br/>
+2 The LORD preserve him, and keep him alive,<br/>
+&nbsp;&nbsp;that he may be blessèd upon <u>earth</u>; *<br/>
+and deliver not thou him into the <u>will of</u> his enemies.<br/>
+<br/>
+3 The LORD comfort him when he lieth sick upon his <u>bed</u>; *<br/>
+make thou all his bed <u>in</u> his sickness.<br/>
+<br/>
+4 I said, LORD , be merciful <u>un</u>to me; *<br/>
+heal my soul, for I have <u>sinned</u> against thee.<br/>
+<br/>
+5 Mine enemies speak <u>ev</u>il of me, *<br/>
+When shall he die, and <u>his</u> name perish?<br/>
+<br/>
+6 And if he come to see me, he speaketh vanity,<br/>
+&nbsp;&nbsp;and his heart conceiveth falsehood within him<u>self</u>; *<br/>
+and when he cometh <u>forth</u>, he telleth it.<br/>
+<br/>
+7 All mine enemies whisper together a<u>gainst</u> me; *<br/>
+even against me do they im<u>agine</u> this evil.<br/>
+<br/>
+8 An evil disease, say they, cleaveth <u>fast</u> unto him; *<br/>
+and now that he lieth, he shall <u>rise</u> up no more.<br/>
+<br/>
+9 Yea, even mine own familiar friend whom I <u>trust</u>ed, *<br/>
+who did also eat of my bread, hath <u>laid</u> great wait for me.<br/>
+<br/>
+10 But be thou merciful unto me, O <u>LORD</u> ; *<br/>
+raise thou me up again, and <u>I shall</u> reward them.<br/>
+<br/>
+11 By this I know thou <u>fa</u>vourest me, *<br/>
+that mine enemy doth not <u>triumph</u> against me.<br/>
+<br/>
+12 And in my innocency thou up<u>hold</u>est me, *<br/>
+and shalt set me before thy <u>face</u> for ever.<br/>
+[13 Blessèd be the LORD God of <u>Is</u>rael, *<br/>
+<u>world with</u>out end. Amen.]<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
