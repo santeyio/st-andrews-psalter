@@ -2467,4 +2467,64 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '42': {
+    tone: '8',
+    text: `
+Like as the hart desireth the <u>wa</u>ter-brooks, *<br/>
+so longeth my soul <u>af</u>ter thee, O God.<br/>
+<br/>
+2 My soul is athirst for God, yea, even for the living <u>God</u>: *<br/>
+when shall I come to appear before the <u>pre</u>sence of God?<br/>
+<br/>
+3 My tears have been my meat day and <u>night</u>, *<br/>
+while they daily say unto me,<br/>
+&nbsp;&nbsp;<u>Where</u> is now thy God?<br/>
+<br/>
+4 Now when I think thereupon, I pour out my heart by my<u>self</u>; *<br/>
+for I went with the multitude,<br/>
+&nbsp;&nbsp;and brought them forth in<u>to</u> the house of God;<br/>
+<br/>
+5 In the voice of praise and thanks<u>giv</u>ing, *<br/>
+among <u>such as</u> keep holy-day.<br/>
+<br/>
+6 Why art thou so full of heaviness, O my <u>soul</u>? *<br/>
+and why art thou so dis<u>quieted</u> within me?<br/>
+<br/>
+7 O put thy trust in <u>God</u>; *<br/>
+for I will yet thank him,<br/>
+&nbsp;&nbsp;which is the help of my <u>counte</u>nance, and my God.<br/>
+<br/>
+8 My soul is vexed with<u>in</u> me; *<br/>
+therefore will I remember thee from the land of Jordan,<br/>
+&nbsp;&nbsp;from Hermon <u>and</u> the little hill.<br/>
+<br/>
+9 One deep calleth another, because of the noise of thy <u>wa</u>ter-floods;<br/>
+* all thy waves and storms <u>are</u> gone over me.<br/>
+<br/>
+10 The LORD will grant his loving-kindness in the <u>day</u>time; *<br/>
+and in the night season will I sing of him,<br/>
+&nbsp;&nbsp;and make my prayer unto the <u>God</u> of my life.<br/>
+<br/>
+11 I will say unto the God of my strength,<br/>
+&nbsp;&nbsp;Why hast thou for<u>got</u>ten me? *<br/>
+why go I thus heavily, while the <u>enemy</u> oppresseth me?<br/>
+<br/>
+12 My bones are smitten asunder as with a <u>sword</u>, *<br/>
+while mine enemies that trouble me <u>cast</u> me in the teeth;<br/>
+<br/>
+13 Namely, while they say daily <u>un</u>to me, *<br/>
+<u>Where</u> is now thy God?<br/>
+<br/>
+14 Why art thou so vexed, O my <u>soul</u>? *<br/>
+and why art thou so dis<u>quieted</u> within me?<br/>
+<br/>
+15 O put thy trust in <u>God</u>; *<br/>
+for I will yet thank him,<br/>
+&nbsp;&nbsp;which is the help of my <u>counte</u>nance, and my God.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
