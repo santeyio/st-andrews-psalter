@@ -2527,4 +2527,34 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '43': {
+    tone: '7',
+    text: `
+Give sentence with me, O God,<br/>
+&nbsp;&nbsp;and defend my cause against the un<u>godly</u> people; *<br/>
+O deliver me from the de<u>ceitful and</u> wicked man.<br/>
+<br/>
+2 For thou art the God of my strength;<br/>
+&nbsp;&nbsp;why hast thou <u>put me</u> from thee? *<br/>
+and why go I so heavily, while the <u>enemy op</u>presseth me?<br/>
+<br/>
+3 O send out thy light and thy truth, that <u>they may</u> lead me, *<br/>
+and bring me unto thy holy hill, and <u>to thy</u> dwelling;<br/>
+<br/>
+4 And that I may go unto the altar of God,<br/>
+&nbsp;&nbsp;even unto the God of my <u>joy and</u> gladness; *<br/>
+and upon the harp will I give thanks unto <u>thee, O</u> God, my God.<br/>
+<br/>
+5 Why art thou so <u>heavy</u>, O my soul? *<br/>
+and why art thou so dis<u>quieted with</u>in me?<br/>
+<br/>
+6 O <u>put thy</u> trust in God; *<br/>
+for I will yet give him thanks,<br/>
+&nbsp;&nbsp;which is the help of my <u>countenance</u>, and my God.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
