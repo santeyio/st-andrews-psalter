@@ -2557,4 +2557,97 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '44': {
+    tone: '2',
+    text: `
+We have heard with our ears, O God,<br/>
+&nbsp;&nbsp;our fathers have <u>told</u> us *<br/>
+what thou hast done in their <u>time</u> of old:<br/>
+<br/>
+2 How thou hast driven out the heathen with thy hand,<br/>
+&nbsp;&nbsp;and planted our fathers <u>in</u>; *<br/>
+how thou hast destroyed the nations,<br/>
+&nbsp;&nbsp;and made thy <u>people</u> to flourish.<br/>
+<br/>
+3 For they gat not the land in possession through their own <u>sword</u>, *<br/>
+neither was it their own <u>arm</u> that helped them;<br/>
+<br/>
+4 But thy right hand, and thine arm,<br/>
+&nbsp;&nbsp;and the light of thy <u>coun</u>tenance; *<br/>
+because thou hadst a favour <u>un</u>to them.<br/>
+<br/>
+5 Thou art my <u>King</u>, O God; *<br/>
+send <u>help un</u>to Jacob.<br/>
+<br/>
+6 Through thee will we overthrow our <u>en</u>emies, *<br/>
+and in thy Name will we tread them under that <u>rise up</u> against us.<br/>
+<br/>
+7 For I will not trust in my <u>bow</u>, *<br/>
+it is not my <u>sword that</u> shall help me;<br/>
+<br/>
+8 But it is thou that savest us from our <u>en</u>emies, *<br/>
+and puttest them to con<u>fusion</u> that hate us.<br/>
+<br/>
+9 We make our boast of God all day <u>long</u>, *<br/>
+and will praise thy <u>Name</u> for ever.<br/>
+<br/>
+10 But now thou art far off, and puttest us to con<u>fu</u>sion, *<br/>
+and goest not forth <u>with</u> our armies.<br/>
+<br/>
+11 Thou makest us to turn our backs upon our <u>en</u>emies, *<br/>
+so that they which hate us <u>spoil</u> our goods.<br/>
+<br/>
+12 Thou lettest us be eaten up like <u>sheep</u>, *<br/>
+and hast scattered us a<u>mong</u> the heathen.<br/>
+<br/>
+13 Thou sellest thy people for <u>nought</u>, *<br/>
+and takest no <u>mo</u>ney for them.<br/>
+<br/>
+14 Thou makest us to be rebuked of our <u>neigh</u>bours, *<br/>
+to be laughed to scorn,<br/>
+&nbsp;&nbsp;and had in derision of them that are <u>round</u> about us.<br/>
+<br/>
+15 Thou makest us to be a by-word among the <u>na</u>tions, *<br/>
+and that the peoples <u>shake</u> their heads at us.<br/>
+<br/>
+16 My confusion is daily be<u>fore</u> me, *<br/>
+and the shame of my <u>face</u> hath covered me;<br/>
+<br/>
+17 For the voice of the slanderer and <u>blas</u>phemer, *<br/>
+for the enemy <u>and</u> avenger.<br/>
+<br/>
+18 And though all this be come upon us, yet do we not for<u>get</u> thee, *<br/>
+nor behave ourselves frowardly <u>in</u> thy covenant.<br/>
+<br/>
+19 Our heart is not turned <u>back</u>, *<br/>
+neither our steps gone <u>out of</u> thy way;<br/>
+<br/>
+20 No, not when thou hast smitten us into the place of <u>dra</u>gons, *<br/>
+and covered us with the <u>shadow</u> of death.<br/>
+<br/>
+21 If we have forgotten the Name of our God,<br/>
+&nbsp;&nbsp;and holden up our hands to any strange <u>god</u>, *<br/>
+shall not God search it out?<br/>
+&nbsp;&nbsp;for he knoweth the very secrets <u>of</u> the heart.<br/>
+<br/>
+22 For thy sake also are we killed all the day <u>long</u>, *<br/>
+and are counted as sheep appointed <u>to</u> be slain.<br/>
+<br/>
+23 Up, Lord, why <u>sleep</u>est thou? *<br/>
+awake, and be not absent from <u>us</u> for ever.<br/>
+<br/>
+24 Wherefore hidest thou thy <u>face</u>, *<br/>
+and forgettest our <u>misery</u> and trouble?<br/>
+<br/>
+25 For our soul is brought low, even unto the <u>dust</u>; *<br/>
+our belly cleaveth <u>unto</u> the ground.<br/>
+<br/>
+26 Arise, and <u>help</u> us, *<br/>
+and deliver us, for thy <u>mer</u>cy's sake.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
