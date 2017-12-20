@@ -2650,4 +2650,72 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '45': {
+    tone: '5',
+    text: `
+My heart overfloweth with a good matter;<br/>
+&nbsp;&nbsp;I speak the things which I have made concerning the <u>King</u>. *<br/>
+My tongue is the pen of a <u>ready</u> writer.<br/>
+<br/>
+2 Thou art fairer than the children of <u>men</u>; *<br/>
+full of grace are thy lips,<br/>
+&nbsp;&nbsp;because God hath <u>bless'd thee for</u> ever.<br/>
+<br/>
+3 Gird thee with thy sword upon thy thigh, O thou Most <u>Migh</u>ty, *<br/>
+according to thy <u>worship</u> and renown.<br/>
+<br/>
+4 Good luck have thou with thine honour:<br/>
+&nbsp;&nbsp;ride on, because of the word of truth, of meekness, and<br/>
+<u>right</u>eousness; *<br/>
+and thy right hand shall teach thee <u>terr</u>ible things.<br/>
+<br/>
+5 Thy arrows are very sharp in the heart of the King's <u>en</u>emies, *<br/>
+and the people shall be sub<u>dued un</u>to thee.<br/>
+<br/>
+6 Thy seat, O God, endureth for <u>ev</u>er; *<br/>
+the sceptre of thy kingdom <u>is a right</u> sceptre.<br/>
+<br/>
+7 Thou hast loved righteousness, and hated i<u>ni</u>quity; *<br/>
+wherefore God, even thy God,<br/>
+&nbsp;&nbsp;hath anointed thee with the oil of gladness ab<u>ove thy</u> fellows.<br/>
+<br/>
+8 All thy garments smell of myrrh, aloes, and <u>cass</u>ia; *<br/>
+out of the ivory palaces, where<u>by they have</u> made thee glad.<br/>
+<br/>
+9 Kings' daughters are among thy honourable <u>wo</u>men; *<br/>
+upon thy right hand doth stand the queen in a vesture of gold,<br/>
+&nbsp;&nbsp;wrought about with <u>divers</u> colours.<br/>
+<br/>
+10 Hearken, O daughter, and consider; incline thine <u>ear</u>; *<br/>
+forget also thine own people, <u>and thy</u> father's house.<br/>
+<br/>
+11 So shall the King have pleasure in thy <u>beau</u>ty; *<br/>
+for he is thy Lord, and <u>worship</u> thou him.<br/>
+<br/>
+12 And the daughter of Tyre shall be there with a <u>gift</u>; *<br/>
+like as the rich also among the people shall make their suppli<u>cation</u><br/>
+<u>be</u>fore thee.<br/>
+<br/>
+13 The King's daughter is all glorious with<u>in</u>; *<br/>
+her clothing <u>is of</u> wrought gold.<br/>
+<br/>
+14 She shall be brought unto the King in raiment of <u>nee</u>dlework: *<br/>
+the virgins that be her fellows shall bear her company,<br/>
+&nbsp;&nbsp;and shall be <u>brought un</u>to thee.<br/>
+<br/>
+15 With joy and gladness shall they be <u>brought</u>, *<br/>
+and shall enter <u>into the King</u>'s palace.<br/>
+<br/>
+16 Instead of thy fathers, thou shalt have <u>child</u>ren, *<br/>
+whom thou mayest make <u>princes in</u> all lands.<br/>
+<br/>
+17 I will make thy Name to be remembered from one generation to<br/>
+a<u>no</u>ther; *<br/>
+therefore shall the people give thanks unto thee, <u>world with</u>out end.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
