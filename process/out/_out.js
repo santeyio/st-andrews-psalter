@@ -2718,4 +2718,84 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '46': {
+    tone: '5b',
+    text: `
+God is our hope and <u>strength</u>, *<br/>
+a very present <u>help</u> in trouble.<br/>
+<br/>
+2 Therefore will we not fear, though the earth be <u>moved</u>, *<br/>
+and though the hills be carried into the <u>midst</u> of the sea;<br/>
+<br/>
+3 Though the waters thereof rage and <u>swell</u>, *<br/>
+and though the mountains shake at the <u>tem</u>pest of the same.<br/>
+<br/>
+4 There is a river, the streams whereof make glad the city of <u>God</u>; *<br/>
+the holy place of the tabernacle <u>of the</u> Most Highest.<br/>
+<br/>
+5 God is in the midst of her, therefore shall she not be re<u>moved</u>; *<br/>
+God shall help her, and <u>that</u> right early.<br/>
+<br/>
+6 The nations make much ado, and the kingdoms are <u>moved</u>; *<br/>
+but God hath showed his voice, and the <u>earth</u> shall melt away.<br/>
+<br/>
+7 The LORD of hosts is <u>with</u> us; *<br/>
+the God of Jacob <u>is</u> our refuge.<br/>
+<br/>
+8 O come hither, and behold the works of the <u>LORD</u> , *<br/>
+what destruction he hath <u>brought</u> upon the earth.<br/>
+<br/>
+9 He maketh wars to cease in all the <u>world</u>; *<br/>
+he breaketh the bow, and knappeth the spear in sunder,<br/>
+&nbsp;&nbsp;and burneth the <u>cha</u>riots in the fire.<br/>
+<br/>
+10 Be still then, and know that I am <u>God</u>: *<br/>
+I will be exalted among the nations,<br/>
+&nbsp;&nbsp;and I will be ex<u>alt</u>ed in the earth.<br/>
+<br/>
+11 The LORD of hosts is <u>with</u> us; *<br/>
+the God of Jacob <u>is</u> our refuge.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world <u>with</u>out end. Amen.<br/>
+    `,
+  },
+  '47': {
+    tone: '8b',
+    text: `
+Clap your hands together, all ye <u>peop</u>les: *<br/>
+O sing unto God with the <u>voice</u> of melody.<br/>
+<br/>
+2 For the LORD is high, and to be <u>feared</u>; *<br/>
+he is the great <u>King up</u>on all the earth.<br/>
+<br/>
+3 He shall subdue the peoples <u>un</u>der us, *<br/>
+and the nations <u>un</u>der our feet.<br/>
+<br/>
+4 He shall choose out an heritage <u>for</u> us, *<br/>
+even the excellency of <u>Ja</u>cob, whom he loved.<br/>
+<br/>
+5 God is gone up with a merry <u>noise</u>, *<br/>
+and the LORD with the <u>sound</u> of the trump.<br/>
+<br/>
+6 O sing praises, sing praises unto our <u>God</u>; *<br/>
+O sing praises, sing praises <u>un</u>to our King.<br/>
+<br/>
+7 For God is the King of all the <u>earth</u>: *<br/>
+sing ye praises with <u>un</u>derstanding.<br/>
+<br/>
+8 God reigneth over the <u>na</u>tions; *<br/>
+God sitteth up<u>on</u> his holy seat.<br/>
+<br/>
+9 The princes of the peoples are joined unto the people of the God of<br/>
+<u>Ab</u>raham; *<br/>
+for God, which is very high exalted,<br/>
+&nbsp;&nbsp;doth defend the earth, as it <u>were</u> with a shield.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
