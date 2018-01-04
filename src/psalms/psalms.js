@@ -2798,4 +2798,55 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '48': {
+    tone: '7',
+    text: `
+Great is the LORD , and <u>highly</u> to be praised *<br/>
+in the city of our God, even up<u>on his</u> holy hill.<br/>
+<br/>
+2 The hill of Sion is a fair place, and the <u>joy of the</u> whole earth; *<br/>
+upon the north side lieth the city of the great King:<br/>
+&nbsp;&nbsp;God is well known in her palaces <u>as a sure</u> refuge.<br/>
+<br/>
+3 For lo, the <u>kings of</u> the earth *<br/>
+were gathered, and gone <u>by to</u>gether.<br/>
+<br/>
+4 They <u>marvelled to</u> see such things; *<br/>
+they were astonished, and <u>suddenly</u> cast down.<br/>
+<br/>
+5 Fear came there up<u>on them; and</u> sorrow, *<br/>
+as upon a woman <u>in her</u> travail.<br/>
+<br/>
+6 Thou dost break the <u>ships of</u> the sea *<br/>
+<u>through the</u> east-wind.<br/>
+<br/>
+7 Like as we have heard, so have we seen in the city of the LORD of<br/>
+hosts,<br/>
+&nbsp;&nbsp;in the <u>city</u> of our God; *<br/>
+God upholdeth the <u>same for</u> ever.<br/>
+<br/>
+8 We wait for thy loving-<u>kindness</u>, O God, *<br/>
+in the <u>midst of thy</u> temple.<br/>
+<br/>
+9 O God, according to thy Name, so is thy praise <u>unto the</u> world's<br/>
+end; *<br/>
+thy right hand is <u>full of</u> righteousness.<br/>
+<br/>
+10 Let the mount Sion rejoice, and the daughters of <u>Judah</u> be glad, *<br/>
+be<u>cause of thy</u> judgments.<br/>
+<br/>
+11 Walk about Sion, and go <u>round a</u>bout her; *<br/>
+and tell the <u>towers</u> thereof.<br/>
+<br/>
+12 Mark well her bulwarks, con<u>sider her</u> palaces, *<br/>
+that ye may tell <u>them that come</u> after.<br/>
+<br/>
+13 For this God is our God for <u>ever and</u> ever: *<br/>
+he shall be our <u>guide un</u>to death.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
