@@ -3148,4 +3148,124 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '54': {
+    tone: '8',
+    text: `
+Save me, O God, for thy <u>Name's</u> sake, *<br/>
+and av<u>enge</u> me in thy strength.<br/>
+<br/>
+2 Hear my <u>prayer</u>, O God, *<br/>
+and hearken unto the <u>words</u> of my mouth.<br/>
+<br/>
+3 For strangers are risen up a<u>gainst</u> me; *<br/>
+and tyrants, which have not God before their eyes, seek <u>af</u>ter my<br/>
+soul.<br/>
+<br/>
+4 Behold, God is my <u>help</u>er; *<br/>
+the Lord is with <u>them that</u> uphold my soul.<br/>
+<br/>
+5 He shall reward evil unto mine <u>en</u>emies: *<br/>
+destroy thou <u>them</u> in thy truth.<br/>
+<br/>
+6 An offering of a free heart will I give thee,<br/>
+&nbsp;&nbsp;and praise thy <u>Name</u>, O LORD ; *<br/>
+because it <u>is</u> so comfortable.<br/>
+<br/>
+7 For he hath delivered me out of all my <u>trou</u>ble; *<br/>
+and mine eye hath seen his desire up<u>on</u> mine enemies.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '55': {
+    tone: '6',
+    text: `
+Hear my prayer, <u>O</u> God, *<br/>
+and hide not thyself <u>from my</u> petition.<br/>
+<br/>
+2 Take heed unto me, <u>and</u> hear me, *<br/>
+how I mourn in <u>my prayer</u>, and am vexed;<br/>
+<br/>
+3 The enemy crieth so, and the ungodly cometh on <u>so</u> fast; *<br/>
+for they are minded to do me some mischief,<br/>
+&nbsp;&nbsp;so maliciously are <u>they set</u> against me.<br/>
+<br/>
+4 My heart is disquieted <u>with</u>in me, *<br/>
+and the fear of death <u>is fallen</u> upon me.<br/>
+<br/>
+5 Fearfulness and trembling are come <u>up</u>on me, *<br/>
+and an horrible dread <u>hath ov</u>erwhelmed me.<br/>
+<br/>
+6 And I said, O that I had wings like <u>a </u>dove! *<br/>
+for then would I flee <u>away</u>, and be at rest.<br/>
+<br/>
+7 Lo, then would I get me away <u>far</u> off, *<br/>
+and <u>remain in</u> the wilderness.<br/>
+<br/>
+8 I would make haste to <u>es</u>cape, *<br/>
+because of the stor<u>my wind</u> and tempest.<br/>
+<br/>
+9 Destroy their tongues, O Lord, and <u>div</u>ide them; *<br/>
+for I have spied unrighteousness <u>and strife in</u> the city.<br/>
+<br/>
+10 Day and night they go about within the walls <u>there</u>of: *<br/>
+mischief also and sorrow <u>are in</u> the midst of it.<br/>
+<br/>
+11 Wickedness is <u>there</u>in; *<br/>
+deceit and guile go <u>not out</u> of her streets.<br/>
+<br/>
+12 For it is not an open enemy that hath done me this <u>dis</u>honour; *<br/>
+for then <u>I could</u> have borne it;<br/>
+<br/>
+13 Neither was it mine adversary that did magnify himself <u>a</u>gainst<br/>
+me; *<br/>
+for then peradventure I would <u>have hid my</u>self from him;<br/>
+<br/>
+14 But it was even thou, my <u>com</u>panion, *<br/>
+my guide, and <u>mine own</u> familiar friend.<br/>
+<br/>
+15 We took sweet counsel <u>to</u>gether, *<br/>
+and walked in <u>the house</u> of God as friends.<br/>
+<br/>
+16 Let death come hastily upon them,<br/>
+&nbsp;&nbsp;and let them go down alive into <u>the</u> pit; *<br/>
+for wickedness is in their dwell<u>ings, and</u> among them.<br/>
+<br/>
+17 As for me, I will call up<u>on</u> God, *<br/>
+and <u>the LORD</u> shall save me.<br/>
+<br/>
+18 In the evening, and morning, and at noon-day will I pray, and<br/>
+<u>that</u> instantly; *<br/>
+<u>and he</u> shall hear my voice.<br/>
+<br/>
+19 It is he that hath delivered my soul in peace from the battle that<br/>
+was <u>a</u>gainst me; *<br/>
+for there <u>were many</u> that strove with me.<br/>
+<br/>
+20 Yea, even God, that endureth for ever, shall hear me, and bring<br/>
+<u>them</u> down; *<br/>
+for they will <u>not turn</u>, nor fear God.<br/>
+<br/>
+21 He laid his hands upon such as be <u>at</u> peace with him, *<br/>
+and <u>he brake</u> his covenant.<br/>
+<br/>
+22 The words of his mouth were softer than butter, having war in <u>his</u> heart; *<br/>
+his words were smoother than oil, <u>and yet be</u> they very swords.<br/>
+<br/>
+23 O cast thy burden upon the LORD , and he <u>shall</u> nourish thee, *<br/>
+and shall not suffer the righteous <u>to fall</u> for ever.<br/>
+<br/>
+24 And as <u>for</u> them, *<br/>
+thou, O God, shalt bring them into <u>the pit of</u> destruction.<br/>
+<br/>
+25 The blood-thirsty and deceitful men shall not live out half <u>their</u> days: *<br/>
+nevertheless, my trust <u>shall be</u> in thee, O Lord.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Ho<u>ly</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
 };
