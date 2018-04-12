@@ -2921,4 +2921,231 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
     `,
   },
+  '50': {
+    tone: '4',
+    text: `
+The LORD , even the Most Mighty <u>God, hath</u> spoken, *<br/>
+and called the world, from the rising up of the sun unto <u>the go</u>ing<br/>
+down thereof.<br/>
+<br/>
+2 Out of Sion hath <u>God ap</u>peared *<br/>
+<u>in per</u>fect beauty.<br/>
+<br/>
+3 Our God shall come, and shall <u>not keep</u> silence; *<br/>
+there shall go before him a consuming fire,<br/>
+&nbsp;&nbsp;and a mighty tempest shall be stirred <u>up round</u> about him.<br/>
+<br/>
+4 He shall call the heaven <u>from a</u>bove, *<br/>
+and the earth, that he <u>may judge</u> his people.<br/>
+<br/>
+5 Gather my saints together <u>unto</u> me; *<br/>
+those that have made a covenant <u>with me</u> with sacrifice.<br/>
+<br/>
+6 And the heavens shall de<u>clare his</u> righteousness; *<br/>
+<u>for God</u> is Judge himself.<br/>
+<br/>
+7 Hear, O my people, and <u>I will</u> speak; *<br/>
+I myself will testify against thee, O Israel;<br/>
+&nbsp;&nbsp;for I <u>am God, ev</u>en thy God.<br/>
+<br/>
+8 I will not reprove thee be<u>cause of thy</u> sacrifices; *<br/>
+as for thy burnt-offerings, they <u>are alway</u> before me.<br/>
+<br/>
+9 I will take no bullock <u>out of thine</u> house, *<br/>
+nor he-<u>goats out</u> of thy folds.<br/>
+<br/>
+10 For all the beasts of the <u>forest are</u> mine, *<br/>
+and so are the cattle <u>upon</u> a thousand hills.<br/>
+<br/>
+11 I know all the fowls up<u>on the</u> mountains, *<br/>
+and the wild beasts of <u>the field</u> are in my sight.<br/>
+<br/>
+12 If I be hungry, I <u>will not</u> tell thee; *<br/>
+for the whole world is mine, <u>and all</u> that is therein.<br/>
+<br/>
+13 Thinkest thou that I will <u>eat bulls</u>' flesh, *<br/>
+<u>and drink</u> the blood of goats?<br/>
+<br/>
+14 Offer unto <u>God thanks</u>giving, *<br/>
+and pay thy vows <u>unto the</u> Most Highest.<br/>
+<br/>
+15 And call upon me in the <u>time of</u> trouble; *<br/>
+so will I hear thee, <u>and thou</u> shalt praise me.<br/>
+<br/>
+16 But unto the un<u>godly saith</u> God, *<br/>
+Why dost thou preach my laws, and takest <u>my cove</u>nant in thy<br/>
+mouth;<br/>
+<br/>
+17 Whereas thou hatest to <u>be re</u>formed, *<br/>
+and hast cast <u>my words</u> behind thee?<br/>
+<br/>
+18 When thou sawest a thief, thou con<u>sentedst</u> unto him; *<br/>
+and hast been partak<u>er with the</u> adulterers.<br/>
+<br/>
+19 Thou hast let thy <u>mouth speak</u> wickedness, *<br/>
+and with thy tongue <u>thou hast</u> set forth deceit.<br/>
+<br/>
+20 Thou sattest and spakest ag<u>ainst thy</u> brother; *<br/>
+yea, and hast slan<u>dered thine</u> own mother's son.<br/>
+<br/>
+21 These things hast thou done, and I held my tongue,<br/>
+&nbsp;&nbsp;and thou thoughtest wickedly, that I am even such a one <u>as thy</u>self;<br/>
+* but I will reprove thee, and set before thee <u>the things</u> that thou<br/>
+hast done.<br/>
+<br/>
+22 O consider this, <u>ye that for</u>get God, *<br/>
+lest I pluck you away, and there <u>be none to</u> deliver you.<br/>
+<br/>
+23 Whoso offereth me thanks and <u>praise, he</u> honoureth me; *<br/>
+and to him that ordereth his way aright, will I show the <u>salva</u>tion of<br/>
+God.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '51': {
+    tone: '4',
+    text: `
+Have mercy upon me, O God, after <u>thy great</u> goodness; *<br/>
+according to the multitude of thy mercies do <u>away mine</u> offences.<br/>
+<br/>
+2 Wash me throughly <u>from my</u> wickedness, *<br/>
+<u>and cleanse</u> me from my sin.<br/>
+<br/>
+3 For I ac<u>knowledge my</u> faults, *<br/>
+and my sin <u>is ever</u> before me.<br/>
+<br/>
+4 Against thee only have I sinned, and done this evil <u>in thy</u> sight; *<br/>
+that thou mightest be justified in thy saying,<br/>
+&nbsp;&nbsp;<u>and clear</u> when thou shalt judge.<br/>
+<br/>
+5 Behold, I was <u>shapen in</u> wickedness, *<br/>
+and in sin hath <u>my mother</u> conceived me.<br/>
+<br/>
+6 But lo, thou requirest truth in the <u>inward</u> parts, *<br/>
+and shalt make me to under<u>stand wis</u>dom secretly.<br/>
+<br/>
+7 Thou shalt purge me with hyssop, and <u>I shall be</u> clean; *<br/>
+thou shalt wash me, and I shall <u>be whit</u>er than snow.<br/>
+<br/>
+8 Thou shalt make me hear of <u>joy and</u> gladness, *<br/>
+that the bones which thou <u>hast bro</u>ken may rejoice.<br/>
+<br/>
+9 Turn thy face <u>from my</u> sins, *<br/>
+and put <u>out all</u> my misdeeds.<br/>
+<br/>
+10 Make me a clean <u>heart, O</u> God, *<br/>
+and renew a <u>right spirit</u> within me.<br/>
+<br/>
+11 Cast me not away <u>from thy</u> presence, *<br/>
+and take not thy ho<u>ly Spi</u>rit from me.<br/>
+<br/>
+12 O give me the comfort of thy <u>help a</u>gain, *<br/>
+and stablish me <u>with thy</u> free Spirit.<br/>
+<br/>
+13 Then shall I teach thy ways un<u>to the</u> wicked, *<br/>
+and sinners shall be <u>convert</u>ed unto thee.<br/>
+<br/>
+14 Deliver me from blood-guiltiness, O God,<br/>
+&nbsp;&nbsp;thou that art the God <u>of my</u> health; *<br/>
+and my tongue <u>shall sing of</u> thy righteousness.<br/>
+<br/>
+15 Thou shalt open my <u>lips, O</u> Lord, *<br/>
+and <u>my mouth</u> shall show thy praise.<br/>
+<br/>
+16 For thou desirest no sacrifice, else <u>would I</u> give it thee; *<br/>
+but thou delightest <u>not in</u> burnt-offerings.<br/>
+<br/>
+17 The sacrifice of God is a <u>troubled</u> spirit: *<br/>
+a broken and contrite heart, <u>O God, shalt</u> thou not despise.<br/>
+<br/>
+18 O be favourable and gracious <u>unto</u> Sion; *<br/>
+build thou <u>the walls of</u> Jerusalem.<br/>
+<br/>
+19 Then shalt thou be pleased with the sacrifice of righteousness,<br/>
+&nbsp;&nbsp;with the burnt-offerings <u>and ob</u>lations; *<br/>
+then shall they offer young bullocks <u>upon</u> thine altar.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
+    `,
+  },
+  '52': {
+    tone: '5',
+    text: `
+Why boastest thou thyself, thou <u>ty</u>rant, *<br/>
+that thou <u>canst do</u> mischief;<br/>
+<br/>
+2 Whereas the goodness of <u>God</u> *<br/>
+en<u>dureth yet</u> daily?<br/>
+<br/>
+3 Thy tongue imagineth <u>wick</u>edness, *<br/>
+and with lies thou cuttest <u>like a sharp</u> razor.<br/>
+<br/>
+4 Thou hast loved unrighteousness more than <u>good</u>ness, *<br/>
+and falsehood <u>more than</u> righteousness.<br/>
+<br/>
+5 Thou hast loved to speak all words that may do <u>hurt</u>, *<br/>
+<u>O thou</u> false tongue.<br/>
+<br/>
+6 Therefore shall God destroy thee for <u>ev</u>er; *<br/>
+he shall take thee, and pluck thee out of thy dwelling,<br/>
+&nbsp;&nbsp;and root thee out of the <u>land of the</u> living.<br/>
+<br/>
+7 The righteous also shall see this, and <u>fear</u>, *<br/>
+and shall <u>laugh him</u> to scorn:<br/>
+<br/>
+8 Lo, this is the man that took not God for his <u>strength</u>; *<br/>
+but trusted unto the multitude of his riches,<br/>
+&nbsp;&nbsp;and strengthened himself <u>in his</u> wickedness.<br/>
+<br/>
+9 As for me, I am like a green olive-tree in the house of <u>God</u>; *<br/>
+my trust is in the tender mercy of God for <u>ever and</u> ever.<br/>
+<br/>
+10 I will alway give thanks unto thee for that thou hast <u>done</u>; *<br/>
+and I will hope in thy Name, for thy <u>saints like</u> it well.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
+  '53': {
+    tone: '2',
+    text: `
+The foolish body hath said in his <u>heart</u>, *<br/>
+There <u>is</u> no God.<br/>
+<br/>
+2 Corrupt are they, and become abominable in their <u>wick</u>edness; *<br/>
+there is none that <u>do</u>eth good.<br/>
+<br/>
+3 God looked down from heaven upon the children of <u>men</u>, *<br/>
+to see if there were any that would understand, and <u>seek af</u>ter God.<br/>
+<br/>
+4 But they are all gone out of the way,<br/>
+&nbsp;&nbsp;they are altogether become a<u>bo</u>minable; *<br/>
+there is also none that doeth good, <u>no</u> not one.<br/>
+<br/>
+5 Are not they without understanding that work <u>wick</u>edness, *<br/>
+eating up my people as if they would eat bread?<br/>
+&nbsp;&nbsp;they have not <u>called up</u>on God.<br/>
+<br/>
+6 They were afraid where no fear <u>was</u>; *<br/>
+for God hath broken the bones of him that besieged thee;<br/>
+&nbsp;&nbsp;thou hast put them to confusion, because God <u>hath</u> despised them.<br/>
+<br/>
+7 O that the salvation were given unto Israel out of <u>Si</u>on! *<br/>
+O that the Lord would deliver his people <u>out of</u> captivity!<br/>
+<br/>
+8 Then should Jacob re<u>joice</u>, *<br/>
+&nbsp;&nbsp;and Israel should <u>be</u> right glad.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
