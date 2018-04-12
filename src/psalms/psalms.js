@@ -2849,4 +2849,76 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '49': {
+    tone: '2',
+    text: `
+O hear ye this, all ye <u>peo</u>ple; *<br/>
+ponder it with your ears, all ye that <u>dwell in</u> the world;<br/>
+<br/>
+2 High and low, rich and <u>poor</u>, *<br/>
+one <u>with</u> another.<br/>
+<br/>
+3 My mouth shall speak of <u>wis</u>dom, *<br/>
+and my heart shall muse of <u>un</u>derstanding.<br/>
+<br/>
+4 I will incline mine ear to the <u>pa</u>rable, *<br/>
+and show my dark speech up<u>on</u> the harp.<br/>
+<br/>
+5 Wherefore should I fear in the days of <u>ev</u>il, *<br/>
+when wickedness at my heels compasseth me <u>round</u> about?<br/>
+<br/>
+6 There be some that put their trust in their <u>goods</u>, *<br/>
+and boast themselves in the multitude <u>of</u> their riches.<br/>
+<br/>
+7 But no man may deliver his <u>bro</u>ther, *<br/>
+nor give a ransom unto <u>God</u> for him,<br/>
+<br/>
+8 (For it cost more to redeem their <u>souls</u>, *<br/>
+so that he must let that al<u>one</u> for ever;)<br/>
+<br/>
+9 That he shall live <u>al</u>way, *<br/>
+and not <u>see</u> the grave.<br/>
+<br/>
+10 For he seeth that wise men also die and perish to<u>get</u>her, *<br/>
+as well as the ignorant and foolish, and leave their <u>riches</u> for other.<br/>
+<br/>
+11 And yet they think that their houses shall continue for ever,<br/>
+&nbsp;&nbsp;and that their dwelling-places shall endure from one generation to<br/>
+a<u>no</u>ther; *<br/>
+and call the lands after <u>their</u> own names.<br/>
+<br/>
+12 Nevertheless, man being in honour abideth <u>not</u>, *<br/>
+seeing he may be compared unto the <u>beasts</u> that perish;<br/>
+<br/>
+13 This their way is very <u>fool</u>ishness; *<br/>
+yet their posterity <u>praise</u> their saying.<br/>
+<br/>
+14 They lie in the grave like sheep; death is their shepherd;<br/>
+&nbsp;&nbsp;and the righteous shall have dominion over them in the <u>morn</u>ing: *<br/>
+their beauty shall consume in the sepulchre, and have <u>no</u> abiding.<br/>
+<br/>
+15 But God hath delivered my soul from the power of the <u>grave</u>; *<br/>
+for <u>he shall</u> receive me.<br/>
+<br/>
+16 Be not thou afraid, though one be made <u>rich</u>, *<br/>
+or if the glory of his <u>house be</u> increased;<br/>
+<br/>
+17 For he shall carry nothing away with him when he <u>di</u>eth, *<br/>
+neither shall his pomp <u>fo</u>llow him.<br/>
+<br/>
+18 For while he lived, he counted himself an happy <u>man</u>; *<br/>
+and so long as thou doest well unto thyself,<br/>
+&nbsp;&nbsp;men <u>will</u> speak good of thee.<br/>
+<br/>
+19 He shall follow the generation of his <u>fa</u>thers, *<br/>
+and shall <u>never</u> see light.<br/>
+<br/>
+20 Man that is in honour but hath no under<u>stand</u>ing *<br/>
+is compared unto the <u>beasts</u> that perish.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
