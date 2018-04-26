@@ -3561,50 +3561,95 @@ As it was in the beginning, is now, and ever shall be,<br/>
     tone: '1',
     text: `
 My soul truly waiteth <u>still up</u>on God; *<br/>
-for of him|cometh|my sal-|vation.<br/>
+for of him | cometh | my sal- | vation.<br/>
 <br/>
 2 He verily is my strength and <u>my sal</u>vation; *<br/>
-he is my defence, so that I|shall not|greatly|fall.<br/>
+he is my defence, so that I | shall not | greatly | fall.<br/>
 <br/>
 3 How long will ye imagine mischief a<u>gainst ev</u>ery man? *<br/>
 Ye shall be slain all the sort of you;<br/>
 &nbsp;&nbsp;yea, as a tottering wall shall ye be,<br/>
-&nbsp;&nbsp;and|like a|broken|hedge.<br/>
+&nbsp;&nbsp;and | like a | broken | hedge.<br/>
 <br/>
 4 Their device is only how to put him out whom <u>God will</u> exalt; *<br/>
 their delight is in lies;<br/>
-&nbsp;&nbsp;they give good words with their|mouth, but|curse with|their<br/>
+&nbsp;&nbsp;they give good words with their | mouth, but | curse with | their<br/>
 heart.<br/>
 <br/>
 5 Nevertheless, my soul, wait thou <u>still up</u>on God; *<br/>
-for my|hope is|in|him.<br/>
+for my | hope is | in | him.<br/>
 <br/>
 6 He truly is my strength and <u>my sal</u>vation; *<br/>
-he is my defence, so that|I shall|not|fall.<br/>
+he is my defence, so that | I shall | not | fall.<br/>
 <br/>
 7 In God is my <u>health and my</u> glory; *<br/>
-the rock of my might;|and in|God is|my trust.<br/>
+the rock of my might; | and in | God is | my trust.<br/>
 <br/>
 8 O put your trust in him <u>alway, ye</u> people; *<br/>
-pour out your hearts before him, for|God is|our|hope.<br/>
+pour out your hearts before him, for | God is | our | hope.<br/>
 <br/>
 9 As for the children of men, they are but vanity;<br/>
 &nbsp;&nbsp;the children of <u>men are de</u>ceitful; *<br/>
-upon the weights they are altogether lighter than|vani-|ty it-|self.<br/>
+upon the weights they are altogether lighter than | vani- | ty it- | self.<br/>
 <br/>
 10 O trust not in wrong and robbery;<br/>
 &nbsp;&nbsp;give not your<u>selves unto</u> vanity: *<br/>
-if riches increase, set|not your|heart up-|on them.<br/>
+if riches increase, set | not your | heart up- | on them.<br/>
 <br/>
 11 God spake once, and twice I have <u>also</u> heard the same, *<br/>
-that power be-|longeth|unto|God;<br/>
+that power be- | longeth | unto | God;<br/>
 <br/>
 12 And that thou, <u>Lord, art</u> merciful; *<br/>
-for thou rewardest every man ac-|cording|to his|work.<br/>
+for thou rewardest every man ac- | cording | to his | work.<br/>
 <br/>
 Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
 As it was in the beginning, is now, and ever shall be,<br/>
-&nbsp;&nbsp;world|without|end.|Amen.<br/>
+&nbsp;&nbsp;world | without | end. | Amen.<br/>
+    `,
+  },
+  '63': {
+    tone: '4',
+    text: `
+O God, thou <u>art my</u> God; *<br/>
+ear<u>ly will</u> I seek thee.<br/>
+<br/>
+2 My soul thirsteth for thee, my flesh also <u>longeth</u> after thee, *<br/>
+in a barren and dry <u>land where</u> no water is.<br/>
+<br/>
+3 Thus have I looked for thee <u>in the</u> sanctuary, *<br/>
+that I might behold <u>thy power</u> and glory.<br/>
+<br/>
+4 For thy loving-kindness is better than <u>life it</u>self: *<br/>
+<u>my lips</u> shall praise thee.<br/>
+<br/>
+5 As long as I live will I magnify thee <u>in this</u> manner, *<br/>
+and lift up <u>my hands</u> in thy Name.<br/>
+<br/>
+6 My soul shall be satisfied, even as it were with <u>marrow and</u> fatness,<br/>
+* when my mouth prais<u>eth thee</u> with joyful lips.<br/>
+<br/>
+7 Have I not remembered thee <u>in my</u> bed, *<br/>
+and thought upon thee <u>when I</u> was waking?<br/>
+<br/>
+8 Because thou hast <u>been my</u> helper; *<br/>
+therefore under the shadow of <u>thy wings</u> will I rejoice.<br/>
+<br/>
+9 My soul <u>hangeth up</u>on thee; *<br/>
+thy <u>right hand hath</u> upholden me.<br/>
+<br/>
+10 These also that seek the <u>hurt of my</u> soul, *<br/>
+<u>they shall</u> go under the earth.<br/>
+<br/>
+11 Let them fall upon the <u>edge of the</u> sword, *<br/>
+that they may be <u>a portion</u> for foxes.<br/>
+<br/>
+12 But the King shall rejoice in God;<br/>
+&nbsp;&nbsp;all they also that swear by him shall <u>be com</u>mended; *<br/>
+for the mouth of them <u>that speak</u> lies shall be stopped.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the <u>Holy</u> Spirit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
 };
