@@ -3652,4 +3652,44 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world with</u>out end. Amen.<br/>
     `,
   },
+  '64': {
+    tone: '5',
+    text: `
+Hear my voice, O God, in my <u>prayer</u>; *<br/>
+preserve my life from <u>fear of the</u> enemy.<br/>
+<br/>
+2 Hide me from the gathering together of the <u>fro</u>ward, *<br/>
+and from the insurrection of <u>wicked</u> doers;<br/>
+<br/>
+3 Who have whet their tongue like a <u>sword</u>, *<br/>
+and shoot out their arrows, <u>even</u> bitter words;<br/>
+<br/>
+4 That they may privily shoot at him that is <u>per</u>fect: *<br/>
+suddenly do they <u>hit him, and</u> fear not.<br/>
+<br/>
+5 They encourage themselves in <u>mis</u>chief, *<br/>
+and commune among themselves, how they may lay snares;<br/>
+&nbsp;&nbsp;and say, that no <u>man shall</u> see them.<br/>
+<br/>
+6 They imagine wickedness, and <u>prac</u>tice it; *<br/>
+that they keep secret among themselves,<br/>
+&nbsp;&nbsp;every man in the <u>deep of</u> his heart.<br/>
+<br/>
+7 But God shall suddenly shoot at them with a swift <u>ar</u>row, *<br/>
+that <u>they shall be</u> wounded.<br/>
+<br/>
+8 Yea, their own tongues shall make them <u>fall</u>; *<br/>
+insomuch that whoso seeth them shall <u>laugh them</u> to scorn.<br/>
+<br/>
+9 And all men that see it shall say, This hath God <u>done</u>; *<br/>
+for they shall perceive that <u>it is</u> his work.<br/>
+<br/>
+10 The righteous shall rejoice in the LORD , and put his <u>trust</u> in him; *<br/>
+and all they that are true of <u>heart shall</u> be glad.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
+    `,
+  },
 };
