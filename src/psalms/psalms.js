@@ -3692,4 +3692,63 @@ As it was in the beginning, is now, and ever shall be,<br/>
 &nbsp;&nbsp;<u>world without</u> end. Amen.<br/>
     `,
   },
+  '65': {
+    tone: '2',
+    text: `
+Thou, O God, art praised in <u>Si</u>on; *<br/>
+and unto thee shall the vow be performed <u>in</u> Jerusalem.<br/>
+<br/>
+2 Thou that hearest the <u>prayer</u>, *<br/>
+unto thee shall <u>all</u> flesh come.<br/>
+<br/>
+3 My misdeeds prevail a<u>gainst</u> me: *<br/>
+O be thou merciful <u>unto</u> our sins.<br/>
+<br/>
+4 Blèssed is the man whom thou choosest, and receivest <u>un</u>to thee: *<br/>
+he shall dwell in thy court, and shall be satisfied with the pleasures of<br/>
+thy house,<br/>
+&nbsp;&nbsp;even of thy <u>ho</u>ly temple.<br/>
+<br/>
+5 Thou shalt show us wonderful things in thy righteousness, O God<br/>
+of our sal<u>va</u>tion; *<br/>
+thou that art the hope of all the ends of the earth,<br/>
+&nbsp;&nbsp;and of them that remain <u>in the</u> broad sea.<br/>
+<br/>
+6 Who in his strength setteth fast the <u>moun</u>tains, *<br/>
+and is girded ab<u>out</u> with power.<br/>
+<br/>
+7 Who stilleth the raging of the <u>sea</u>, *<br/>
+and the noise of his waves, and the madness <u>of</u> the peoples.<br/>
+<br/>
+8 They also that dwell in the uttermost parts of the earth shall be<br/>
+afraid at thy <u>to</u>kens, *<br/>
+thou that makest the out-goings of the morning and <u>evening</u> to praise<br/>
+thee.<br/>
+<br/>
+9 Thou visitest the earth, and <u>bless</u>est it; *<br/>
+thou makest it <u>ve</u>ry plenteous.<br/>
+<br/>
+10 The river of God is full of <u>wa</u>ter: *<br/>
+thou preparest their corn, for so thou providest <u>for</u> the earth.<br/>
+<br/>
+11 Thou waterest her furrows;<br/>
+&nbsp;&nbsp;thou sendest rain into the little valleys there<u>of</u>; *<br/>
+thou makest it soft with the drops of rain,<br/>
+&nbsp;&nbsp;and blessest the <u>in</u>crease of it.<br/>
+<br/>
+12 Thou crownest the year with thy <u>good</u>ness; *<br/>
+and thy <u>clouds</u> drop fatness.<br/>
+<br/>
+13 They shall drop upon the dwellings of the <u>wil</u>derness; *<br/>
+and the little hills shall rejoice on <u>eve</u>ry side.<br/>
+<br/>
+14 The folds shall be full of <u>sheep</u>; *<br/>
+the valleys also shall stand so thick with corn,<br/>
+&nbsp;&nbsp;that they shall <u>laugh</u> and sing.<br/>
+<br/>
+Glory be to the Father, and to the Son, and to the Holy <u>Spi</u>rit; *<br/>
+As it was in the beginning, is now, and ever shall be,<br/>
+&nbsp;&nbsp;world without <u>end</u>. Amen.<br/>
+    `,
+  },
 };
