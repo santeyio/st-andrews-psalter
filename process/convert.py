@@ -45,7 +45,7 @@ def parse_line(line):
                 print "**********************************************************************"
                 print "***************** GOT DUPLICATE MATCHES ON REGEX *********************"
                 print "**********************************************************************"
-                return line
+                return '<<<EDIT>>>' + line
     out = line.replace(user_input, '__' + user_input + '__')
     return prepend + out
 

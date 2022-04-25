@@ -17,6 +17,7 @@ Sometimes only a single vowel or a consonant and a vowl (e.g. 'in') will be unde
 # Notes to go back and correct later:
 
 Psalm 68 switches tones halfway through
+Psalm 78 switches tones halfway through (at verse 57)
 
 ## Temp Notes:
 
